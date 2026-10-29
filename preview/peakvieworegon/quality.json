@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "peakvieworegon",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://peakvieworegon.com/photos/IMG_1351.webp",
+      "assetType": "project",
+      "subject": "House exterior after window and door replacement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://peakvieworegon.com/photos/IMG_1344.webp",
+      "assetType": "project",
+      "subject": "Black-framed Andersen window from the room side",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://peakvieworegon.com/photos/IMG_1350.webp",
+      "assetType": "project",
+      "subject": "Interior door opening with new millwork",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://peakvieworegon.com/photos/IMG_1346.webp",
+      "assetType": "project",
+      "subject": "Living room window with new casing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://peakvieworegon.com/photos/IMG_1345.webp",
+      "assetType": "project",
+      "subject": "Door jamb and trim after a clean install",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://peakvieworegon.com/photos/IMG_1349.webp",
+      "assetType": "project",
+      "subject": "Wide replacement window looking onto the yard",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
