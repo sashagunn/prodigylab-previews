@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "zionelectricandsolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.zionelectricandsolar.com/images/zion-ballast-solar-array-2400.webp",
+      "assetType": "site",
+      "subject": "Ballasted solar array on a flat roof with the red and white cliffs of ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.zionelectricandsolar.com/images/mountain-cabin-ground-mount-solar-1600.webp",
+      "assetType": "site",
+      "subject": "Ground-mounted solar panels on a rock gabion wall beside a wood-sided ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.zionelectricandsolar.com/images/tesla-powerwall-exterior-wall-1600.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.zionelectricandsolar.com/images/tile-roof-solar-desert-hills-1600.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.zionelectricandsolar.com/images/tile-roof-solar-valley-view-1600.webp",
+      "assetType": "site",
+      "subject": "Black solar panels on a gray tile roof, with a town, mesas and snow-ca",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.zionelectricandsolar.com/images/eg4-12000xp-battery-room-1600.webp",
+      "assetType": "site",
+      "subject": "Three EG4 12000XP inverters above a row of EG4 batteries in an equipme",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

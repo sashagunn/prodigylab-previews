@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "brightspotsolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://brightspotsolar.us/cdn-cgi/image/width=1920,quality=75,format=auto/ShawDrive(60trackeraerialpic).jpg",
+      "assetType": "project",
+      "subject": "Rochester Megawatt Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://brightspotsolar.us/cdn-cgi/image/width=1920,quality=75,format=auto/Lilac%20Car%20Wash%204%20trackers.jpg",
+      "assetType": "project",
+      "subject": "Lilac Car Wash, NH",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://brightspotsolar.us/cdn-cgi/image/width=1920,quality=75,format=auto/Outlook%2018%20Trackers.jpg",
+      "assetType": "project",
+      "subject": "Outlook, Berwick ME",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://brightspotsolar.us/cdn-cgi/image/width=1920,quality=75,format=auto/PipStorage%20Job%2011Trackers%20through%20the%20roof%20of%20the%20storage%20building.jpg",
+      "assetType": "project",
+      "subject": "PIP Storage, NH",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://brightspotsolar.us/cdn-cgi/image/width=1920,quality=75,format=auto/pretty-residential-tracker.jpg",
+      "assetType": "project",
+      "subject": "Residential Tracker System, NH",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://brightspotsolar.us/cdn-cgi/image/width=1920,quality=75,format=auto/Residential%201%20tracker.jpg",
+      "assetType": "project",
+      "subject": "Residential Tracker System, NH",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

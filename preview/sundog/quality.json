@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "sundog",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/664e93321bef4e12af3a98d0/5c0dfeb0-f979-40bd-b755-5ac708d62a34/17.20+kW+%28Skowhegan1%29.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "A house with solar panels on the roof, a front porch, and a landscaped",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/664e93321bef4e12af3a98d0/dd73081c-d459-4b39-9c4d-65b4b048f2c0/tremont00014.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Aerial view of a solar panel array in a snowy landscape with trees, mo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/664e93321bef4e12af3a98d0/2501c246-f4d8-4f51-9030-905f5e8a0ad5/DJI_0034.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Aerial view of a car dealership lot filled with numerous cars of vario",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/664e93321bef4e12af3a98d0/30003b80-222d-4578-bde0-f54a84c0cf32/DJI_0020.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Aerial view of a house with solar panels on the roof, surrounded by tr",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/664e93321bef4e12af3a98d0/3cb81b6d-b24e-479d-ac9f-7f1a05825f14/DJI_0008.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Aerial view of a farm building with a red metal roof covered with sola",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/664e93321bef4e12af3a98d0/3ff7075c-ac49-48c6-a280-ffde7d5263ed/DJI_0014+%282%29.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Aerial view of a house with solar panels on the roof, surrounded by gr",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

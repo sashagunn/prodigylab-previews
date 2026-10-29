@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "crawford-company",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://crawford-company.com/app/default/assets/hero/Welded%20Spools.jpg?v=1755702870",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://crawford-company.com/app/default/assets/addons/default/crawford/crawford-theme/resources/images/dubuque-bg.jpg?v=1736952422",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://crawford-company.com/app/default/assets/images/elbanner4987465.jpg?v=1755702869",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://crawford-company.com/app/default/assets/addons/default/crawford/crawford-theme/resources/images/37f2ef85be26af059132d53ec94cf2d8.jpg?v=1755702959",
+      "assetType": "site",
+      "subject": "Banner Cornerimg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://crawford-company.com/app/default/assets/addons/default/crawford/crawford-theme/resources/images/centennial-bridge.jpg?v=1736952421",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://crawford-company.com/app/default/assets/addons/default/crawford/crawford-theme/resources/images/impact-image.jpg?v=1755702959",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

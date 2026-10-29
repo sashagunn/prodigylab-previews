@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "essentialcomfortal",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.essentialcomfortal.com/wp-content/uploads/484214153_1142959297530267_5947977740275834753_n.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.essentialcomfortal.com/wp-content/uploads/594074211_1347487380410790_6433507430231782292_n.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.essentialcomfortal.com/wp-content/uploads/air-conditioners-raised-platforms-at-beach-serviced-by-hvac-technicians-.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.essentialcomfortal.com/wp-content/uploads/hvac-fan-closeup.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.essentialcomfortal.com/wp-content/uploads/HVAC-system-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.essentialcomfortal.com/wp-content/uploads/IMG_0643-2048x1536.jpeg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

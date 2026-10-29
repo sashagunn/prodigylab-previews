@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "willismech",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.willismech.com/assets/mid-crane-sky.jpg",
+      "assetType": "project",
+      "subject": "Crane lift for mechanical equipment",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.willismech.com/assets/new-work-service.jpg",
+      "assetType": "site",
+      "subject": "Willis Mechanical technicians working on commercial equipment outdoors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.willismech.com/assets/new-feature.jpg",
+      "assetType": "site",
+      "subject": "Willis Mechanical technician servicing commercial mechanical equipment",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.willismech.com/assets/new-work-piping.jpg",
+      "assetType": "site",
+      "subject": "Dense insulated refrigerant piping, filter dryers, and a liquid CO2 re",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.willismech.com/assets/strip-03.jpg",
+      "assetType": "site",
+      "subject": "Technician brazing a refrigerant line on a rooftop unit with the Atlan",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.willismech.com/assets/strip-04.jpg",
+      "assetType": "site",
+      "subject": "Technician in a Willis Mechanical shirt beside an industrial refrigera",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

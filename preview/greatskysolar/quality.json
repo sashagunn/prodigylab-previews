@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "greatskysolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://framerusercontent.com/images/8XaEXL5GWQn1uFO9aZSFlfyiA.jpg?width=2048&height=1153",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://framerusercontent.com/images/cXsKwf7F572Wr08lt8w3kyM7L4.jpeg?width=2048&height=1365",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://framerusercontent.com/images/GGo2m1hRqt4QmSNrgX4nkjM7vGk.jpg?width=4000&height=3000",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://framerusercontent.com/images/MwW7qNMWDYMrwdzCdzqF4aqJ0w.jpg?width=5472&height=3648",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://framerusercontent.com/images/ZScvilkGWGiowclNFxt1y8AnkUI.jpg?width=5712&height=4284",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://framerusercontent.com/images/s4f3eNJocEN2SCRva5XKEJ72ads.webp?width=1600&height=1200",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "highpeakssolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://highpeakssolar.com/wp-content/uploads/2026/10/DJI_0540-scaled.jpg",
+      "assetType": "site",
+      "subject": "Community Solar project in Rensselaer County",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://highpeakssolar.com/wp-content/uploads/2018/03/fullsizeoutput_a25.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://highpeakssolar.com/wp-content/uploads/2019/02/Home_page_NYSerda.jpg",
+      "assetType": "site",
+      "subject": "Home_page_NYSerda",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://highpeakssolar.com/wp-content/uploads/2019/06/IMG_3419.jpg",
+      "assetType": "site",
+      "subject": "IMG_3419",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://highpeakssolar.com/wp-content/uploads/2020/11/59794089_2708804039191159_996094901256978432_o.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://highpeakssolar.com/wp-content/uploads/2026/10/DJI_0544-2-scaled.jpg",
+      "assetType": "site",
+      "subject": "default",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

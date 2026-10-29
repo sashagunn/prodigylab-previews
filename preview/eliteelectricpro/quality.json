@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "eliteelectricpro",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://eliteelectricpro.com/wp-content/uploads/2025/11/jpeg-47.jpeg",
+      "assetType": "site",
+      "subject": "Rooftop solar system on a Utah home by Elite Electric",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://eliteelectricpro.com/wp-content/uploads/2026/03/Residential-solar-work-picture-scaled.jpg",
+      "assetType": "site",
+      "subject": "Residential solar service by Elite Electric Sandy UT",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://eliteelectricpro.com/wp-content/uploads/2026/05/Electrical-panel-in-utility-setting-by-Elite-Electric.jpg",
+      "assetType": "site",
+      "subject": "Electrical panel installed in a utility room by Elite Electric in Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://eliteelectricpro.com/wp-content/uploads/2026/05/Electrician-at-work-Elite-Electric.jpg",
+      "assetType": "site",
+      "subject": "Electrical services Sandy UT — Elite Electric DOPL licensed electricia",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://eliteelectricpro.com/wp-content/uploads/2026/09/Elite-electric-service-areas-for-business.jpg",
+      "assetType": "site",
+      "subject": "Elite Electric service areas across Utah counties",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://eliteelectricpro.com/wp-content/uploads/2025/11/unnamed-scaled.jpg",
+      "assetType": "site",
+      "subject": "Christian Project Manager Elite Electric",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

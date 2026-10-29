@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "airprosalabama",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://airprosalabama.com/assets/projects-C0JiNpyl.jpg",
+      "assetType": "project",
+      "subject": "AirPros commercial HVAC project in Alabama",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://airprosalabama.com/assets/heating-repair-tuscaloosa-BqQIJ71o.jpg",
+      "assetType": "site",
+      "subject": "AirPros technician repairing a residential heat pump in Tuscaloosa",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://airprosalabama.com/__l5e/assets-v1/82c757ca-413d-4653-93d1-fb7bcd8f525b/AirPros-Residential-HVAC-High-Resolution.webp",
+      "assetType": "site",
+      "subject": "Two high-efficiency residential air conditioning systems installed bes",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://airprosalabama.com/__l5e/assets-v1/740e1266-87d2-4e9a-af67-b9d6f4ce75a8/apartment-hvac-rooftop.webp",
+      "assetType": "site",
+      "subject": "Commercial HVAC rooftop units serviced by AirPros in Alabama",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://airprosalabama.com/__l5e/assets-v1/b172e5ef-2cb8-4e8c-8d1e-1d3baef59527/airpros-homepage-hero-truck.webp",
+      "assetType": "site",
+      "subject": "AirPros HVAC technician servicing equipment in Tuscaloosa, Alabama",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://airprosalabama.com/__l5e/assets-v1/5d4ec295-c93a-40ba-91bc-a44a9283ad12/airpros-hvac-tech-residential.webp",
+      "assetType": "site",
+      "subject": "AirPros technician repairing a residential AC unit in Tuscaloosa",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

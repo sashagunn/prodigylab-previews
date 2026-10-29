@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "thecherokeegroup",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://thecherokeegroup.net/images/pfsnow.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://thecherokeegroup.net/images/smokies.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://thecherokeegroup.net/images/westgate.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://thecherokeegroup.net/images/krispy-kreme.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://thecherokeegroup.net/images/laundry-01.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://thecherokeegroup.net/images/mcnabb-01.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

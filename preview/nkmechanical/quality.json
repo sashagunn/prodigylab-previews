@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "nkmechanical",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.nkmechanical.net/_next/image?url=%2Fimages%2Fproj-crane-2.jpg&w=3840&q=75&dpl=dpl_BfuDjikzBMp5TJdcAddWaHfcfaWJ",
+      "assetType": "project",
+      "subject": "Crane with boom extended setting mechanical equipment at Cummins Stati",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.nkmechanical.net/images/projects-hero.jpg",
+      "assetType": "project",
+      "subject": "NK Mechanical crew setting rooftop equipment on a Nashville commercial",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.nkmechanical.net/_next/image?url=%2Fimages%2Fproj-crane-1.jpg&w=3840&q=75&dpl=dpl_BfuDjikzBMp5TJdcAddWaHfcfaWJ",
+      "assetType": "project",
+      "subject": "NK Mechanical crew planning a crane lift at a Nashville commercial bui",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.nkmechanical.net/_next/image?url=%2Fimages%2Fproj-crane-3.jpg&w=3840&q=75&dpl=dpl_BfuDjikzBMp5TJdcAddWaHfcfaWJ",
+      "assetType": "project",
+      "subject": "NK Mechanical crew rigging equipment during a crane lift in Nashville",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.nkmechanical.net/images/crane-poster.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.nkmechanical.net/_next/image?url=%2Fimages%2Fabout-team.jpg&w=1920&q=75&dpl=dpl_BfuDjikzBMp5TJdcAddWaHfcfaWJ",
+      "assetType": "site",
+      "subject": "The NK Mechanical team on a commercial rooftop job site",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

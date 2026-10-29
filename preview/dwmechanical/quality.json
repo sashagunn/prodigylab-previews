@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "dwmechanical",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b9e1490955a74581fa2719/304d2a10-e3f4-43fc-bf90-2546e482fdf0/DSC01801.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b9e1490955a74581fa2719/397ff7e3-5a30-4196-bac8-cdc862eb7e58/Prints+00++02.12.2026+BW.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Prints 00  02.12.2026 BW.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b9e1490955a74581fa2719/3cbe1526-d0a6-4884-baa4-4c482c6162d7/0Y3A0940_1_2_3_4_1920.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b9e1490955a74581fa2719/4e2afb3c-8e78-4b5a-8667-5035fdc94be0/DSC01814.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "DSC01814.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b9e1490955a74581fa2719/55ee424b-2994-41ba-a412-a9d3df361039/DSC09540.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "DSC09540.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b9e1490955a74581fa2719/659a3715-2424-4446-b801-af69dbb8864c/Jake+because+he+didn%27t+want+his+picture.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Jake because he didn't want his picture.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

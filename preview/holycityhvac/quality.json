@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "holycityhvac",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.holycityhvac.com/rainbow-row-charleston.jpg",
+      "assetType": "project",
+      "subject": "Rainbow Row's pastel historic houses on East Bay Street in Charleston,",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.holycityhvac.com/community-toys-for-tots.webp",
+      "assetType": "project",
+      "subject": "Toys for Tots drive with the wrapped van",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.holycityhvac.com/van-front-lowcountry.webp",
+      "assetType": "project",
+      "subject": "Wrapped van in front of a Lowcountry home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.holycityhvac.com/van-neighborhood.webp",
+      "assetType": "project",
+      "subject": "Service van parked in a Charleston neighborhood",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.holycityhvac.com/repair-refrigerant-leak.webp",
+      "assetType": "project",
+      "subject": "Refrigerant leak repair close-up",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.holycityhvac.com/fleet-live-oak.webp",
+      "assetType": "project",
+      "subject": "Wrapped vans and box truck under a live oak",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "wingmanac",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://d2if3j13w19mqs.cloudfront.net/6a621fd723d85fb8235072e4/www.wingmanac.com/wp-uploads/2026/06/about-wingman.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://d2if3j13w19mqs.cloudfront.net/6a621fd723d85fb8235072e4/www.wingmanac.com/wp-uploads/2026/06/cooling-services-alabama.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://d2if3j13w19mqs.cloudfront.net/6a621fd723d85fb8235072e4/www.wingmanac.com/wp-uploads/2026/06/expert-heating-services-auburn.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://d2if3j13w19mqs.cloudfront.net/6a621fd723d85fb8235072e4/www.wingmanac.com/wp-uploads/2026/06/indoor-air-quality-services-auburn.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://d2if3j13w19mqs.cloudfront.net/6a621fd723d85fb8235072e4/www.wingmanac.com/wp-uploads/2026/06/skilled-hvac-techs-auburn.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://d2if3j13w19mqs.cloudfront.net/6a621fd723d85fb8235072e4/www.wingmanac.com/wp-uploads/2026/06/wingman-customer-satisfaction-1.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
