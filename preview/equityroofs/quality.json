@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "equityroofs",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.equityroofs.com/hs-fs/hubfs/IMG-20231024-WA0004-1.jpg?width=2000&height=1500",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.equityroofs.com/hubfs/IMG-20230907-WA0029.jpg",
+      "assetType": "site",
+      "subject": "workmanship-equity-roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.equityroofs.com/hubfs/BG%2003.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.equityroofs.com/hubfs/BG%2005.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.equityroofs.com/hubfs/IMG_0299-1536x1157.jpeg",
+      "assetType": "site",
+      "subject": "about-equity-roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.equityroofs.com/hubfs/20-landscape-834774caf51b14f6fc4fef75c5026985-iemr83bqu2ad.jpg",
+      "assetType": "site",
+      "subject": "roofing-equity",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

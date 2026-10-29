@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "tygrig",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.tygrig.com/wp-content/uploads/tygrig/work/hero-home.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.tygrig.com/wp-content/uploads/tygrig/work/w10.jpg",
+      "assetType": "site",
+      "subject": "Two-car garage door, fresh install",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.tygrig.com/wp-content/uploads/tygrig/work/w101.jpg",
+      "assetType": "site",
+      "subject": "White two-car garage door",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.tygrig.com/wp-content/uploads/tygrig/work/w107.jpg",
+      "assetType": "site",
+      "subject": "White carriage-style garage doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.tygrig.com/wp-content/uploads/tygrig/work/w111.jpg",
+      "assetType": "site",
+      "subject": "Clean white sectional garage door",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.tygrig.com/wp-content/uploads/tygrig/work/w125.jpg",
+      "assetType": "site",
+      "subject": "Commercial metal building with garage doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "uvroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://uvroofing.com/_next/image?url=%2Fimages%2Fservices%2Ftile-roof-installation-tucson%2Ftile-roof-installation-tucson-1.jpg&w=3840&q=75&dpl=dpl_8QPc66XjDRa9ADWiavpVqPJNLuqj",
+      "assetType": "site",
+      "subject": "Universal Roofing tile roof installation project in Tucson",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://uvroofing.com/_next/image?url=%2Fimages%2Fservices%2Ftile-roof-installation-tucson%2Ftile-roof-installation-tucson-2.jpg&w=3840&q=75&dpl=dpl_8QPc66XjDRa9ADWiavpVqPJNLuqj",
+      "assetType": "site",
+      "subject": "Universal Roofing tile roof installation project in Tucson",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://uvroofing.com/_next/image?url=%2Fimages%2Fservices%2Ftile-roof-installation-tucson%2Ftile-roof-installation-tucson-3.jpg&w=3840&q=75&dpl=dpl_8QPc66XjDRa9ADWiavpVqPJNLuqj",
+      "assetType": "site",
+      "subject": "Universal Roofing tile roof installation project in Tucson",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://uvroofing.com/_next/image?url=%2Fimages%2Fblog%2Fblog-1.jpg&w=3840&q=75&dpl=dpl_8QPc66XjDRa9ADWiavpVqPJNLuqj",
+      "assetType": "site",
+      "subject": "Universal Roofing project in Tucson supporting how to know if your roo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://uvroofing.com/_next/image?url=%2Fimages%2Fblog%2Fblog-2.jpg&w=3840&q=75&dpl=dpl_8QPc66XjDRa9ADWiavpVqPJNLuqj",
+      "assetType": "site",
+      "subject": "Universal Roofing project in Tucson supporting how often should you in",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://uvroofing.com/_next/image?url=%2Fimages%2Fblog%2Fblog-3.jpg&w=3840&q=75&dpl=dpl_8QPc66XjDRa9ADWiavpVqPJNLuqj",
+      "assetType": "site",
+      "subject": "Universal Roofing project in Tucson supporting signs your roof is fail",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

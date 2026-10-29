@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "928roofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.928roofing.com/_next/image?url=%2Fimages%2Fcommercial-roof.jpg&w=3840&q=60",
+      "assetType": "site",
+      "subject": "Commercial Roofing in Northern Arizona by 928 Roofing & Contracting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.928roofing.com/_next/image?url=%2Fimages%2Fresidential-roof.jpg&w=3840&q=60",
+      "assetType": "site",
+      "subject": "Residential Roofing in Northern Arizona by 928 Roofing & Contracting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.928roofing.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwyk2fvfx%2Fproduction%2Fab3184585cddeb82ed1771f1eb840fb21d0879a6-1020x1320.png%3Frect%3D0%2C341%2C1020%2C638%26w%3D800%26h%3D500%26fit%3Dcrop%26auto%3Dformat&w=3840&q=75",
+      "assetType": "site",
+      "subject": "928 Roofing Standing Seam Installation Guide cover",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.928roofing.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwyk2fvfx%2Fproduction%2Fbdc01a35ab2db574350b2cdbcb440599decee5c1-1103x1426.png%3Frect%3D0%2C369%2C1103%2C689%26w%3D800%26h%3D500%26fit%3Dcrop%26auto%3Dformat&w=3840&q=75",
+      "assetType": "site",
+      "subject": "Asphalt Shingle Installation Guide",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.928roofing.com/_next/image?url=%2Fhero_poster.jpg&w=3840&q=75",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.928roofing.com/_next/image?url=%2Fimages%2Froof-repair.jpg&w=3840&q=60",
+      "assetType": "site",
+      "subject": "Roof Repairs in Northern Arizona by 928 Roofing & Contracting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "modernroofingaz",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/cb5f08_f5c03e94e37448af9ec97ce427382d23~mv2.jpg/v1/fill/w_1440,h_926,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/cb5f08_f5c03e94e37448af9ec97ce427382d23~mv2.jpg",
+      "assetType": "site",
+      "subject": "ModernRoofing-299 (1).jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/nsplsh_1cae987fe1cc427795cfff6a41590083~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/nsplsh_1cae987fe1cc427795cfff6a41590083~mv2.jpg",
+      "assetType": "site",
+      "subject": "Image by Andrew Schultz",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/nsplsh_707a383971445f504d7555~mv2_d_6000_4000_s_4_2.jpg/v1/fill/w_1440,h_683,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/nsplsh_707a383971445f504d7555~mv2_d_6000_4000_s_4_2.jpg",
+      "assetType": "site",
+      "subject": "Image by James Lee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/cb5f08_2a6ae8cc68834ded9db4b88c63c5dcc0~mv2.png/v1/fill/w_1120,h_700,al_b,q_90,enc_avif,quality_auto/cb5f08_2a6ae8cc68834ded9db4b88c63c5dcc0~mv2.png",
+      "assetType": "site",
+      "subject": "10.png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/97a456_03f49bae13ab4ac7b3c1498618b2c3cd~mv2.jpg/v1/fill/w_980,h_473,q_90,enc_avif,quality_auto/97a456_03f49bae13ab4ac7b3c1498618b2c3cd~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/97a456_287857ac3e9640cd900c5ab2d3eddb4d~mv2.jpg/v1/fill/w_980,h_473,fp_0.62_0.21,q_90,enc_avif,quality_auto/97a456_287857ac3e9640cd900c5ab2d3eddb4d~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

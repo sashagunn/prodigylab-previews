@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "doubletimegaragedoors",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://doubletimegaragedoors.com/wp-content/uploads/2025/09/Frame-1321316293.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://doubletimegaragedoors.com/wp-content/uploads/2025/09/54689678656.jpg",
+      "assetType": "project",
+      "subject": "Recent Projects",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://doubletimegaragedoors.com/wp-content/uploads/2025/09/Frame-1321316314.png",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://doubletimegaragedoors.com/wp-content/uploads/2025/10/sub-pages-hero.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://doubletimegaragedoors.com/wp-content/uploads/2025/11/IMG_3607-1-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://doubletimegaragedoors.com/wp-content/uploads/2025/11/IMG_3618-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

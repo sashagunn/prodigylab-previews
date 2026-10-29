@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "arizonapremiumroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://arizonapremiumroofing.com/wp-content/uploads/2026/09/about-hero-1200x900.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://arizonapremiumroofing.com/wp-content/uploads/2026/09/home-hero-bg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://arizonapremiumroofing.com/wp-content/uploads/2026/09/home-about-photo-940x650.webp",
+      "assetType": "site",
+      "subject": "Roofer working on a tile roof in the Phoenix area",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://arizonapremiumroofing.com/wp-content/uploads/2026/09/home-media-1-tile-roof-work-940x650.webp",
+      "assetType": "site",
+      "subject": "Roofer working on a tile roof in the Phoenix area",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://arizonapremiumroofing.com/wp-content/uploads/2026/09/home-media-2-storm-damage-940x650.webp",
+      "assetType": "site",
+      "subject": "Monsoon storm damage on a Valley roof, photographed close up",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://arizonapremiumroofing.com/wp-content/uploads/2026/09/service-roof-replacement-3-940x650.webp",
+      "assetType": "site",
+      "subject": "Completed tile roof replacement on an Arizona home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

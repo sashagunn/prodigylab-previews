@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "jenkinsslatemasters",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.jenkinsslatemasters.com/wp-content/uploads/2026/07/David-Lambeth-Project-completed-2.webp",
+      "assetType": "project",
+      "subject": "David Lambeth Project completed 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.jenkinsslatemasters.com/wp-content/uploads/2026/07/David-Lambeth-Project-completed-4.webp",
+      "assetType": "project",
+      "subject": "David Lambeth Project completed 4",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.jenkinsslatemasters.com/wp-content/uploads/2026/07/Fred-Bates-Project-complete-1.webp",
+      "assetType": "project",
+      "subject": "Fred Bates Project complete 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.jenkinsslatemasters.com/wp-content/uploads/2026/07/Fred-Bates-Project-complete-2.webp",
+      "assetType": "project",
+      "subject": "Fred Bates Project complete 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.jenkinsslatemasters.com/wp-content/uploads/2026/07/Fred-Bates-Project-complete-3.webp",
+      "assetType": "project",
+      "subject": "Fred Bates Project complete 3",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.jenkinsslatemasters.com/wp-content/uploads/2026/07/Fred-Bates-Project-complete-4.webp",
+      "assetType": "project",
+      "subject": "Fred Bates Project complete 4",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

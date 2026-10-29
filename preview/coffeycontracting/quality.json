@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "coffeycontracting",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://coffeycontracting.com/wp-content/uploads/2017/12/Box-Gutter-pic-2-e1512582369909.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://coffeycontracting.com/wp-content/uploads/2020/03/testimonial-banner-optimized.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

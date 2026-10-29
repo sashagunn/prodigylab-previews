@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "naskdoorinc",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://i0.wp.com/naskdoorinc.com/wp-content/uploads/2024/08/nask-door-swimming-pool-commerical-garage-door.jpg?w=1200&ssl=1",
+      "assetType": "project",
+      "subject": "Nask Door Swimming Pool Garage Doors Gallery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://i0.wp.com/naskdoorinc.com/wp-content/uploads/2024/06/nask-door-dark-carriage-house-wood-garage-doors.jpg?w=1200&ssl=1",
+      "assetType": "project",
+      "subject": "nask door dark carriage house wood garage doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://i0.wp.com/naskdoorinc.com/wp-content/uploads/2024/08/nask-door-artisan-medallion-garage-door-single-door.jpg?w=1200&ssl=1",
+      "assetType": "project",
+      "subject": "Nask Door Artisan Medallion Garage Door Gallery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://i0.wp.com/naskdoorinc.com/wp-content/uploads/2024/08/nask-door-artisan-wood-garage-doors.jpg?w=1200&ssl=1",
+      "assetType": "project",
+      "subject": "Nask Door Artisan Carriage House Wood Garage Doors Gallery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://i0.wp.com/naskdoorinc.com/wp-content/uploads/2024/08/nask-door-black-garage-door.jpg?w=1200&ssl=1",
+      "assetType": "project",
+      "subject": "Nask Door Black Garage Door Gallery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://i0.wp.com/naskdoorinc.com/wp-content/uploads/2024/08/nask-door-black-garage-doors-customer2.webp?w=1200&ssl=1",
+      "assetType": "project",
+      "subject": "Nask Door Black Residential Garage Doors Gallery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "customfence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://customfence.com/assets/img/chainlink-1.jpeg",
+      "assetType": "site",
+      "subject": "Chain Link Fence in Northern Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://customfence.com/assets/img/commercial-2.jpeg",
+      "assetType": "site",
+      "subject": "Temporary Fences in Northern Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://customfence.com/assets/img/farm-1.jpeg",
+      "assetType": "site",
+      "subject": "Farm & Field Fences in Northern Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://customfence.com/assets/img/gallery-1.jpeg",
+      "assetType": "site",
+      "subject": "Custom fence project in Northern Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://customfence.com/assets/img/iron-1.jpeg",
+      "assetType": "site",
+      "subject": "Ornamental Iron Fence in Northern Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://customfence.com/assets/img/trex-1.jpg",
+      "assetType": "site",
+      "subject": "Trex Composite Fence in Northern Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

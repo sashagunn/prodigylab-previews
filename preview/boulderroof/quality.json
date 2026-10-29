@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "boulderroof",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://boulderroof.com/wp-content/uploads/2025/04/House-with-pool.webp",
+      "assetType": "project",
+      "subject": "Metal Roof 2025",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://boulderroof.com/wp-content/uploads/2025/04/House-with-glass-windows-and-pool.webp",
+      "assetType": "project",
+      "subject": "Metal Roof 2025",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://boulderroof.com/wp-content/uploads/2021/06/250-rescir-asphalt-1280x993.png",
+      "assetType": "site",
+      "subject": "siding and roofing project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://boulderroof.com/wp-content/uploads/2021/04/FabricationWide.jpg",
+      "assetType": "site",
+      "subject": "Fabrication & Flashings example",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://boulderroof.com/wp-content/uploads/2025/08/Certified_Plus-scaled.png",
+      "assetType": "site",
+      "subject": "Certified_Plus",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://boulderroof.com/wp-content/uploads/2021/04/testimonials.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

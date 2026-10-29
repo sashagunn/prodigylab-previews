@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "thegaragedoorcenter",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68e3dabe10b23b19beeea082/1759763139071-TRLIQRGYSSPL16ZBW6GN/Flushmount+11.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Flushmount 11.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68e3dabe10b23b19beeea082/1759763139279-O90QKMYY7Y87EZ9D9CIM/Flush+mount+cropped.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Flush mount cropped.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68e3dabe10b23b19beeea082/1759763139305-9DIWGCZEDATRJ3XDNNTC/flushmount+13.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "flushmount 13.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68e3dabe10b23b19beeea082/1759763139416-CJNCH6RA99QP2E64TH7Z/IMG_0512+-+Copy.jpeg?format=2500w",
+      "assetType": "project",
+      "subject": "IMG_0512 - Copy.jpeg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68e3dabe10b23b19beeea082/1759763139434-B67IXRHIOQSMQ3DHBCAL/IMG_0511+-+Copy.jpeg?format=2500w",
+      "assetType": "project",
+      "subject": "IMG_0511 - Copy.jpeg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68e3dabe10b23b19beeea082/1759763139477-GS3OWRIMMYOASFFHK3I1/IMG_0513.jpeg?format=2500w",
+      "assetType": "project",
+      "subject": "IMG_0513.jpeg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

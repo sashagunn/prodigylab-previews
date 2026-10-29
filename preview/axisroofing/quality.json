@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "axisroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6ac8fe0aa7c99b007b1d3253/6ade1cf43338fa521391be0a_6ade1cb3a2715eaf81b18c50_axis-project-15.webp",
+      "assetType": "project",
+      "subject": "Bill Crook hosting training sessions for roofers of Axis Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6ac8fe0aa7c99b007b1d3253/6ade1cf43338fa521391bdf2_6ade1c8a233ece536bb61254_axis-project-03.webp",
+      "assetType": "project",
+      "subject": "Black Concrete Tiles on a Roof in Chandler Arizona for a Roof Replacem",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6ac8fe0aa7c99b007b1d3253/6ade1cf43338fa521391be01_6ade1c8b9567e4cee1e3c58a_axis-project-07.webp",
+      "assetType": "project",
+      "subject": "Husband and Wife, Bill and Rachel Crook, owners of Axis Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6ac8fe0aa7c99b007b1d3253/6ade1cf43338fa521391be04_6ade1c8a8c3c182530112c2c_axis-project-05.webp",
+      "assetType": "project",
+      "subject": "Roof Inspection by Axis Roofing on a Flat Foam Roof in Fountain Hills",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6ac8fe0aa7c99b007b1d3253/6ade1cf43338fa521391be10_6ade1cb42361ac3ad94b72a2_axis-project-19.webp",
+      "assetType": "project",
+      "subject": "Bill Crook, the owner of Axis Roofing, stands in front of the new Axis",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6ac8fe0aa7c99b007b1d3253/6ade1cf43338fa521391be13_6ade1cb3520e38f05074c69e_axis-project-18.webp",
+      "assetType": "project",
+      "subject": "To bring awareness to breast cancer, Axis Roofing Celebrates pink Octo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
