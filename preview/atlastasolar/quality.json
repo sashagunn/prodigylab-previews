@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "atlastasolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://atlastasolar.com/wp-content/uploads/2026/01/Atlasta-Response-Car.webp",
+      "assetType": "project",
+      "subject": "Atlasta Response Car",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://atlastasolar.com/wp-content/uploads/2026/01/Atlasta-Solar-Installation-Western-Colorado.webp",
+      "assetType": "project",
+      "subject": "Atlasta Solar Installation Western Colorado",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://atlastasolar.com/wp-content/uploads/2026/01/Atlasta-Technician-installing-solar-panel.webp",
+      "assetType": "project",
+      "subject": "Atlasta Technician installing solar panel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://atlastasolar.com/wp-content/uploads/2026/01/Atlasta-Technician-on-job.webp",
+      "assetType": "project",
+      "subject": "Atlasta Technician on job",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://atlastasolar.com/wp-content/uploads/2026/01/Solar-Array-Western-CO.webp",
+      "assetType": "project",
+      "subject": "Solar Array Western CO",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://atlastasolar.com/wp-content/uploads/2026/01/Atlasta-Mid-Installation-Western-CO.webp",
+      "assetType": "project",
+      "subject": "Atlasta Mid Installation Western CO",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

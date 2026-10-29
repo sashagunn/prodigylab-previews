@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "eurowood",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/2b76ef_bc62c6968d134e13871d7e42417dc01d~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b76ef_bc62c6968d134e13871d7e42417dc01d~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/2b76ef_de92b99e49d1464482019330c369aea2~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b76ef_de92b99e49d1464482019330c369aea2~mv2.jpg",
+      "assetType": "site",
+      "subject": "Leitner3.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/2b76ef_5397b845124c4164b62252b360dd5c6c.jpg/v1/fill/w_1440,h_715,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b76ef_5397b845124c4164b62252b360dd5c6c.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/2b76ef_f16562b4e50847beb67f6d8b9286aa33~mv2.jpg/v1/crop/x_251,y_131,w_967,h_620,q_85,enc_avif,quality_auto/2b76ef_f16562b4e50847beb67f6d8b9286aa33~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/2b76ef_17c42f0db30d4576bf2b1ac44fc35a9a.png/v1/fill/w_932,h_551,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b76ef_17c42f0db30d4576bf2b1ac44fc35a9a.png",
+      "assetType": "site",
+      "subject": "Eurowood Cabinets Omaha",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/2b76ef_bc62c6968d134e13871d7e42417dc01d~mv2.jpg/v1/fill/w_757,h_1000,al_c,q_85,enc_avif,quality_auto/2b76ef_bc62c6968d134e13871d7e42417dc01d~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

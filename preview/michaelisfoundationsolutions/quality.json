@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "michaelisfoundationsolutions",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://michaelisfoundationsolutions.com/_next/image?url=%2Fassets%2Fcrawl-space-encapsulation.avif&w=3840&q=75&dpl=dpl_DTRQKtjn2Ku3JUbLYRgYJTkTMkGt",
+      "assetType": "site",
+      "subject": "Encapsulated crawl space with a sealed white liner up the walls and ac",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://michaelisfoundationsolutions.com/_next/image?url=%2Fassets%2F2024-11-13-5.avif&w=3840&q=75&dpl=dpl_DTRQKtjn2Ku3JUbLYRgYJTkTMkGt",
+      "assetType": "site",
+      "subject": "Crawl space structural support work under an Indianapolis home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://michaelisfoundationsolutions.com/video/hero-poster.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://michaelisfoundationsolutions.com/_next/image?url=%2Fassets%2Fdepositphotos_3625315.avif&w=3840&q=75&dpl=dpl_DTRQKtjn2Ku3JUbLYRgYJTkTMkGt",
+      "assetType": "site",
+      "subject": "Stair-step cracking in a foundation wall",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://michaelisfoundationsolutions.com/_next/image?url=%2Fassets%2Fdepositphotos_645334862-1024x583.avif&w=3840&q=75&dpl=dpl_DTRQKtjn2Ku3JUbLYRgYJTkTMkGt",
+      "assetType": "site",
+      "subject": "Wet basement in an Indianapolis home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://michaelisfoundationsolutions.com/_next/image?url=%2Fassets%2Fmichaelis-crew-trucks.avif&w=3840&q=75&dpl=dpl_DTRQKtjn2Ku3JUbLYRgYJTkTMkGt",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

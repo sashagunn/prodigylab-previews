@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "kansascitycustomcabinet",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://kansascitycustomcabinet.com/wp-content/uploads/2014/08/DSCN0066-1024x768.jpg",
+      "assetType": "project",
+      "subject": "Berry Hill Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://kansascitycustomcabinet.com/wp-content/uploads/2014/08/2014-02-28-17.58.53-1024x576.jpg",
+      "assetType": "project",
+      "subject": "White Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://kansascitycustomcabinet.com/wp-content/uploads/2021/02/Kitchen1.jpg",
+      "assetType": "project",
+      "subject": "Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://kansascitycustomcabinet.com/wp-content/uploads/2021/04/KCCC_TealKitchenpng-002.png",
+      "assetType": "project",
+      "subject": "Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://kansascitycustomcabinet.com/wp-content/uploads/2012/12/Kansas-City-Custom-Cabinets-5-1024x790.jpg",
+      "assetType": "project",
+      "subject": "custom built in bench with window details mansion residence",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://kansascitycustomcabinet.com/wp-content/uploads/2014/08/DSCN0114-1024x768.jpg",
+      "assetType": "project",
+      "subject": "Bars",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

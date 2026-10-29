@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "prescottazsolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://i0.wp.com/prescottazsolar.com/wp-content/uploads/2023/07/Untitled-design-2.png?w=1920&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://i0.wp.com/prescottazsolar.com/wp-content/uploads/2023/08/PXL_20230731_230845588.jpg?w=3000&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://i0.wp.com/prescottazsolar.com/wp-content/uploads/2023/08/PXL_20230731_230845588.jpg?w=4032&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://i0.wp.com/prescottazsolar.com/wp-content/uploads/2023/08/PXL_20230731_230911318.jpg?w=4032&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://prescottazsolar.com/wp-content/uploads/2023/07/pxl_20230127_212549685.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://prescottazsolar.com/wp-content/uploads/2023/07/pxl_20230128_192819817.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ocotillosolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/6047be4f68d2c00f84801927/de3236d9-d232-4894-a2ad-2212051a6634/ocotillo-install-3.jpg",
+      "assetType": "site",
+      "subject": "Home with rooftop solar behind desert landscaping",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6047be4f68d2c00f84801927/1617053285034-UG6O9PQ2JX9WU3LKEPC4/Oper.jpeg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6047be4f68d2c00f84801927/1619130463751-MWYGRNNIZG4R65LU6JX3/Kinnunen_Edit.jpg?format=1500w",
+      "assetType": "site",
+      "subject": "Rooftop solar array with the Sandia Mountains in the background",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/6047be4f68d2c00f84801927/578050c2-f58e-4930-ba89-c240c7139892/ocotillo-install-2.jpg",
+      "assetType": "site",
+      "subject": "Close-up of a rooftop solar array with mountains in the distance",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/6047be4f68d2c00f84801927/84fe73a3-115a-423b-bf19-28b426c1e2c4/ocotillo-install-1.jpg",
+      "assetType": "site",
+      "subject": "Rooftop solar array with mountains in the background",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/6047be4f68d2c00f84801927/cf581957-0f67-4c0d-88f2-f389d7f5f684/ocotillo-install-6.jpg",
+      "assetType": "site",
+      "subject": "Solar panels on a patio cover",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

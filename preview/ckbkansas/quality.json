@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ckbkansas",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5ddd48bdbd77ae126a23bf54/1722354863387-KNCI2SK4KFJLT44SDHTD/DSCF2341.jpg",
+      "assetType": "site",
+      "subject": "DSCF2341.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5ddd48bdbd77ae126a23bf54/1722354874480-071UEO0ZZSG2YHJF3BZC/DSCF2336.jpg",
+      "assetType": "site",
+      "subject": "DSCF2336.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5ddd48bdbd77ae126a23bf54/1722354927213-ZU16ZS39AMQUB57Z3WEH/DSCF2343.jpg",
+      "assetType": "site",
+      "subject": "DSCF2343.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5ddd48bdbd77ae126a23bf54/1722354929089-4PQXPH1DSR2PX75A18T1/DSCF2233.jpg",
+      "assetType": "site",
+      "subject": "DSCF2233.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5ddd48bdbd77ae126a23bf54/1722354964619-OE87IWF7ACOAY266V1CK/DSCF2247.jpg",
+      "assetType": "site",
+      "subject": "DSCF2247.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5ddd48bdbd77ae126a23bf54/1722354968134-IOU22N9LVDJBXTS2KM3C/DSCF2209.jpg",
+      "assetType": "site",
+      "subject": "DSCF2209.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "organmountainsolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://organmountainsolar.com/wp-content/uploads/2021/06/20200714_140057_50.jpeg",
+      "assetType": "project",
+      "subject": "20200714_140057_50",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://organmountainsolar.com/wp-content/uploads/2021/06/Adams_5117_50.jpeg",
+      "assetType": "project",
+      "subject": "Adams_5117_50",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://organmountainsolar.com/wp-content/uploads/2021/06/Copy_of_DJI_0014_50-scaled.jpeg",
+      "assetType": "project",
+      "subject": "Copy_of_DJI_0014_50",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://organmountainsolar.com/wp-content/uploads/2021/06/DJI_0008_50-scaled.jpeg",
+      "assetType": "project",
+      "subject": "DJI_0008_50",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://organmountainsolar.com/wp-content/uploads/2021/06/DJI_0637_50-scaled.jpeg",
+      "assetType": "project",
+      "subject": "DJI_0637_50",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://organmountainsolar.com/wp-content/uploads/2021/06/Drone2_50.jpeg",
+      "assetType": "project",
+      "subject": "Drone2_50",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "chooseaccent",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://chooseaccent.com/wp-content/uploads/2026/03/Kitchen-Remodel-After-2.webp",
+      "assetType": "project",
+      "subject": "Kitchen Remodel After 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://chooseaccent.com/wp-content/uploads/2026/03/Kitchen-Remodel-After-3.webp",
+      "assetType": "project",
+      "subject": "Kitchen Remodel After 3",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://chooseaccent.com/wp-content/uploads/2026/02/06-25-AKaB-Braaten02.webp",
+      "assetType": "project",
+      "subject": "06-25-AKaB-Braaten02",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://chooseaccent.com/wp-content/uploads/2026/02/07-21-23-AKB-369-DDM_2499-02-e1775162399353.webp",
+      "assetType": "project",
+      "subject": "07-21-23-AKB-369-DDM_2499-02",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://chooseaccent.com/wp-content/uploads/2026/02/08-19-21-CC-406-Sandgren-6V3A9273-scaled-1-e1775162387192.webp",
+      "assetType": "project",
+      "subject": "08-19-21-CC-406-Sandgren-6V3A9273-scaled",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://chooseaccent.com/wp-content/uploads/2026/02/18-10-29-AK-736-2563.webp",
+      "assetType": "project",
+      "subject": "18-10-29-AK-736-2563",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

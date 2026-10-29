@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "kitchencentercolorado",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/af01cd_a921ec67877345eaad6c8bd18edf0498~mv2.jpg/v1/fill/w_1440,h_699,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/af01cd_a921ec67877345eaad6c8bd18edf0498~mv2.jpg",
+      "assetType": "site",
+      "subject": "IMG-3510.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4a3d6e_37e2fd40a4f6454a9fd4d6adc43f5eb4~mv2.jpg/v1/crop/x_0,y_807,w_3024,h_2418/fill/w_858,h_686,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Quartz%206cm%20Edge%20%26%20Full%20Height%20Splash.jpg",
+      "assetType": "site",
+      "subject": "Quartz 6cm Edge & Full Height Splash.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4a3d6e_cc4fbb89ec6a4f389090d4f16872501b~mv2.jpg/v1/fill/w_858,h_686,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Quartzite%20-%20Waterfall%20Edges_JPG.jpg",
+      "assetType": "site",
+      "subject": "Quartzite - Waterfall Edges.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/af01cd_eb318f4dc55b49479809fe19926b687e~mv2.jpg/v1/fill/w_721,h_1167,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/af01cd_eb318f4dc55b49479809fe19926b687e~mv2.jpg",
+      "assetType": "site",
+      "subject": "IMG_3498.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/af01cd_3bf5b432e1284e3287415ecf17c2b92c~mv2.jpg/v1/fill/w_720,h_743,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/af01cd_3bf5b432e1284e3287415ecf17c2b92c~mv2.jpg",
+      "assetType": "site",
+      "subject": "IMG-3953.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/af01cd_cf468eadc5b549e9b37efd1b1a1f14ce~mv2.jpg/v1/fill/w_720,h_720,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/af01cd_cf468eadc5b549e9b37efd1b1a1f14ce~mv2.jpg",
+      "assetType": "site",
+      "subject": "IMG-3511.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

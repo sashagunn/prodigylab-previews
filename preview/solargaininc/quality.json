@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "solargaininc",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://solargaininc.com/wp-content/uploads/2019/03/form-image.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://solargaininc.com/wp-content/uploads/2019/05/lush-desert-neighborhood-with-solar.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://solargaininc.com/wp-content/uploads/2019/05/Northwest-Tucson-Residential-Roof-Mounted-System-2.jpg",
+      "assetType": "project",
+      "subject": "Northwest Tucson Residential Roof Mounted System 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://solargaininc.com/wp-content/uploads/2019/05/Vijaya-Residential-Roof-Mounted-System-1.jpg",
+      "assetType": "project",
+      "subject": "Vijaya Residential Roof Mounted System 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://solargaininc.com/wp-content/uploads/2019/05/Bynum-Residential-Roof-Mounted-System-.png",
+      "assetType": "project",
+      "subject": "Bynum Residential Roof Mounted System",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://solargaininc.com/wp-content/uploads/2019/05/Central-Tucson-Residential-Roof-Mounted-System-1.png",
+      "assetType": "project",
+      "subject": "Central Tucson Residential Roof Mounted System 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

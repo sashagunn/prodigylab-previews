@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "cabinethaus",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/a7a51b_a7a6d2b97fcc44119d7f631ad84934fb~mv2.jpg/v1/fill/w_1283,h_802,al_c,q_85,enc_avif,quality_auto/a7a51b_a7a6d2b97fcc44119d7f631ad84934fb~mv2.jpg",
+      "assetType": "project",
+      "subject": "3075_Greenwood_Bismarck-82.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/a7a51b_4532139bba33428885aa5ed948007726~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a7a51b_4532139bba33428885aa5ed948007726~mv2.jpg",
+      "assetType": "site",
+      "subject": "14625_139th_St_Sawyer-103.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/a7a51b_52251b75632341d5ba5e5bd88e046425~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a7a51b_52251b75632341d5ba5e5bd88e046425~mv2.jpg",
+      "assetType": "site",
+      "subject": "3075_Greenwood_Bismarck-6.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/a7a51b_a76014fa29954b5da76fc0b189b2fe0e~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a7a51b_a76014fa29954b5da76fc0b189b2fe0e~mv2.jpg",
+      "assetType": "site",
+      "subject": "6216_Misty_Waters_Dr-159-Edit.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/a7a51b_f850eab1f33d46c389a864a94b476e5d~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a7a51b_f850eab1f33d46c389a864a94b476e5d~mv2.jpg",
+      "assetType": "site",
+      "subject": "14625_139th_St_Sawyer-29-Edit-Edit.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/3f4bbb_047b2711856f4dcf98aa90f7604f66f2~mv2.jpg/v1/fill/w_1440,h_800,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3f4bbb_047b2711856f4dcf98aa90f7604f66f2~mv2.jpg",
+      "assetType": "site",
+      "subject": "8404_Nicklaus_Dr_Bismarck-22.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

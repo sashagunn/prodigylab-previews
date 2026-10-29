@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aqualockit",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://aqualockit.com/wp-content/uploads/why-homeowners-choose-aqua-lock-services-main-updated-img.webp",
+      "assetType": "site",
+      "subject": "Basement finishing project in progress showing newly installed drywall",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://aqualockit.com/wp-content/uploads/aqua-lock-hero-updated-img.webp",
+      "assetType": "site",
+      "subject": "Modern home exterior with a finished underground basement.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://aqualockit.com/wp-content/uploads/sump-pump-service-home-img.webp",
+      "assetType": "site",
+      "subject": "Basement maintenance worker in blue uniform inspecting an active sump ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://aqualockit.com/wp-content/uploads/foundation-and-waterproofing-services-featured-img.webp",
+      "assetType": "site",
+      "subject": "Exterior foundation waterproofing membrane installation on a stone hou",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://aqualockit.com/wp-content/uploads/basement-waterproofing-service-new-image.webp",
+      "assetType": "site",
+      "subject": "Modern finished basement living area equipped with a neutral-toned sec",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://aqualockit.com/wp-content/uploads/how-aqua-lock-started-from-a-lagrange-garage-to-serving-10000-kentucky-homes-updated-img.webp",
+      "assetType": "site",
+      "subject": "Basement structural framing showcasing reinforced wooden beams and stu",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
