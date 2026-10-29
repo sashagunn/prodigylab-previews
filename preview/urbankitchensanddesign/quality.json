@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "urbankitchensanddesign",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://urbankitchensanddesign.com/wp-content/uploads/2026/05/grantville-project-kitchen-dark-wood-cabinets-large-granite-island.jpg",
+      "assetType": "project",
+      "subject": "Urban Kitchens & Design Grantville Project kitchen with dark wood cabi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://urbankitchensanddesign.com/wp-content/uploads/2026/07/Custom-Kitchen-Detail.webp",
+      "assetType": "site",
+      "subject": "White custom kitchen countertop, backsplash, sink, and cabinetry from ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://urbankitchensanddesign.com/wp-content/uploads/2026/07/Custom-Kitchen-Remodel-2.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://urbankitchensanddesign.com/wp-content/uploads/2026/07/Custom-Kitchen-Remodel-4-1.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://urbankitchensanddesign.com/wp-content/uploads/elementor/thumbs/Custom-Bathroom-Remodel-rqeg7of2sv0wlo9s0dp2qxmyeivzkqseeif4tf01f4.webp",
+      "assetType": "site",
+      "subject": "Custom Bathroom Remodel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://urbankitchensanddesign.com/wp-content/uploads/2025/03/page-about.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

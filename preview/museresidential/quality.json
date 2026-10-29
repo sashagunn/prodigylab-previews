@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "museresidential",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://museresidential.com/wp-content/uploads/2026/09/corner.jpg",
+      "assetType": "project",
+      "subject": "A finished corner kitchen by MUSE Residential",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://museresidential.com/wp-content/uploads/2026/09/hardin-entrance.webp",
+      "assetType": "project",
+      "subject": "The kitchen, dining area and living room together.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://museresidential.com/wp-content/uploads/2026/09/fairgrove-18.webp",
+      "assetType": "project",
+      "subject": "Fairgrove Lane kitchen detail showing dark cabinetry, brass-tone pulls",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://museresidential.com/wp-content/uploads/2026/09/telfair-6.webp",
+      "assetType": "project",
+      "subject": "Telfair Meadow kitchen with a patterned blue backsplash, wood-toned ho",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://museresidential.com/wp-content/plugins/muse-legacy-recovery/performance-assets/a6a926c5f183-1536.webp",
+      "assetType": "project",
+      "subject": "MUSE kitchen with a Classic Blue herringbone backsplash",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://museresidential.com/wp-content/uploads/2026/09/hex.png",
+      "assetType": "project",
+      "subject": "MUSE kitchen with white cabinets and gray hexagon backsplash tile",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "slug": "pridecabinetry",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://pridecabinetry.com/wp-content/uploads/2026/10/IMG_03901-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

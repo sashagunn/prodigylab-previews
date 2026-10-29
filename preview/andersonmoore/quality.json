@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "andersonmoore",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://andersonmoore.com/wp-content/uploads/2024/03/AndersonMoore_Carolina_MoreProjects_DiningNook_1.jpg",
+      "assetType": "project",
+      "subject": "Modern dining area with white cabinets, table, and bench. There is a t",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://andersonmoore.com/wp-content/uploads/2024/03/AndersonMoore_Carolina_MoreProjects_DiningNook_4.jpg",
+      "assetType": "project",
+      "subject": "White dining area with low drawers, a round wooden table, white chairs",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://andersonmoore.com/wp-content/uploads/2024/03/AndersonMoore_Harper_MooreProjects_AgingInPlace_3.jpg",
+      "assetType": "project",
+      "subject": "White tile bathroom with two sinks separated by a cabinet and a shower",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://andersonmoore.com/wp-content/uploads/2024/03/AndersonMoore_Harper_MooreProjects_AgingInPlace_5.jpg",
+      "assetType": "project",
+      "subject": "Zoom in of a rectangular shower drain and white tiles",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://andersonmoore.com/wp-content/uploads/2024/03/AndersonMoore_Harper_MooreProjects_AgingInPlace_6.jpg",
+      "assetType": "project",
+      "subject": "Zoom in of a rectangular shower drain and white tiles",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://andersonmoore.com/wp-content/uploads/2024/03/AndersonMoore_Harper_MooreProjects_AgingInPlace.jpg",
+      "assetType": "project",
+      "subject": "White bathroom with a tile shower, two sinks separated by a cabinet, a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

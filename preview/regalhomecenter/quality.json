@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "regalhomecenter",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.sanity.io/images/cw5a3chn/production/22f512fbab809ea6ecf5fe60b356f01344ffd7e9-1080x720.jpg?rect=60,0,960,720&w=3840&h=2880&q=75&fit=crop&auto=format",
+      "assetType": "project",
+      "subject": "Classic white kitchen with farmhouse sink, stainless appliances, and a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.sanity.io/images/cw5a3chn/production/39a0aa6d0e4237eebbbbab6897bb343330da2ef4-1080x720.jpg?rect=60,0,960,720&w=3840&h=2880&q=75&fit=crop&auto=format",
+      "assetType": "project",
+      "subject": "White kitchen with marble-pattern backsplash, cage pendants, and quart",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.sanity.io/images/cw5a3chn/production/3e7b2e119e425808a1df103164bc0671fc4238cd-1080x720.jpg?rect=60,0,960,720&w=3840&h=2880&q=75&fit=crop&auto=format",
+      "assetType": "project",
+      "subject": "Large dark gray island with triple pendants in an open-plan kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.sanity.io/images/cw5a3chn/production/0487894f6ffd17542a923fad0160bf59e202b60d-1080x1620.jpg?rect=0,405,1080,810&w=3840&h=2880&q=75&fit=crop&auto=format",
+      "assetType": "project",
+      "subject": "Emerald green floating vanity with round LED mirror against marble wal",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.sanity.io/images/cw5a3chn/production/485480997d6f4033219e142982a19c0f6674db70-1080x1037.jpg?rect=0,114,1080,810&w=3840&h=2880&q=75&fit=crop&auto=format",
+      "assetType": "project",
+      "subject": "Freestanding tub against a stone tile accent wall with black-framed wi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.sanity.io/images/cw5a3chn/production/6ab246db18b873f6f7d79b7f4ddcdfc841b44e00-1080x810.jpg?w=3840&h=2880&q=75&fit=crop&auto=format",
+      "assetType": "project",
+      "subject": "Modern bathroom with wood slat accent wall, floating vanity, and soaki",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "letrenova",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.letrenova.com/wp-content/themes/letrenova/static/assets/projects/apartment-in-palm-beach/20260918-gallery-materials-01/hero.webp",
+      "assetType": "project",
+      "subject": "Open apartment living area with a long media wall.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.letrenova.com/wp-content/themes/letrenova/static/assets/projects/bathroom-in-delray-beach/hero-4k-display.webp",
+      "assetType": "project",
+      "subject": "Bathroom vanity and tub beside full-height glazing.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.letrenova.com/wp-content/themes/letrenova/static/assets/projects/bed-and-bath-in-delray-beach/hero-4k-display.webp",
+      "assetType": "project",
+      "subject": "Bedroom with a paneled headboard wall and decorative ceiling lights.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.letrenova.com/wp-content/themes/letrenova/static/assets/projects/bishop-medical-office/hero-4k-display.webp",
+      "assetType": "project",
+      "subject": "Reception and waiting area with blue chairs, wood-look flooring and gl",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.letrenova.com/wp-content/themes/letrenova/static/assets/projects/boynton-beach-condo-kitchen-and-dining-makeover/20260918-gallery-completion/hero.webp",
+      "assetType": "project",
+      "subject": "White kitchen island with counter seating and a refrigerator beyond.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.letrenova.com/wp-content/themes/letrenova/static/assets/projects/delray-beach-modern-living-kitchen-renovation/20260918-gallery-completion/hero.webp",
+      "assetType": "project",
+      "subject": "Open living and kitchen area with a stone island and wood feature wall",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

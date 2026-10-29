@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "allenscreekcabinetry",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6856921c6d61904e60d2fb86/80a283dd-4217-496c-9cfc-d3179ce1296e/Allens-Creek-Cabinetry_Our-Work_Banner-Project-9.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Lake Ontario Custom",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6856921c6d61904e60d2fb86/637cf609-f1ed-46f5-9396-9ba8aaae86d6/Allens-Creek-Cabinetry_Our-Work_banner-1.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6856921c6d61904e60d2fb86/42d64b54-bf06-4307-9c7d-7e9ae59f0605/Allens-Creek-Cabinetry_Our-Work_Home-Acres-Project-5.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Home Acres Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6856921c6d61904e60d2fb86/6e32e825-f1d5-415d-b8c2-8792cae2f6f2/Allens-Creek-Cabinetry_Homepage-image-5.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Finger Lakes Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6856921c6d61904e60d2fb86/b3dd6383-6ecb-4170-a2eb-c415e2ae24d1/Allens-Creek-Cabinetry_Homepage-image-3.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Sunset Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6856921c6d61904e60d2fb86/801fa429-c3f4-4828-a302-06e43eb0f990/Allens-Creek-Cabinetry_Homepage-image-4.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Oak Hill Estate",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "masterliftfoundation",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.masterliftfoundation.com/images/projects/drive_1CE7694hQOBJJkWJgDX6f4aIh2KBXzPan.webp",
+      "assetType": "project",
+      "subject": "Red Whiteman concrete mixer trailer with white drum at residential fou",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.masterliftfoundation.com/images/projects/drive_1eqX2xHQ4ULs7QCAeNUnpw5TpF84OiC1f.webp",
+      "assetType": "project",
+      "subject": "Steel pipes and piering materials organized in industrial workshop fac",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.masterliftfoundation.com/images/projects/drive_1HT9ALB4nQyjFws_dihs620Mxsw3OWSyq.webp",
+      "assetType": "project",
+      "subject": "Hydraulic foundation repair equipment on trailer at Tulsa job site",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.masterliftfoundation.com/images/projects/drive_1HZQ9z576NlN9zM_Beh_TCHCjBC55eNu5.webp",
+      "assetType": "project",
+      "subject": "Foundation repair materials and equipment staged at residential proper",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.masterliftfoundation.com/images/projects/drive_14LFnIUPBZGu2LVrYYgXciufxL3B1y6sr.webp",
+      "assetType": "project",
+      "subject": "Foundation repair crew working on concrete floor with moisture treatme",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.masterliftfoundation.com/images/projects/drive_1I8cPE1E-cMqu5Cq_BrqufVY_Ef1zrwhJ.webp",
+      "assetType": "project",
+      "subject": "Foundation inspection team using diagnostic equipment on residential f",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

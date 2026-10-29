@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "meverskitchens",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/659442502c242e73d6b225f9/20db432d-211a-424f-b451-def75aba19c0/Specialty+cabinetry+photos-14.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/659442502c242e73d6b225f9/8c15d0b6-d3a2-4dc6-8030-7860e9c85dac/Specialty+cabinetry+photos-14.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/659442502c242e73d6b225f9/a7b7bbf1-581f-467b-91ac-daf0b38cbf10/Chambless+%286%29.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/659442502c242e73d6b225f9/c9758761-2579-4290-bd85-374df7cb1669/IMG_6124.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/659442502c242e73d6b225f9/ccf850dd-662e-459a-bd5a-8c36cf94962e/Meadows+%281%29.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
