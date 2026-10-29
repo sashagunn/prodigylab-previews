@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "legacycomfortsystems",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0c8e9e_75ce6fae852f4186a4c73515fa1d96a2~mv2.jpg/v1/fill/w_1440,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c8e9e_75ce6fae852f4186a4c73515fa1d96a2~mv2.jpg",
+      "assetType": "site",
+      "subject": "Rectangle 40091 (1).jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0c8e9e_6cbe57d377da4c2485dd252792f11276~mv2.jpg/v1/crop/x_0,y_0,w_3024,h_2520/fill/w_984,h_820,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2143.jpg",
+      "assetType": "site",
+      "subject": "IMG_2143.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7d3e670a1e4947c5bcef3d410fe4c9a6.jpg/v1/fill/w_964,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Air%20Duct.jpg",
+      "assetType": "site",
+      "subject": "Air Duct",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0c8e9e_de1599803e4e46fc88bdc0d8de67093c~mv2.jpg/v1/crop/x_276,y_1824,w_2075,h_1189/fill/w_968,h_564,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0463.jpg",
+      "assetType": "site",
+      "subject": "IMG_0463.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0c8e9e_016e1169d12d416e8ccf49535c66d78a~mv2.jpg/v1/fill/w_964,h_1000,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2142.jpg",
+      "assetType": "site",
+      "subject": "IMG_2142.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0c8e9e_26e55c1c6ef8422091623db65b496094~mv2.jpg/v1/fill/w_778,h_1183,al_c,q_85,enc_avif,quality_auto/3.jpg",
+      "assetType": "site",
+      "subject": "3.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
