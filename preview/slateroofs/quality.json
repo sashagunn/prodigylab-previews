@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "slateroofs",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b0bb1f1a677e4d97a03577/92375fab-858f-46a7-9e84-4e01d55b24b5/project-copper-chimney-flashing-newport-RI.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Wood roofing, wood siding, and copper guttering in Newport by Slate an",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b0bb1f1a677e4d97a03577/0a6dbc00-be95-4d10-b703-05d87528e900/28-roof-slate-copper-services-portsmouth-ri.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Slate roofing, copper guttering by Slate and Copper Services in Portsm",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b0bb1f1a677e4d97a03577/2c7ffabd-2387-4dae-a850-9a2c474431bf/22-historic-wood-roof-slate-copper-services-portsmouth-ri.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Wood siding and roofing, copper guttering by Slate and Copper Services",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b0bb1f1a677e4d97a03577/50b9c7a2-03c8-4acb-84c6-e5c552891fa2/Denunzio+Slide.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Slate roofing, copper guttering by Slate and Copper Services in Portsm",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b0bb1f1a677e4d97a03577/79e0955e-91b2-480a-b394-dfbcccdab75c/31-wood-roof-slate-copper-services-portsmouth-ri.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Wood roof installation in Newport, RI by Slate & Copper Services",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68b0bb1f1a677e4d97a03577/92fad494-9622-4a8e-b7e4-ef070c52f5ac/Wood+Roof+Copper+Flashing+Copper+Gutters++Friars+Head+Golf+Club%2C+Riverhead%2C+New+York.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Wood siding and roofing, copper guttering by Slate and Copper Services",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "superioroverheaddoors",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.superioroverheaddoors.com/wp-content/uploads/2026/04/2411BrownIMG_1312Edit.webp",
+      "assetType": "project",
+      "subject": "Model 2411",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.superioroverheaddoors.com/wp-content/plugins/bfm-plugin/assets/img/showroom.webp",
+      "assetType": "project",
+      "subject": "Interior of Superior Overhead Doors garage door showroom in Broken Arr",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.superioroverheaddoors.com/wp-content/uploads/2026/04/2511WhiteIMG_1998.webp",
+      "assetType": "project",
+      "subject": "Model 2511, Commercial garage door with windows on pole barn",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.superioroverheaddoors.com/wp-content/plugins/bfm-plugin/assets/img/C2415CarbonBlack_298196397.webp",
+      "assetType": "project",
+      "subject": "Sectional commercial overhead door model 2415 in carbon black on a Tul",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.superioroverheaddoors.com/wp-content/uploads/2026/04/C2415CarbonBlack_298196397.webp",
+      "assetType": "project",
+      "subject": "Model 2415, Modern commercial garage doors in carbon black",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.superioroverheaddoors.com/wp-content/plugins/bfm-plugin/assets/img/612-Espresso-332687704-1.webp",
+      "assetType": "project",
+      "subject": "Contemporary espresso garage door",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

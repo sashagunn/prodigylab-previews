@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "grantmechanicalid",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.grantmechanicalid.com/img/condensing-boilers-700.webp",
+      "assetType": "project",
+      "subject": "Three Fulton Endura condensing boilers installed side by side in a mec",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.grantmechanicalid.com/img/industrial-vessel-700.webp",
+      "assetType": "project",
+      "subject": "Industrial vessel and piping installed at an outdoor plant site",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.grantmechanicalid.com/img/firetube-boiler-700.webp",
+      "assetType": "project",
+      "subject": "Fire-tube boiler fitted with a red power burner in a mechanical room",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.grantmechanicalid.com/img/boiler-room-1600.webp",
+      "assetType": "site",
+      "subject": "Boilers and piping in a commercial boiler room installed by Grant Mech",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "qualitypacificroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://qualitypacificroofing.com/wp-content/uploads/2015/09/582.jpg",
+      "assetType": "site",
+      "subject": "install1-after",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://qualitypacificroofing.com/wp-content/themes/QPR/library/images/header.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

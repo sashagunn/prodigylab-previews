@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "autographkitchens",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://autographkitchens.com/wp-content/uploads/2025/09/TI_001_0055-1024x731.jpg.webp",
+      "assetType": "project",
+      "subject": "TI_001_0055",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://autographkitchens.com/wp-content/uploads/2025/09/TI_001_0014-1024x728.jpg.webp",
+      "assetType": "project",
+      "subject": "TI_001_0014",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://autographkitchens.com/wp-content/uploads/2025/09/TI_001_0009-1024x704.jpg.webp",
+      "assetType": "project",
+      "subject": "TI_001_0009",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://autographkitchens.com/wp-content/uploads/2025/09/2136-Giverny-Dr-1-1024x683.jpg.webp",
+      "assetType": "project",
+      "subject": "2136 Giverny Dr-1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://autographkitchens.com/wp-content/uploads/2025/09/TI_001_0017-1024x674.jpg.webp",
+      "assetType": "project",
+      "subject": "TI_001_0017",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://autographkitchens.com/wp-content/uploads/2025/09/TI_001_0038-1024x638.jpg.webp",
+      "assetType": "project",
+      "subject": "TI_001_0038",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

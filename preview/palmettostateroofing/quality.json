@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "palmettostateroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://palmettostateroofing.com/_next/image?url=%2Fimages%2Fprojects%2Fclient-submitted%2Fjc-moore%2FIMG_0168edit1.JPG&w=2048&q=75&dpl=dpl_4DXkzn8uKAffYRSpcu1HpZUMREQ8",
+      "assetType": "project",
+      "subject": "Moore Slate Roof",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://palmettostateroofing.com/_next/image?url=%2Fimages%2Fprojects%2Fclient-submitted%2Fsparkleberry-plaza%2FIMG_0195edit.jpg&w=2048&q=75&dpl=dpl_4DXkzn8uKAffYRSpcu1HpZUMREQ8",
+      "assetType": "project",
+      "subject": "Sparkleberry Plaza",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://palmettostateroofing.com/_next/image?url=%2Fimages%2Fprojects%2Fclient-submitted%2Fst-john-saluda%2FIMG_3191-edit.jpeg&w=2048&q=75&dpl=dpl_4DXkzn8uKAffYRSpcu1HpZUMREQ8",
+      "assetType": "project",
+      "subject": "St. John United Methodist Church",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://palmettostateroofing.com/_next/image?url=%2Fimages%2Fprojects%2Fmetal%2Fedwards-1.jpg&w=2048&q=75&dpl=dpl_4DXkzn8uKAffYRSpcu1HpZUMREQ8",
+      "assetType": "project",
+      "subject": "Lake Cabin and Outbuildings",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://palmettostateroofing.com/_next/image?url=%2Fimages%2Fprojects%2Fmetal%2Fedwards-2.jpg&w=2048&q=75&dpl=dpl_4DXkzn8uKAffYRSpcu1HpZUMREQ8",
+      "assetType": "project",
+      "subject": "Lake Cabin Copper Details",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://palmettostateroofing.com/_next/image?url=%2Fimages%2Fprojects%2Fmetal%2Frosehill-1.jpg&w=2048&q=75&dpl=dpl_4DXkzn8uKAffYRSpcu1HpZUMREQ8",
+      "assetType": "project",
+      "subject": "Rose Hill State Park",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

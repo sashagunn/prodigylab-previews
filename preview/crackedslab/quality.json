@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "crackedslab",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.crackedslab.com/_next/image/?url=%2Fimages%2Fcarousels%2Ffoundation-repair%2F04.jpg&w=3840&q=75&dpl=dpl_8LY3ajAcfCbRaNzM8B8zb3PM6vH9",
+      "assetType": "project",
+      "subject": "Yellow hydraulic jack on a block beside a concrete cylinder inside the",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.crackedslab.com/_next/image/?url=%2Fimages%2Fcarousels%2Fhome%2F03.jpg&w=3840&q=75&dpl=dpl_8LY3ajAcfCbRaNzM8B8zb3PM6vH9",
+      "assetType": "project",
+      "subject": "Green and yellow home elevated and resting on cribbing during a house ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.crackedslab.com/_next/image/?url=%2Fimages%2Fcarousels%2Fhome%2F04.jpg&w=3840&q=75&dpl=dpl_8LY3ajAcfCbRaNzM8B8zb3PM6vH9",
+      "assetType": "project",
+      "subject": "Raised home with black shutters, white columns, and an American flag a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.crackedslab.com/_next/image/?url=%2Fimages%2Fcarousels%2Fhouse-lifting%2F02.jpg&w=3840&q=75&dpl=dpl_8LY3ajAcfCbRaNzM8B8zb3PM6vH9",
+      "assetType": "project",
+      "subject": "The same white house raised on its new elevation with a white staircas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.crackedslab.com/_next/image/?url=%2Fimages%2Fcarousels%2Fhouse-lifting%2F04.jpg&w=3840&q=75&dpl=dpl_8LY3ajAcfCbRaNzM8B8zb3PM6vH9",
+      "assetType": "project",
+      "subject": "The same red brick house raised with a skirt wall, with the leafless t",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.crackedslab.com/_next/image/?url=%2Fimages%2Fcarousels%2Ffoundation-repair%2F01.jpg&w=3840&q=75&dpl=dpl_8LY3ajAcfCbRaNzM8B8zb3PM6vH9",
+      "assetType": "project",
+      "subject": "Five Allied Foundation workers in blue shirts and yellow helmets diggi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

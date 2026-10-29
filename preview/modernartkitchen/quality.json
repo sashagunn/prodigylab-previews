@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "modernartkitchen",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.modernartkitchen.com/photos/gallery/mak-modern-04.jpg",
+      "assetType": "project",
+      "subject": "White panelled kitchen with a grey stone waterfall island, four black ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.modernartkitchen.com/photos/gallery/mak-modern-08.jpg",
+      "assetType": "project",
+      "subject": "White kitchen with a grey-topped island, three glass pendant lights, a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.modernartkitchen.com/photos/gallery/mak-european-06.jpg",
+      "assetType": "project",
+      "subject": "Dark slate kitchen photographed head-on: a blue-grey island with a pal",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.modernartkitchen.com/photos/gallery/mak-modern-07.jpg",
+      "assetType": "project",
+      "subject": "White panelled kitchen centred on a blue enamelled range beneath a whi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.modernartkitchen.com/photos/gallery/mak-european-02.jpg",
+      "assetType": "project",
+      "subject": "Grey kitchen with a chequered tile splashback, a thick pale island wit",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.modernartkitchen.com/photos/gallery/mak-european-03.jpg",
+      "assetType": "project",
+      "subject": "Handleless white full-height cabinet bank with a tall integrated wine ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

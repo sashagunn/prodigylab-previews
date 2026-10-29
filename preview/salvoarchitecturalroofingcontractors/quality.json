@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "salvoarchitecturalroofingcontractors",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://salvoarchitecturalroofingcontractors.com/wp-content/uploads/2026/01/ZincHouse.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://salvoarchitecturalroofingcontractors.com/wp-content/uploads/2026/02/ACM-Wall-Panels-Highland-Park-d-1.jpg",
+      "assetType": "site",
+      "subject": "ACM wall panel installed by Salvo Architectural Roofing in Highland Pa",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://salvoarchitecturalroofingcontractors.com/wp-content/uploads/2026/03/SarcMarch-Hero-Video-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://salvoarchitecturalroofingcontractors.com/wp-content/uploads/2026/02/StandingSeamOakBrook-1024x768.jpg",
+      "assetType": "site",
+      "subject": "Architectural roofing project by Salvo Architectural Roofing in Oak Br",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://salvoarchitecturalroofingcontractors.com/wp-content/uploads/2026/01/507N-Lakeshore-Front-3-1-1568x861-edited-1024x562.jpg",
+      "assetType": "site",
+      "subject": "Architectural roofing project by Salvo Architectural Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://salvoarchitecturalroofingcontractors.com/wp-content/uploads/2026/01/unspecified-13.jpg",
+      "assetType": "site",
+      "subject": "Architectural roofing project by Salvo Architectural Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

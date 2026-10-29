@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "commonwealthwindow",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://commonwealthwindow.com/assets/IMG_4019_dynamic_color-BjmI2dV6.jpeg",
+      "assetType": "site",
+      "subject": "Replacement windows and patio doors — Commonwealth Window Company, Lex",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://commonwealthwindow.com/specialty-shape.png",
+      "assetType": "site",
+      "subject": "Specialty Shapes",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

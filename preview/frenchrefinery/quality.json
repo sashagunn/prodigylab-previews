@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "frenchrefinery",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://frenchrefinery.com/wp-content/uploads/2026/02/Woodshop_Manager_WideScreen_.00_00_30_15.Still009_1100x.webp",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://frenchrefinery.com/wp-content/uploads/2026/10/Large-custom-kitchen-island-with-a-dark-base-stone-top-and-counter-seating-in-a-bright-white-kitchen.jpg",
+      "assetType": "site",
+      "subject": "Large custom kitchen island with a dark base, stone top and counter se",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://frenchrefinery.com/wp-content/uploads/2025/11/Sreenshots.00_00_28_18.Still005_2048x.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://frenchrefinery.com/wp-content/uploads/2026/01/07e12cbf-19d2-4843-a7e4-b542dd920736-scaled-1-2048x1348.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://frenchrefinery.com/wp-content/uploads/2026/01/8f701f74-7639-4557-8538-eda56e6b3b51-scaled-1-scaled-1.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://frenchrefinery.com/wp-content/uploads/2026/01/ad3bd5af-d7c3-43f1-8017-b49791ddb9d7-scaled-1-2048x1374.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
