@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "strawberrysolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.strawberrysolar.com/wp-content/uploads/2026/04/nicholas-d-strawberry-solar-project-ground-mount-panels.png",
+      "assetType": "project",
+      "subject": "nicholas d strawberry solar project ground mount panels",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.strawberrysolar.com/wp-content/uploads/2025/03/residential-solar-installation-strawberry-solar.jpg",
+      "assetType": "project",
+      "subject": "residential-solar-installation-strawberry-solar",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.strawberrysolar.com/wp-content/uploads/2026/09/boggs-school-wide-angle-rooftop.png",
+      "assetType": "project",
+      "subject": "Boggs School side view showing building and completed rooftop solar ar",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.strawberrysolar.com/wp-content/uploads/2025/04/car-in-garage-with-tesla-powerwall-scaled.webp",
+      "assetType": "site",
+      "subject": "EV in garage with Tesla Powerwall",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.strawberrysolar.com/wp-content/uploads/2025/04/span-electrical-panel-service-scaled.webp",
+      "assetType": "site",
+      "subject": "SPAN electrical panel system next to a car",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.strawberrysolar.com/wp-content/uploads/2025/04/two-large-ground-mount-solar-panel-scaled.webp",
+      "assetType": "site",
+      "subject": "two large ground mount solar panel scaled",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

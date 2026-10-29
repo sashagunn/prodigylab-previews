@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "anevasolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://anevasolar.com/wp-content/uploads/Aneva-Solar-Installation-Enphase-REC-Solar-Scottsdale-AZ.jpg-3-1.jpg",
+      "assetType": "site",
+      "subject": "Solar Installation 5",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://anevasolar.com/wp-content/uploads/Aneva-Solar-Installation-Enphase-REC-Solar-Scottsdale-Carefree-AZ.jpg",
+      "assetType": "site",
+      "subject": "Solar Installation 4",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://anevasolar.com/wp-content/uploads/Aneva-Solar-Installation-Enphase-REC-Solar-Scottsdale-Silverleaf-AZ.jpg",
+      "assetType": "site",
+      "subject": "Solar Installation 3",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://anevasolar.com/wp-content/uploads/Aneva-Solar-Installation-Enphase-REC-Solar-Scottsdale-Troon-AZ.jpg",
+      "assetType": "site",
+      "subject": "Solar Installation 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://anevasolar.com/wp-content/uploads/Aneva-Solar-Installation-REC-Solar-Battery-Backup-Scottsdale-AZ.jpg",
+      "assetType": "site",
+      "subject": "Solar Installation 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://anevasolar.com/wp-content/uploads/solar-panel-roof.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

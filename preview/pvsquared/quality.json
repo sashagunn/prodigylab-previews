@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "pvsquared",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://pvsquared.coop/wp-content/uploads/2017/02/PrettyLensFlare-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://pvsquared.coop/wp-content/uploads/2026/03/HALF-SUN.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://pvsquared.coop/wp-content/uploads/2018/11/ADVOCATE_OUTLINE.png",
+      "assetType": "site",
+      "subject": "Valley Best",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://pvsquared.coop/wp-content/uploads/2024/04/HOMES.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://pvsquared.coop/wp-content/uploads/2025/01/Service-Smiles-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://pvsquared.coop/wp-content/uploads/2018/10/GetAQuoteCTA-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

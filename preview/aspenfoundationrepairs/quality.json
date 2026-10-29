@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aspenfoundationrepairs",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://aspenfoundationrepairs.com/__l5e/assets-v1/f1b5f9e4-bf3d-43f1-8648-f9a675df050b/enc-1.jpg",
+      "assetType": "project",
+      "subject": "Containment barrier installed during encapsulation prep",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://aspenfoundationrepairs.com/__l5e/assets-v1/b8e3e238-521b-4b50-9971-ec4698622908/basement-install.jpg",
+      "assetType": "project",
+      "subject": "New foundation walls formed and poured on a Western Colorado home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://aspenfoundationrepairs.com/__l5e/assets-v1/80bb5f1e-44e3-4401-9be9-abff9016910f/foundation-replacement-side-by-side.jpg",
+      "assetType": "project",
+      "subject": "Side-by-side foundation replacement — house lifted on cribbing, new fo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://aspenfoundationrepairs.com/__l5e/assets-v1/70a22e9a-f7a2-4cde-a962-4d9b2bff92f7/enc-crawl-space.jpg",
+      "assetType": "project",
+      "subject": "Clean encapsulated crawl space with white vapor barrier",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://aspenfoundationrepairs.com/__l5e/assets-v1/5938a344-762f-498b-a61d-1976ac68764b/wp-MM_3.jpg",
+      "assetType": "project",
+      "subject": "Drain line and gravel placed before backfill",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://aspenfoundationrepairs.com/__l5e/assets-v1/dd0dfb76-aa65-4bfe-985e-624f2be25980/wp-MM_2.jpg",
+      "assetType": "project",
+      "subject": "Waterproof membrane coating a cleaned basement wall",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

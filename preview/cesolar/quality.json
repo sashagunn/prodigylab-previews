@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "cesolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cesolar.com/wp-content/uploads/2024/11/togerther-we-have-power.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cesolar.com/wp-content/uploads/2025/02/AIA-Utah-scaled.webp",
+      "assetType": "site",
+      "subject": "AIA Utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cesolar.com/wp-content/uploads/2024/11/we-shine-together-1.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cesolar.com/wp-content/uploads/2024/11/Site-Slider-3-Edit-Solar-Barn.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cesolar.com/wp-content/uploads/2025/04/Off-Grid.webp",
+      "assetType": "site",
+      "subject": "Off-grid yurt with ground-mounted solar panels and a stack of firewood",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cesolar.com/wp-content/uploads/2025/04/Residential-cesolar.webp",
+      "assetType": "site",
+      "subject": "Family relaxing on a porch with solar panels installed on the roof of ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

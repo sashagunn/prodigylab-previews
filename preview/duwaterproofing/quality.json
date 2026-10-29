@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "duwaterproofing",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.duwaterproofing.com/wp-content/uploads/2026/08/about-hero.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.duwaterproofing.com/wp-content/uploads/2026/07/french-drain-sump-pump-basement-waterproofing-nj.webp",
+      "assetType": "site",
+      "subject": "Waterproofing and foundation repair services in New Jersey including F",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

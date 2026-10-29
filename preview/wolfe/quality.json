@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "wolfe",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5b9bfd472487fd5f1d025919/1674083060521-VU86DA9MANYGCWA989DE/IMG_6587.jpg",
+      "assetType": "project",
+      "subject": "BEFORE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5b9bfd472487fd5f1d025919/1674083100548-HK3795ACLFIESGLB01LF/IMG_6593.jpg",
+      "assetType": "project",
+      "subject": "BEFORE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5b9bfd472487fd5f1d025919/1674083114562-M9UGTT65YTISQV9LBP7G/IMG_6595.jpg",
+      "assetType": "project",
+      "subject": "BEFORE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5b9bfd472487fd5f1d025919/1674083127194-8SH349B2CRJ3RKTQG0KG/IMG_6598.jpg",
+      "assetType": "project",
+      "subject": "BEFORE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5b9bfd472487fd5f1d025919/1674083150484-ZQ8W9CF6RXW491XW7MU6/IMG_6601.jpg",
+      "assetType": "project",
+      "subject": "BEFORE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5b9bfd472487fd5f1d025919/1674083164474-4XB82Y7GEOG0B32GS3N7/IMG_6604.jpg",
+      "assetType": "project",
+      "subject": "BEFORE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

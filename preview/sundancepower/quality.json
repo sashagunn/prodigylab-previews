@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "sundancepower",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.sundancepower.com/wp-content/uploads/2021/07/Adams-Project-Picture-1200x900.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.sundancepower.com/wp-content/uploads/2024/08/Ward-McKay-roof-shot-1-scaled.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.sundancepower.com/wp-content/uploads/2023/12/GNT-7-edit-1200x900.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.sundancepower.com/wp-content/uploads/2021/10/DSC_0666-1-1200x797.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.sundancepower.com/wp-content/uploads/2023/02/DSC_0571-2-1200x797.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.sundancepower.com/wp-content/uploads/2025/11/Broad-River-FD-group-pic-in-front-of-ground-mounts-1200x797.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

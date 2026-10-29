@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "camrockfoundations",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://camrockfoundations.com/wp-content/uploads/2023/02/img_1.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://camrockfoundations.com/wp-content/uploads/2026/06/Camrock-About-Page-Image.jpg",
+      "assetType": "site",
+      "subject": "Camrock About Page Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://camrockfoundations.com/wp-content/uploads/2025/10/BG-CF-1024x779.webp",
+      "assetType": "site",
+      "subject": "BG CF",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://camrockfoundations.com/wp-content/uploads/2026/04/4-points-CF-2.0-PNG-e1776263614912.png",
+      "assetType": "site",
+      "subject": "4 points CF 2.0 PNG e1776263614912",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://camrockfoundations.com/wp-content/uploads/2026/04/4-points-CF-2.0-PNG-e1776263614912-768x355.png",
+      "assetType": "site",
+      "subject": "4 points CF 2.0 PNG e1776263614912",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://camrockfoundations.com/wp-content/uploads/2025/05/POOL-DECK-SVC-PIC.jpg",
+      "assetType": "site",
+      "subject": "POOL DECK SVC PIC",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

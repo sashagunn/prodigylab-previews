@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "foremostfoundations",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/a20338_214d8fb3dbd04caf832e61e7659a7fac~mv2.jpg/v1/fill/w_1440,h_825,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a20338_214d8fb3dbd04caf832e61e7659a7fac~mv2.jpg",
+      "assetType": "site",
+      "subject": "Foremost-hp-bg-sm.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/a20338_e789cff07a504c0591c595ef1bbe0467~mv2.jpg/v1/fill/w_852,h_639,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/commercial.jpg",
+      "assetType": "site",
+      "subject": "commercial.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

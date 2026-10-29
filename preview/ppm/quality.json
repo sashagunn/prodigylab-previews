@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ppm",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://ppm.solar/wp-content/uploads/2025/05/474980204_1151315476999235_4070918795650349642_n.png",
+      "assetType": "project",
+      "subject": "project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://ppm.solar/wp-content/uploads/2025/05/492217874_1223578529772929_240067038840321004_n.png",
+      "assetType": "project",
+      "subject": "project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://ppm.solar/wp-content/uploads/2025/05/495162456_1239964758134306_5656295569492039533_n.png",
+      "assetType": "project",
+      "subject": "project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://ppm.solar/wp-content/uploads/2022/08/residential-additional-01-1.jpeg",
+      "assetType": "project",
+      "subject": "project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://ppm.solar/wp-content/uploads/2022/08/residential-additional-03.jpeg",
+      "assetType": "project",
+      "subject": "project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://ppm.solar/wp-content/uploads/2022/08/residential-additional-04.jpeg",
+      "assetType": "project",
+      "subject": "project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "southern-energy",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://southern-energy.com/wp-content/uploads/NovelSouthCapitol-LEED-Cover.jpg",
+      "assetType": "site",
+      "subject": "Rendering of Novel South Capitol Hill multifamily project pursuing LEE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://southern-energy.com/wp-content/uploads/2026-Torchbearer-seal-2048x1181.png",
+      "assetType": "site",
+      "subject": "BBB Torchbearer Seal",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://southern-energy.com/wp-content/uploads/B-Corp-Best-for-the-World-Environment_Sam-2048x1365.webp",
+      "assetType": "site",
+      "subject": "Sam holding our B Corp Best for the World - Environment award",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://southern-energy.com/wp-content/uploads/Image_20241211_160622_843-2048x1536.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://southern-energy.com/wp-content/uploads/solarpanelbackground.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://southern-energy.com/wp-content/uploads/summer-solstice-sunflowers.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

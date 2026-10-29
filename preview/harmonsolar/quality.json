@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "harmonsolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://harmonsolar.com/wp-content/themes/harmonsolar/images/footer.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://harmonsolar.com/wp-content/uploads/2025/08/Solar-Panel-Cleaning-Services.jpg",
+      "assetType": "site",
+      "subject": "Technicians are cleaning solar panel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://harmonsolar.com/wp-content/themes/harmonsolar/images/why_harmon_solar.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://harmonsolar.com/wp-content/themes/harmonsolar/images/commercials.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://harmonsolar.com/wp-content/uploads/2021/07/homeowners2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://harmonsolar.com/wp-content/themes/harmonsolar/images/contact_bg.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

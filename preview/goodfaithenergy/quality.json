@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "goodfaithenergy",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://goodfaithenergy.com/_astro/install-commercial-rooftop.DEuth9ii_pPRCt.webp",
+      "assetType": "site",
+      "subject": "Commercial solar installation by Good Faith Energy on the Half Price B",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://goodfaithenergy.com/_astro/install-powerwall-garage.DfXzCyAR_Z2ds68y.webp",
+      "assetType": "site",
+      "subject": "Four Tesla Powerwall batteries with a SPAN smart panel and Tesla Wall ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://goodfaithenergy.com/_astro/install-residential-rooftop.lucapHRR_23uNgy.webp",
+      "assetType": "site",
+      "subject": "Aerial view of a residential solar panel installation by Good Faith En",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://goodfaithenergy.com/_astro/service-electrical-panel.DSUhdtPH_Z1gE557.webp",
+      "assetType": "site",
+      "subject": "Good Faith Energy electricians wiring a SPAN smart panel and main serv",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://goodfaithenergy.com/_astro/service-installer-rooftop.dtn1qdQj_Br07t.webp",
+      "assetType": "site",
+      "subject": "Good Faith Energy technician servicing and repairing solar panels on a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://goodfaithenergy.com/_astro/service-van-house.C8uq98dH_4a7vH.webp",
+      "assetType": "site",
+      "subject": "Good Faith Energy service van parked at a Texas home with newly instal",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
