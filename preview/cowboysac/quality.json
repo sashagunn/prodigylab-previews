@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "cowboysac",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cowboysac.com/assets/latest/lw-attic-blue-800.webp?v=lw2",
+      "assetType": "project",
+      "subject": "Attic install, ready for the walkthrough",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cowboysac.com/assets/latest/lw-attic-install-800.webp?v=lw2",
+      "assetType": "project",
+      "subject": "New attic system, sealed duct runs",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cowboysac.com/assets/latest/lw-new-duct-800.webp?v=lw2",
+      "assetType": "project",
+      "subject": "New duct, new construction",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cowboysac.com/assets/latest/lw-boot-covers-800.webp?v=lw2",
+      "assetType": "project",
+      "subject": "Boot covers on before the door",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cowboysac.com/assets/latest/lw-coil-clean-800.webp?v=lw2",
+      "assetType": "project",
+      "subject": "Opening up the condenser",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cowboysac.com/assets/latest/lw-crane-site-800.webp?v=lw2",
+      "assetType": "project",
+      "subject": "Commercial lift day",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "virtuesolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.virtuesolar.com/uploads/2026/10/enphase-gateway-envoy-lights-explained.webp",
+      "assetType": "site",
+      "subject": "Enphase Envoy gateway with all four LEDs lit red",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.virtuesolar.com/uploads/2026/10/is-my-solar-system-working.webp",
+      "assetType": "site",
+      "subject": "Two-story Virginia home with black rooftop solar panels under a clear ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.virtuesolar.com/images/heroes/commercial-solar-in-virginia.webp",
+      "assetType": "site",
+      "subject": "Commercial solar installation in Virginia",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.virtuesolar.com/images/heroes/franklinwh-solar-battery-for-home.webp",
+      "assetType": "site",
+      "subject": "FranklinWH solar battery for home backup",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.virtuesolar.com/images/heroes/ground-mounted-solar-panels-installed-by-virtue-solar.webp",
+      "assetType": "site",
+      "subject": "Ground-mounted solar panels installed by Virtue Solar",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://www.virtuesolar.com/images/heroes/residential-solar-panel-installation-in-va.webp",
+      "assetType": "site",
+      "subject": "Residential solar panels installed by Virtue Solar",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

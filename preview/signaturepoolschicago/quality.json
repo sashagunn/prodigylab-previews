@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "signaturepoolschicago",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.signaturepoolschicago.com/wp-content/uploads/2021/04/Aspen-1435-in-California-color-finish-built-by-Signature-Pools-in-Hampshire-IL-Kane-County.jpg",
+      "assetType": "project",
+      "subject": "Aspen 1435 in California color finish built by Signature Pools in Hamp",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.signaturepoolschicago.com/wp-content/uploads/2021/04/Aspen-1435-in-Maya-Blue-color-finish-built-by-Signature-Pools-in-Plainfield-IL-Will-County.jpg",
+      "assetType": "project",
+      "subject": "Aspen 1435 in Maya Blue color finish built by Signature Pools in Plain",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.signaturepoolschicago.com/wp-content/uploads/2021/04/Aspen-1635-pool-built-by-Signature-Pools-in-Naperville-IL-DuPage-County-2.jpg",
+      "assetType": "project",
+      "subject": "Aspen 1635 pool built by Signature Pools in Naperville IL DuPage Count",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.signaturepoolschicago.com/wp-content/uploads/2021/04/Aspen-1640-in-Caribbean-Sparkle-color-finish-built-by-Signature-Pools-in-Shorewood-IL-1.jpg",
+      "assetType": "project",
+      "subject": "Aspen 1640 in Caribbean Sparkle color finish built by Signature Pools ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.signaturepoolschicago.com/wp-content/uploads/2021/04/Aspen-1640-in-Maya-blue-color-finish-built-by-Signature-Pools-in-Batavia-IL-Kane-County.jpg",
+      "assetType": "project",
+      "subject": "Aspen 1640 in Maya blue color finish built by Signature Pools in Batav",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.signaturepoolschicago.com/wp-content/uploads/2021/04/Reflection-31-with-Tanning-Ledge-in-Silver-Grey-color-finish-built-by-Signature-Pools-in-Oswego-IL.jpg",
+      "assetType": "project",
+      "subject": "Reflection 31 with Tanning Ledge in Silver Grey color finish built by ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
