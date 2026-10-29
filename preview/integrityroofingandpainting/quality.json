@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "integrityroofingandpainting",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://integrityroofingandpainting.com/assets/projects/tpo-pipe-boot-flashing-detail-denver-01.jpg",
+      "assetType": "project",
+      "subject": "Pipe boot flashing sealed to a white TPO membrane",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://integrityroofingandpainting.com/assets/projects/brown-shingle-mountain-view-colorado-springs-01.jpg",
+      "assetType": "project",
+      "subject": "Brown shingle roof with mountains on the horizon",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://integrityroofingandpainting.com/assets/projects/charcoal-gray-architectural-shingle-austin-01.jpg",
+      "assetType": "project",
+      "subject": "Charcoal gray architectural shingle roof ridge",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://integrityroofingandpainting.com/assets/projects/clogged-drain-low-slope-denver-01.jpg",
+      "assetType": "project",
+      "subject": "Roof drain clogged with pine needles and debris on a low-slope roof",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://integrityroofingandpainting.com/assets/projects/commercial-tpo-skylights-rooftop-units-denver-01.jpg",
+      "assetType": "project",
+      "subject": "White TPO commercial roof with skylights and rooftop units",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://integrityroofingandpainting.com/assets/projects/stone-coated-steel-standing-seam-colorado-springs-01.jpg",
+      "assetType": "project",
+      "subject": "Gray stone-coated steel roof sections above a dark standing seam metal",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

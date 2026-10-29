@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "openbookpools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6472bee696a1d301fbf0bdf9/1719873044554-N05MOF6BX5SI3E8YGL8N/IMG_0076.JPG",
+      "assetType": "project",
+      "subject": "IMG_0076.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6472bee696a1d301fbf0bdf9/1719873063306-9O4MVPSHVXC9VNDIG47F/IMG_0080.JPG",
+      "assetType": "project",
+      "subject": "IMG_0080.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6472bee696a1d301fbf0bdf9/1719873089868-U2ONZW7RGFLTTVW1C8T2/IMG_0087.JPG",
+      "assetType": "project",
+      "subject": "IMG_0087.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6472bee696a1d301fbf0bdf9/1719873961345-C4O91WP31G4VNTO11W0U/IMG_0064.JPG",
+      "assetType": "project",
+      "subject": "IMG_0064.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6472bee696a1d301fbf0bdf9/1719873974724-MPNDJF543WZZBOBB9BM8/IMG_0066.JPG",
+      "assetType": "project",
+      "subject": "IMG_0066.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6472bee696a1d301fbf0bdf9/1719873983875-84D1C444018ESYZRA927/IMG_0068.JPG",
+      "assetType": "project",
+      "subject": "IMG_0068.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

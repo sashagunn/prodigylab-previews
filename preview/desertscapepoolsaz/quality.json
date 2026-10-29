@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "desertscapepoolsaz",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://desertscapepoolsaz.com/wp-content/uploads/2026/06/3d-render-pool-design.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://desertscapepoolsaz.com/wp-content/uploads/2026/06/pool-and-outdoor-living-in-arizona.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://desertscapepoolsaz.com/wp-content/uploads/2026/06/water-feature-construction-on-pools-az.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://desertscapepoolsaz.com/wp-content/uploads/2026/06/luxurypool-waterfeatures-aerial.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://desertscapepoolsaz.com/wp-content/uploads/2026/10/desertscape-pools-family-owned.webp",
+      "assetType": "site",
+      "subject": "Desertscape Pools Family Owned Business.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://desertscapepoolsaz.com/wp-content/uploads/2026/06/luxurypool-waterfeatures-aerial-1024x804.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

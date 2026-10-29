@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "atlantispoolsga",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://atlantispoolsga.com/_next/image?url=%2Fprojects%2Fbolduc-pavilion.jpg&w=3840&q=75&dpl=dpl_9b6NVfPk6soD7rjZwF1TY9aMtXNS",
+      "assetType": "site",
+      "subject": "Aerial view of the Bolduc pool, covered pavilion, outdoor kitchen, rai",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://atlantispoolsga.com/_next/image?url=%2Fprojects%2Fchadwell-twilight-reflection.webp&w=3840&q=75&dpl=dpl_9b6NVfPk6soD7rjZwF1TY9aMtXNS",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://atlantispoolsga.com/_next/image?url=%2Fprojects%2Fgaster-length.webp&w=3840&q=75&dpl=dpl_9b6NVfPk6soD7rjZwF1TY9aMtXNS",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://atlantispoolsga.com/_next/image?url=%2Fprojects%2Fgaster-marietta-coping.jpg&w=3840&q=75&dpl=dpl_9b6NVfPk6soD7rjZwF1TY9aMtXNS",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://atlantispoolsga.com/_next/image?url=%2Fprojects%2Fgaster-spa-loungers.webp&w=3840&q=75&dpl=dpl_9b6NVfPk6soD7rjZwF1TY9aMtXNS",
+      "assetType": "site",
+      "subject": "The Gaster spa and loungers in Marietta, the finished environment read",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://atlantispoolsga.com/_next/image?url=%2Fprojects%2Fkahtri-roswell-pavilion.webp&w=3840&q=75&dpl=dpl_9b6NVfPk6soD7rjZwF1TY9aMtXNS",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

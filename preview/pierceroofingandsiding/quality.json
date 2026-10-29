@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "pierceroofingandsiding",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://pierceroofingandsiding.com/wp-content/uploads/2025/09/gutter-repair.jpg",
+      "assetType": "site",
+      "subject": "gutter-repair",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://pierceroofingandsiding.com/wp-content/uploads/2025/09/new-construction-roofing.jpg",
+      "assetType": "site",
+      "subject": "new-construction-roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://pierceroofingandsiding.com/wp-content/uploads/2025/09/new-construction-roofing.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://pierceroofingandsiding.com/wp-content/uploads/2025/09/roof-repair-st-george-utah.jpg",
+      "assetType": "site",
+      "subject": "roof-repair-st-george-utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://pierceroofingandsiding.com/wp-content/uploads/2025/09/roof-repair-utah.webp",
+      "assetType": "site",
+      "subject": "roof-repair-utah",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://pierceroofingandsiding.com/wp-content/uploads/2025/09/roof-replacement.webp",
+      "assetType": "site",
+      "subject": "roof-replacement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

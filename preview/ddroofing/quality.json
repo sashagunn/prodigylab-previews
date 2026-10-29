@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ddroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://ddroofing.com/wp-content/uploads/DD-Roofing-Commercial-Roofing.jpg",
+      "assetType": "site",
+      "subject": "D&D Roofing and Sheet Metal Commercial Roofing Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://ddroofing.com/wp-content/uploads/D-and-D-Roofing-Project.jpg",
+      "assetType": "site",
+      "subject": "Reno Nevada Residence with new roof",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://ddroofing.com/wp-content/uploads/ESOP-Photo-Roofers-Banner.2203140750550-2048x1325.jpg",
+      "assetType": "site",
+      "subject": "D & D Roofing Employee Owners",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://ddroofing.com/wp-content/uploads/Shingle-Roof.jpeg",
+      "assetType": "site",
+      "subject": "Shingle roof",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://ddroofing.com/wp-content/uploads/D-and-D-Roofing-and-Sheet-Metal-Business-Office.jpg",
+      "assetType": "site",
+      "subject": "D&D Roofing and Sheet Metal Business Office",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://privacy-proxy-server.usercentrics.eu/googleMaps?center=1000%2520Glendale%2520Ave%252C%2520Sparks%252C%2520NV%2520%252089431&size=1000x500&zoom=12",
+      "assetType": "site",
+      "subject": "Google maps preview image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

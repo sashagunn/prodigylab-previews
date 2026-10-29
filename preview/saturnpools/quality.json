@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "saturnpools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.saturnpools.com/images/swimming%20pool%2011.JPG.jpg",
+      "assetType": "project",
+      "subject": "Custom concrete swimming pool built by Saturn Pool Company in Arizona",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.saturnpools.com/images/swimming%20pool%2014.JPG.jpg",
+      "assetType": "project",
+      "subject": "Backyard swimming pool and decking built by Saturn Pool Company in Ari",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.saturnpools.com/images/swimming%20pool%2015.jpg",
+      "assetType": "project",
+      "subject": "Backyard swimming pool and decking built by Saturn Pool Company in Ari",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.saturnpools.com/images/swimming%20pool%2013.jpg",
+      "assetType": "project",
+      "subject": "Custom pool and outdoor living space built by Saturn Pool Company in A",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.saturnpools.com/images/swimming%20pool%204.jpg",
+      "assetType": "project",
+      "subject": "Custom pool and outdoor living space built by Saturn Pool Company in A",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.saturnpools.com/images/swimming%20pool%206.jpg",
+      "assetType": "project",
+      "subject": "Backyard swimming pool and decking built by Saturn Pool Company in Ari",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "dolphin-pools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://i0.wp.com/dolphin-pools.com/wp-content/uploads/100_0799.webp?fit=1664%2C1248&ssl=1",
+      "assetType": "project",
+      "subject": "100",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://i0.wp.com/dolphin-pools.com/wp-content/uploads/101_0278.webp?fit=2048%2C1536&ssl=1",
+      "assetType": "project",
+      "subject": "101",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://i0.wp.com/dolphin-pools.com/wp-content/uploads/20170721_101300_HDR-scaled-1.webp?fit=2560%2C1280&ssl=1",
+      "assetType": "project",
+      "subject": "20170721 101300 HDR scaled",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://i0.wp.com/dolphin-pools.com/wp-content/uploads/21130.webp?w=1920&ssl=1",
+      "assetType": "project",
+      "subject": "21130",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://i0.wp.com/dolphin-pools.com/wp-content/uploads/DSCF0786-scaled-1.webp?fit=2560%2C1920&ssl=1",
+      "assetType": "project",
+      "subject": "DSCF0786 scaled",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://i0.wp.com/dolphin-pools.com/wp-content/uploads/Dunn19-scaled-1.webp?fit=2560%2C1709&ssl=1",
+      "assetType": "project",
+      "subject": "Dunn19 scaled",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

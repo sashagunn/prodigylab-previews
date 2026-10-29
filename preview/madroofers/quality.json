@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "madroofers",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://madroofers.instawp.site/wp-content/uploads/2024/02/Mad-roofing-hero--scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://madroofers.com/wp-content/uploads/2025/09/Home-Image.jpg",
+      "assetType": "site",
+      "subject": "MAD Roofing Contractors in Salt Lake City",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://madroofers.com/wp-content/uploads/2025/10/houses-in-salt-lake-city.jpg",
+      "assetType": "site",
+      "subject": "Bountiful-Roofing-Company",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://madroofers.com/wp-content/uploads/2025/12/emergency-commercial-roof-repair-in-salt-lake-city-winter.jpg",
+      "assetType": "site",
+      "subject": "Roof Repair in Winter",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://madroofers.com/wp-content/uploads/2025/12/winter-salt-lake-city-home-prepare.jpg",
+      "assetType": "site",
+      "subject": "House Roof covered in snow",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://madroofers.com/wp-content/uploads/2026/01/winter-snow-load-roof-in-salt-lake-city.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

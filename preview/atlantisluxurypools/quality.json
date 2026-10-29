@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "atlantisluxurypools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://atlantisluxurypools.com/wp-content/uploads/2023/06/custom-swimming-pools-south-carolina-01-768x494.jpg",
+      "assetType": "project",
+      "subject": "custom-swimming-pools-south-carolina-01",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://atlantisluxurypools.com/wp-content/uploads/2023/06/custom-swimming-pools-south-carolina-768x480.jpg",
+      "assetType": "project",
+      "subject": "custom-swimming-pools-south-carolina",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://atlantisluxurypools.com/wp-content/uploads/2026/04/custom-swimming-pools-south-carolina-0101-768x480.jpg",
+      "assetType": "project",
+      "subject": "custom-swimming-pools-south-carolina-0101",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://atlantisluxurypools.com/wp-content/uploads/2026/04/custom-swimming-pools-south-carolina-0103-768x480.jpg",
+      "assetType": "project",
+      "subject": "custom-swimming-pools-south-carolina-0103",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://atlantisluxurypools.com/wp-content/uploads/2026/04/custom-swimming-pools-south-carolina-0104-768x480.jpg",
+      "assetType": "project",
+      "subject": "custom-swimming-pools-south-carolina-0104",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://atlantisluxurypools.com/wp-content/uploads/2026/04/custom-swimming-pools-south-carolina-0107-768x480.jpg",
+      "assetType": "project",
+      "subject": "custom-swimming-pools-south-carolina-0107",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

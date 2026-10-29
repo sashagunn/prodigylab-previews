@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "fortituderoofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://fortituderoofing.com/_next/image/?url=%2Fimages%2Fprojects%2Fcommercial-roof-main.jpg&w=3840&q=75&dpl=dpl_7a5QgYFLKfBmbD5mjaYBBquVH6fV",
+      "assetType": "site",
+      "subject": "Commercial Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://fortituderoofing.com/_next/image/?url=%2Fimages%2Fprojects%2Fcommercial-roof-main.jpg&w=3840&q=90&dpl=dpl_7a5QgYFLKfBmbD5mjaYBBquVH6fV",
+      "assetType": "site",
+      "subject": "Commercial Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://fortituderoofing.com/_next/image/?url=%2Fimages%2Fprojects%2Fresidential-tile-hero.jpg&w=3840&q=75&dpl=dpl_7a5QgYFLKfBmbD5mjaYBBquVH6fV",
+      "assetType": "site",
+      "subject": "Residential Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://fortituderoofing.com/_next/image/?url=%2Fimages%2Fprojects%2Fresidential-tile-hero.jpg&w=3840&q=90&dpl=dpl_7a5QgYFLKfBmbD5mjaYBBquVH6fV",
+      "assetType": "site",
+      "subject": "Residential Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://fortituderoofing.com/_next/image/?url=%2Fimages%2Fprojects%2Froof-replacement-main.jpg&w=3840&q=90&dpl=dpl_7a5QgYFLKfBmbD5mjaYBBquVH6fV",
+      "assetType": "site",
+      "subject": "Roof Replacement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://fortituderoofing.com/_next/image/?url=%2Fimages%2Fhero.jpg&w=3840&q=75&dpl=dpl_7a5QgYFLKfBmbD5mjaYBBquVH6fV",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "bkfbuilders",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://bkfbuilders.com/wp-content/uploads/2024/09/1-scaled.jpg",
+      "assetType": "site",
+      "subject": "Gunite pool with a built-in spa beside a shaded outdoor living area",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://bkfbuilders.com/wp-content/uploads/2024/09/2-scaled.jpg",
+      "assetType": "site",
+      "subject": "Modern pool with adjacent outdoor living areas.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://bkfbuilders.com/wp-content/uploads/2024/09/3-scaled.jpg",
+      "assetType": "site",
+      "subject": "Aerial view of a custom pool in a lakeside setting.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://bkfbuilders.com/wp-content/uploads/2024/09/4-scaled.jpg",
+      "assetType": "site",
+      "subject": "Raised pool deck by a lake with a fire pit and patio seating",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://bkfbuilders.com/wp-content/uploads/2024/09/5-scaled.jpg",
+      "assetType": "site",
+      "subject": "Covered patio with modern seating overlooking a pool.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://bkfbuilders.com/wp-content/uploads/2024/09/7-1-scaled.jpg",
+      "assetType": "site",
+      "subject": "Saltwater pool and outdoor kitchen construction by BKF Builders.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

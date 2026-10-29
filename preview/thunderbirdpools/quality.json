@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "thunderbirdpools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/640b9d248e726f4e522bb387/65b03a09c9fb0bec7b0cb3b6_Critchfield%201.webp",
+      "assetType": "project",
+      "subject": "Pool and spa in custom tiled backyard",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/640b9d248e726f4e522bb387/65b03a09f6b7d15cd9087107_photo%201.webp",
+      "assetType": "project",
+      "subject": "Luxury custom pool with waterfall and fire features",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/640b9d248e726f4e522bb387/65b03a0b190bd7df73f435e9_photo3.webp",
+      "assetType": "project",
+      "subject": "Remodeled backyard with pool and grilling area",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/640b9d248e726f4e522bb387/65b03a0b2fbd20a5ad0827c8_photo%2021.webp",
+      "assetType": "project",
+      "subject": "Custom luxury pool with in-pool table and fountain",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/640b9d248e726f4e522bb387/65b03a0b55de3d5de471e121_yay%201.webp",
+      "assetType": "project",
+      "subject": "Custom pool with spa, scuppers, and fire pit",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/640b9d248e726f4e522bb387/65b03a0cf3e938a096085394_IMG_0163.webp",
+      "assetType": "project",
+      "subject": "Custom pool with waterfall in remodeled backyard with firepit",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
