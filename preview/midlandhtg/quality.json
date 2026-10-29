@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "midlandhtg",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://midlandhtg.com/about.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://midlandhtg.com/install.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://midlandhtg.com/team-photo.jpg",
+      "assetType": "site",
+      "subject": "The Midland Heating & Cooling team, family & locally owned in St. Loui",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://midlandhtg.com/owners.jpg",
+      "assetType": "site",
+      "subject": "The family owners of Midland Heating & Cooling in the Twin Cities",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://midlandhtg.com/maps/twin-cities-metro.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

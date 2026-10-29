@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "excelgeothermal",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://excelgeothermal.com/assets/img/home-run-alley-units.jpg",
+      "assetType": "project",
+      "subject": "Row of WaterFurnace geothermal units installed along the mechanical al",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://excelgeothermal.com/assets/img/horizontal-loops-aerial.jpg",
+      "assetType": "project",
+      "subject": "Aerial view of horizontal geothermal loops laid out in open trenches o",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://excelgeothermal.com/assets/img/attic-unit-header.jpg",
+      "assetType": "project",
+      "subject": "Geothermal air handler and insulated ductwork installed in a spray-foa",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://excelgeothermal.com/assets/img/home2-suites-paris-cover.jpg",
+      "assetType": "project",
+      "subject": "Home2 Suites by Hilton in Paris, Texas — exterior of the hotel served ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://excelgeothermal.com/assets/img/mckinney-attic-bosch-units.jpg",
+      "assetType": "project",
+      "subject": "Two Bosch geothermal units suspended in the attic of a McKinney two-st",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://excelgeothermal.com/assets/img/north-dallas-loop-trench.jpg",
+      "assetType": "project",
+      "subject": "Excel crew connecting geothermal loop piping in a trench along the fen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

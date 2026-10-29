@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "rivercityheatingcooling",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://rivercityheatingcooling.com/images/projects/attic-ductwork-1.webp",
+      "assetType": "project",
+      "subject": "Insulated flex ductwork running through an attic above blown-in insula",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://rivercityheatingcooling.com/images/projects/attic-ductwork-2.webp",
+      "assetType": "project",
+      "subject": "Attic duct trunk and refrigerant line set above blown-in insulation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://rivercityheatingcooling.com/images/projects/rooftop-package-unit-after-1.webp",
+      "assetType": "project",
+      "subject": "New rooftop package HVAC unit installed on a shingle roof under trees",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://rivercityheatingcooling.com/images/projects/rooftop-package-unit-before-1.webp",
+      "assetType": "project",
+      "subject": "Worn rooftop package air conditioner with faded cabinet before replace",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://rivercityheatingcooling.com/images/projects/rooftop-package-unit-before-2.webp",
+      "assetType": "project",
+      "subject": "Side view of an old rooftop package HVAC unit and supply duct transiti",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://rivercityheatingcooling.com/images/projects/rooftop-unit-replacement-after.webp",
+      "assetType": "project",
+      "subject": "New rooftop package HVAC unit installed level on a shingle roof",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

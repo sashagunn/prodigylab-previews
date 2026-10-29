@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "robies",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://robies.com/wp-content/uploads/2023/04/gallery-carrier3.webp",
+      "assetType": "project",
+      "subject": "A Carrier heating and air conditioning system professionally installed",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://robies.com/wp-content/uploads/2023/04/gallery-generac2.webp",
+      "assetType": "project",
+      "subject": "A Generac automatic standby generator installed by Robies next to a Ca",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://robies.com/wp-content/uploads/2023/04/gallery-lochinvar.webp",
+      "assetType": "project",
+      "subject": "A Lochinvar high efficiency boiler system with copper piping professio",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://robies.com/wp-content/uploads/2023/04/gallery-mitsubishi.webp",
+      "assetType": "project",
+      "subject": "A Mitsubishi ductless mini split installed by Robies in a Cape Cod bed",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://robies.com/wp-content/uploads/2026/02/Robies_2026PresidentsAward.png",
+      "assetType": "project",
+      "subject": "Robies is a 10 time winner of the Carrier Presidents Award, recognizin",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://robies.com/wp-content/uploads/2022/09/robies-service-fade2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

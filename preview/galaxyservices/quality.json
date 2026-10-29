@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "galaxyservices",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://galaxyservices.com/api/project-photos/818ec133-e9e7-4821-8eb2-ac3c1e108814?w=1200",
+      "assetType": "project",
+      "subject": "packaged heat pump in oakland",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://galaxyservices.com/api/project-photos/e975f8b0-6c31-49aa-8599-eb1aa05f943b?w=1200",
+      "assetType": "project",
+      "subject": "Bosch packaged heat pump",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://galaxyservices.com/api/project-photos/cfb45e23-758e-416f-86dd-5722699f82ba?w=1200",
+      "assetType": "project",
+      "subject": "48795 26527 Furnace Carrier 58TP1B070V1716 WalnutCreek",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://galaxyservices.com/api/gallery-images/galaxy-installation-4561.webp?w=1200",
+      "assetType": "project",
+      "subject": "American Standard packaged HVAC unit on a rooftop with service walkway",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://galaxyservices.com/api/project-photos/0f292e96-1846-4d13-85c2-7231b7d9a7e9?w=1200",
+      "assetType": "project",
+      "subject": "50453 261010 HeatPump Mitsubishi MXZ 2D20 SanFrancisco",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://galaxyservices.com/api/project-photos/3347a4d4-6e7f-47b5-b04e-064e96acea65?w=1200",
+      "assetType": "project",
+      "subject": "50623 261021 HeatPump Midea MO1BE H24B 2A Oakland",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

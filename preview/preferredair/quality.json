@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "preferredair",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/63d1e62530ce1b5118afdab1/64074d10f03349cbdaf6abb9_20220804_072715.jpg",
+      "assetType": "project",
+      "subject": "Our experienced technicians offer installation services for outdoor HV",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/63d1e62530ce1b5118afdab1/64074d6475990d272f341c63_2023-03-07%2009_05_10-Mitsubishi%20Commercial%20Preferred%20Air%20-%20YouTube.png",
+      "assetType": "project",
+      "subject": "Watch this video of real customer feedback about our services",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/63d1e62530ce1b5118afdab1/64069fa6f17d35587752b40f_How-To-Use-Your-Air-Conditioner-Timer-Header.jpg",
+      "assetType": "project",
+      "subject": "View photos showcasing examples of our work on duct system installatio",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/63d1e62530ce1b5118afdab1/6406a09011d15b604aa44ccd_ductless-mini-split.jpg",
+      "assetType": "project",
+      "subject": "Explore the variety of heating and air conditioning systems we sell an",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/63d1e62530ce1b5118afdab1/640a75c14b2b07031c93b8f3_thumbnail_profile%20picture.jpg",
+      "assetType": "project",
+      "subject": "Tom Favazza, the Owner of Preferred Air, is dedicated to offering the ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/63d1e62530ce1b5118afdab1/6904cc5d9d475445f4b6c5ea_PreferredAir-Celebrating35Years.avif",
+      "assetType": "project",
+      "subject": "Preferred Air is celebrating 35 years of HVAC service beginning in 199",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

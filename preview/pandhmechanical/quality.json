@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "slug": "pandhmechanical",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/images/rotator/trane-home-hvac-rotator.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/uploads/0014948DEA000975/images/ph-group-rotator.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/uploads/0014948DEA000975/images/trane-products-rotator2020.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

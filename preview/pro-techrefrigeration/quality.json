@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "pro-techrefrigeration",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/images/rotator/bryant-installer-03.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/images/rotator/bryant-van-01.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

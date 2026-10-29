@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "sugarhollowsolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/662e6d63b2d1d600cb9e9e41/054612fb-8ee6-4fd0-bf3a-015b2518d601/sugar-hollow-solar-panels-house-with-mountains.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/662e6d63b2d1d600cb9e9e41/421c0b72-b25f-401f-b131-e9625acfc146/father-and-daughter-outside-house-with-solar-panels.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/662e6d63b2d1d600cb9e9e41/472908c2-e08a-49b8-8bd6-88ff056c1f82/doug-shaking-hands.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/662e6d63b2d1d600cb9e9e41/6689a982-85d0-4a4f-95d0-10c53d0eee5f/couple-outside-home.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/662e6d63b2d1d600cb9e9e41/c4411ffb-24e8-4f07-b0d6-1b1e1201f96d/Artile+Picture+Option+2.png",
+      "assetType": "site",
+      "subject": "Important Update: Unauthorized Service Offers, and How to Protect your",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/662e6d63b2d1d600cb9e9e41/da3f9225-377f-4379-923a-411a2fc0d663/sun-on-solar-panel-roof.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
