@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "outdoorluxuryco",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6eb229_4b6b2574cde3475c9243e1d20b7af53d~mv2.png/v1/fill/w_1440,h_900,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6eb229_4b6b2574cde3475c9243e1d20b7af53d~mv2.png",
+      "assetType": "site",
+      "subject": "Copy of Copy of Copy of Copy of Copy of . (36).png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6eb229_55137569d65d4adeb8e83f9583f6fd84~mv2.png/v1/fill/w_1440,h_900,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6eb229_55137569d65d4adeb8e83f9583f6fd84~mv2.png",
+      "assetType": "site",
+      "subject": "Copy of Copy of Copy of Copy of Copy of . (31).png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6eb229_740e7407c6b247ca87c5361329aa6b2e~mv2.png/v1/fill/w_1440,h_900,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6eb229_740e7407c6b247ca87c5361329aa6b2e~mv2.png",
+      "assetType": "site",
+      "subject": "Copy of Copy of Copy of Copy of Copy of . (41).png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6eb229_743922aaa6a6425393437d3f452b67ba~mv2.png/v1/fill/w_1440,h_900,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6eb229_743922aaa6a6425393437d3f452b67ba~mv2.png",
+      "assetType": "site",
+      "subject": "Copy of Copy of Copy of Copy of Copy of . (32).png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6eb229_756c6979f93f4fc992b6a77985b4c38b~mv2.png/v1/fill/w_1440,h_900,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6eb229_756c6979f93f4fc992b6a77985b4c38b~mv2.png",
+      "assetType": "site",
+      "subject": "Copy of Copy of Copy of Copy of Copy of . (35).png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6eb229_e71478da398443a8b6d265e4fca2d7b7~mv2.png/v1/fill/w_1440,h_900,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6eb229_e71478da398443a8b6d265e4fca2d7b7~mv2.png",
+      "assetType": "site",
+      "subject": "Copy of Copy of Copy of Copy of Copy of . (39).png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

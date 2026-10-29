@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aquariumpools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/57f3a232d1758e267f447992/1731079574999-NCIJ4GMXU4C0X0SEQBBM/image-asset.jpeg",
+      "assetType": "project",
+      "subject": "Inground Concrete Pool with Mountain Views",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/57f3a232d1758e267f447992/1749666845692-8YCXKN2S7Y8KQPUDYFDD/image-asset.jpeg",
+      "assetType": "project",
+      "subject": "Birchwood TN River Concrete Pool Installation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/57f3a232d1758e267f447992/1749667359682-FTJID8ULG5MAYV12KADM/image-asset.jpeg",
+      "assetType": "project",
+      "subject": "Tennessee River Pool",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/57f3a232d1758e267f447992/1756912924051-SPVGRXK7PE5I7B76W17U/21-CS+-+Lee+%28Pool%29-21.jpg",
+      "assetType": "project",
+      "subject": "21-CS - Lee (Pool)-21.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/57f3a232d1758e267f447992/1756913105604-3ZG4C6HBNOM9XBQN6ZBC/24-CS+-+Lee+%28Pool%29-24.jpg",
+      "assetType": "project",
+      "subject": "24-CS - Lee (Pool)-24.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/57f3a232d1758e267f447992/1749643015135-5O54ZI5A2FTXSMMQGEW0/image-asset.jpeg",
+      "assetType": "project",
+      "subject": "110 Point Place Birchwood Tennessee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

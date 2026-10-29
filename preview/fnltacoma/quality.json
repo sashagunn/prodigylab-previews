@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "fnltacoma",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://fnltacoma.com/images/wp-uploads/807-Baylor-St-8.jpg",
+      "assetType": "project",
+      "subject": "Paver patio with outdoor kitchen and covered patio, Fircrest",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://fnltacoma.com/images/wp-uploads/Arrowhead-Dr-6.jpg",
+      "assetType": "project",
+      "subject": "Custom outdoor kitchen with a deck, hot tub, and fire pit, Gig Harbor",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://fnltacoma.com/images/wp-uploads/barrett-DJI_0090-scaled.jpg",
+      "assetType": "project",
+      "subject": "Drone view of porcelain paver pool surround with outdoor kitchen and w",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://fnltacoma.com/images/wp-uploads/pauole-20150203_134021-scaled.jpg",
+      "assetType": "project",
+      "subject": "Board-formed concrete patio with outdoor kitchen and hot tub, Longbran",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://fnltacoma.com/images/wp-uploads/barrera-hero.jpg",
+      "assetType": "project",
+      "subject": "Wood lounge chairs on the finished upper paver patio in golden evening",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://fnltacoma.com/images/wp-uploads/richmond-after-118.jpg",
+      "assetType": "project",
+      "subject": "Renovated Tacoma front yard with new lawn, fresh planting beds, and a ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

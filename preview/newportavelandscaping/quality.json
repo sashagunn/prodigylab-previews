@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "newportavelandscaping",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.newportavelandscaping.com/app-storage/3834NEOaksideLoopHiResPhotos14_0d09578d.webp",
+      "assetType": "project",
+      "subject": "Northeast Bend Paver Patio & Pergola — photo 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.newportavelandscaping.com/app-storage/3834NEOaksideLoopHiResPhotos16_187447a3.webp",
+      "assetType": "project",
+      "subject": "Northeast Bend Paver Patio & Pergola — photo 3",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.newportavelandscaping.com/app-storage/3834NEOaksideLoopHiResPhotos17_54054331.webp",
+      "assetType": "project",
+      "subject": "Northeast Bend Paver Patio & Pergola — photo 4",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.newportavelandscaping.com/app-storage/3834NEOaksideLoopHiResPhotos6_8738948f.webp",
+      "assetType": "project",
+      "subject": "Northeast Bend Paver Patio & Pergola — photo 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.newportavelandscaping.com/app-storage/IMG_1077_3bcb77c4.webp",
+      "assetType": "project",
+      "subject": "Bare dirt and mulch backyard before landscaping — Northeast Bend Orego",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.newportavelandscaping.com/app-storage/IMG_2771_56fc42c3.jpeg",
+      "assetType": "project",
+      "subject": "Sunriver Pond & Water Feature Rebuild — photo 3",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

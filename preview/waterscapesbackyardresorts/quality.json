@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "waterscapesbackyardresorts",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://waterscapesbackyardresorts.com/images/projects/tarkington-residence/tarkington-1.webp",
+      "assetType": "project",
+      "subject": "Illuminated resort-style pool and spa at Tarkington Residence built by",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://waterscapesbackyardresorts.com/images/projects/francis-residence/francis-1.webp",
+      "assetType": "project",
+      "subject": "Custom gunite pool and outdoor living space at Francis Residence built",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://waterscapesbackyardresorts.com/images/projects/nashville-zoo-giraffe.webp",
+      "assetType": "project",
+      "subject": "Giraffe at the Nashville Zoo entrance sign — a Waterscapes Backyard Re",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://waterscapesbackyardresorts.com/images/projects/projects-hero.webp",
+      "assetType": "project",
+      "subject": "Custom gunite pool with LED lighting at night built by Waterscapes Bac",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://waterscapesbackyardresorts.com/images/pool-alt.webp",
+      "assetType": "site",
+      "subject": "Luxury resort-style gunite pool with cascading water feature built by ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://waterscapesbackyardresorts.com/images/about-hero.webp",
+      "assetType": "site",
+      "subject": "Lee and Alecia Seelig, owners of Waterscapes Backyard Resorts",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

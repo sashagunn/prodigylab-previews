@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "slug": "projectlandworks",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6ee908_6f2cc4a3aefb48f0be90c9e922ff87af~mv2.png/v1/fill/w_788,h_1000,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/project%20landworks.png",
+      "assetType": "site",
+      "subject": "project landworks.png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

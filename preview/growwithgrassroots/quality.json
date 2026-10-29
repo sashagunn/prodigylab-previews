@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "growwithgrassroots",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f1a0f_ab634c40b631468aa216542f9837210e~mv2.png/v1/fill/w_1960,h_1000,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/5_12_23%20Service%20Process%20Graphic.png",
+      "assetType": "site",
+      "subject": "Service Process Graphic",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f1a0f_5fbeae24d9994b2b8e68ddf458bea242~mv2.jpg/v1/crop/x_0,y_278,w_3024,h_1723/fill/w_1738,h_1002,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1583.jpg",
+      "assetType": "site",
+      "subject": "plant nursery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f1a0f_2d254b6a32ed4070b1b2f3e1fe7d7c7b~mv2.jpeg/v1/fill/w_1000,h_531,al_c,q_85,enc_avif,quality_auto/backyard-aerial.jpeg",
+      "assetType": "site",
+      "subject": "landscaped backyard with plantings and outdoor kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f1a0f_75da221546d543dcaa62fdc01bbd7ac2f000.jpg/v1/fill/w_1440,h_800,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/7f1a0f_75da221546d543dcaa62fdc01bbd7ac2f000.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f1a0f_799ebd0c9b9c461c8aaea7703be6303f~mv2.jpg/v1/fill/w_1364,h_724,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Copy%20of%20Drone_01.jpg",
+      "assetType": "site",
+      "subject": "outdoor living space",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f1a0f_b2739003fcdf4ac4b7baed810894f17d~mv2.jpg/v1/fill/w_1254,h_637,al_c,q_85,enc_avif,quality_auto/7f1a0f_b2739003fcdf4ac4b7baed810894f17d~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

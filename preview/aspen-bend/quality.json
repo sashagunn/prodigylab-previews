@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aspen-bend",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://aspen-bend.com/wp-content/uploads/2021/03/Belle-Pond-After-scaled.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://aspen-bend.com/wp-content/uploads/2021/03/Belle-Pond-Before-scaled.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://aspen-bend.com/wp-content/uploads/2021/03/Cole-After.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://aspen-bend.com/wp-content/uploads/2021/03/Cole-Before.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://aspen-bend.com/wp-content/uploads/2021/06/before-greenhouse.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://aspen-bend.com/wp-content/uploads/2022/08/IMG_8328-2-2.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aquabluepools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/90eb7ebb/dms3rep/multi/ABP-133+Augusta+Ct-5350.jpg",
+      "assetType": "project",
+      "subject": "Custom pool by Aqua Blue Pools",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/90eb7ebb/dms3rep/multi/ABP-133+Augusta+Ct-5428.jpg",
+      "assetType": "project",
+      "subject": "Custom pool by Aqua Blue Pools",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/90eb7ebb/dms3rep/multi/ABP-151+Circle+Slope+Dr-5569.jpg",
+      "assetType": "project",
+      "subject": "Custom pool by Aqua Blue Pools",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/90eb7ebb/dms3rep/multi/ABP-151+Circle+Slope+Dr-5609.jpg",
+      "assetType": "project",
+      "subject": "Custom pool by Aqua Blue Pools",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/90eb7ebb/dms3rep/multi/ABP-207+Abbot+Trail-6407.jpg",
+      "assetType": "project",
+      "subject": "Custom pool by Aqua Blue Pools",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/90eb7ebb/dms3rep/multi/ABP-207+Abbot+Trail-6417.jpg",
+      "assetType": "project",
+      "subject": "Custom pool by Aqua Blue Pools",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
