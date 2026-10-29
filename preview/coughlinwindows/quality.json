@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "coughlinwindows",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.coughlinwindows.com/wp-content/uploads/2024/05/1_2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.coughlinwindows.com/wp-content/uploads/2024/05/5_2-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.coughlinwindows.com/wp-content/uploads/2024/12/IMG_3053-scaled-1-2048x1365.jpg",
+      "assetType": "site",
+      "subject": "IMG_3053-scaled - Coughlin Windows and Doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.coughlinwindows.com/wp-content/uploads/2024/12/IMG_3053-scaled-1.jpg",
+      "assetType": "site",
+      "subject": "IMG_3053-scaled - Coughlin Windows and Doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.coughlinwindows.com/wp-content/uploads/2026/10/Do-Replacement-Windows-Really-Increase-Home-Value-An-Honest-Look-for-San-Diego-Homeowners.jpeg",
+      "assetType": "site",
+      "subject": "Modern bright kitchen with an island and cream upholstered stools, cha",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.coughlinwindows.com/wp-content/uploads/2024/12/Simonton-Awning-Gallery-Image.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "closetnow",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/672216dcd42f522396b35e73/690e303eeb0b2ac7ce1a54c6_walkin-closet.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6725354da457368a8d64c296/690e312baac5d8c04187783d_walkin-closet.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/672216dcd42f522396b35e73/68c1e266785c3232a39f2c7d_FLORA%20Luxury%20Closet%20Space%20(1)%20(1).jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6725354da457368a8d64c296/679218c68b692e8e1e258ffe_wk_ig_1.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6725354da457368a8d64c296/679218fe526e09052443286b_wk_ig_3.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6725354da457368a8d64c296/6792192970942f0e1b113a13_wk_ig_5.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

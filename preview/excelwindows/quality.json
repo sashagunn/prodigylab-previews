@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "excelwindows",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.excelwindows.com/photos/portfolio/roof-as-01.webp",
+      "assetType": "project",
+      "subject": "Complete asphalt-shingle roof replacement on a custom brick home, Chic",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.excelwindows.com/photos/portfolio/win-cs-01.webp",
+      "assetType": "project",
+      "subject": "Casement windows on a brick ranch, Chicagoland south suburbs",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.excelwindows.com/photos/portfolio/door-entry-01.webp",
+      "assetType": "project",
+      "subject": "New fiberglass entry door with decorative-glass sidelites on a south-s",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.excelwindows.com/photos/portfolio/side-ew-01.webp",
+      "assetType": "project",
+      "subject": "LP SmartSide engineered-wood siding with a DiamondKote finish, south-s",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.excelwindows.com/photos/portfolio/side-ew-02.webp",
+      "assetType": "project",
+      "subject": "Engineered-wood siding on a south-suburb home, Chicagoland",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.excelwindows.com/photos/portfolio/side-ew-03.webp",
+      "assetType": "project",
+      "subject": "DiamondKote pre-finished engineered-wood siding, Chicagoland",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

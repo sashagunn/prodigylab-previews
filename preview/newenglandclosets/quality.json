@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "newenglandclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://newenglandclosets.com/wp-content/uploads/2022/04/bg2-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://newenglandclosets.com/wp-content/uploads/2024/11/Wardrobe6-1.webp",
+      "assetType": "site",
+      "subject": "Wardrobe6-1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://newenglandclosets.com/wp-content/uploads/2024/12/KataramNEC-328-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://newenglandclosets.com/wp-content/uploads/2022/04/after.jpg",
+      "assetType": "site",
+      "subject": "Closet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://newenglandclosets.com/wp-content/uploads/2022/04/before.jpg",
+      "assetType": "site",
+      "subject": "Before Closet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://newenglandclosets.com/wp-content/uploads/2022/04/1.jpg",
+      "assetType": "site",
+      "subject": "Customer Service",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

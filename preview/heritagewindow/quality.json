@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "heritagewindow",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5f17306de50cf232e071d43f/1610992647643-1WTJV0IMPT8HZ2L18I2Q/image001.jpg",
+      "assetType": "project",
+      "subject": "Loewen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5f17306de50cf232e071d43f/1610992647714-G8578CIAPITHMDEKF1V8/IMG_0322.jpg",
+      "assetType": "project",
+      "subject": "Loewen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5f17306de50cf232e071d43f/1610992649735-DOTKAL0EQ02ECHPE7Q8K/IMG_0325.jpg",
+      "assetType": "project",
+      "subject": "Loewen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5f17306de50cf232e071d43f/1610992655064-NLCZOIVEE9WG52Z5AU6H/IMG_0337.jpg",
+      "assetType": "project",
+      "subject": "Loewen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5f17306de50cf232e071d43f/1610992655166-YBTD6MP3UH55KGV22PU2/IMG_0523.JPG",
+      "assetType": "project",
+      "subject": "Loewen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5f17306de50cf232e071d43f/1610992665790-ET4O7K06QL7QH85U02V4/IMG_2118.JPG",
+      "assetType": "project",
+      "subject": "Loewen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

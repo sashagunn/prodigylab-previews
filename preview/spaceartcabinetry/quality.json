@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "spaceartcabinetry",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6a343f9c6572fd0225f0b686/6a356e7e81a87daf4740d117_ddedba662491fb345c8b0d5185e1323098f39df8.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6a343f9c6572fd0225f0b686/6aca6ea788343be0cbc0f3e2_Freidman%20V2%20(1)%20(1)%201%20(2).avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6a343f9c6572fd0225f0b686/6a35ab5949cdbd39b3697c6d_Rectangle%2022.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6a343f9c6572fd0225f0b686/6a35ab8eecd39a6f8557103b_Rectangle%2020.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6a343f9c6572fd0225f0b686/6a38ca81fbf903a6ea049a3d_Rectangle%2018.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "08.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/6a343f9c6572fd0225f0b686/6a38cbaad56b071a06dc33e2_Rectangle%2020.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

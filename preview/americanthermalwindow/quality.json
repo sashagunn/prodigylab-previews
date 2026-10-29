@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "americanthermalwindow",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://americanthermalwindow.com/wp-content/uploads/2023/02/001_5733_NSheridan-scaled.jpg",
+      "assetType": "project",
+      "subject": "circle chandelier",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://americanthermalwindow.com/wp-content/uploads/2023/02/001_6255-N-Knox-scaled.jpg",
+      "assetType": "project",
+      "subject": "home balcony",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://americanthermalwindow.com/wp-content/uploads/2023/02/001-2224-W-Potomac-scaled.jpg",
+      "assetType": "project",
+      "subject": "ladder outside apartments",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://americanthermalwindow.com/wp-content/uploads/2023/02/002_5733_NSheridan-scaled.jpg",
+      "assetType": "project",
+      "subject": "apartment design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://americanthermalwindow.com/wp-content/uploads/2023/02/002_6255-N-Knox-1-scaled.jpg",
+      "assetType": "project",
+      "subject": "grey chairs",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://americanthermalwindow.com/wp-content/uploads/2023/02/002_755-N-Paulina-scaled.jpg",
+      "assetType": "project",
+      "subject": "apartment windows interior",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

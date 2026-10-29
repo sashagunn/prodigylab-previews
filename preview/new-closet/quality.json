@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "new-closet",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/532782d0e4b0fc82b94c7d5e/1649340329504-NCH4802JL7F62T2HL3XA/IMG_2842a.jpg",
+      "assetType": "site",
+      "subject": "IMG_2842a.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/532782d0e4b0fc82b94c7d5e/1395593351731-U1Y9OSWGAKHZ5YJYFPZ7/IMG_2842.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "IMG_2842.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/532782d0e4b0fc82b94c7d5e/1685124529443-32JH894TKUHMU7XIDM9T/20220221_163908.jpg",
+      "assetType": "site",
+      "subject": "20220221_163908.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/532782d0e4b0fc82b94c7d5e/1685125194455-APA5HVQZSBV1UN7ZG1S7/20220316_124700.jpg",
+      "assetType": "site",
+      "subject": "20220316_124700.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/532782d0e4b0fc82b94c7d5e/1685125206780-CER2BEKI650977826X4O/20220217_155301.jpg",
+      "assetType": "site",
+      "subject": "20220217_155301.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/532782d0e4b0fc82b94c7d5e/1685125389770-6MF7W762GZ116TJXPDIH/20220608_134635.jpg",
+      "assetType": "site",
+      "subject": "20220608_134635.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "allamericanwindow",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://allamericanwindow.com/wp-content/uploads/2023/05/Last-Call-2-1200x895.jpg",
+      "assetType": "site",
+      "subject": "door replacement in Richfield, door replacement richfield, Richfield d",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://allamericanwindow.com/wp-content/uploads/2022/01/AAWD-Jobsign.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://allamericanwindow.com/wp-content/uploads/2022/01/show-room.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://allamericanwindow.com/wp-content/uploads/2022/01/bg-reviews.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://allamericanwindow.com/wp-content/uploads/2023/05/Cover-2-1-1200x1053.jpg",
+      "assetType": "site",
+      "subject": "door replacement in Richfield, door replacement richfield, Richfield d",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

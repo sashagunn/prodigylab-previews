@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "howepatio",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://howepatio.com/wp-content/uploads/2025/02/20220324_152902-1-scaled.jpg",
+      "assetType": "project",
+      "subject": "20220324_152902",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://howepatio.com/wp-content/uploads/2025/02/20220324_152953-1-scaled.jpg",
+      "assetType": "project",
+      "subject": "Doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://howepatio.com/wp-content/uploads/2025/02/Brick-pic-of-ranch-house.jpg",
+      "assetType": "project",
+      "subject": "Brick pic of ranch house",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://howepatio.com/wp-content/uploads/2025/02/IMG_0250-scaled.jpg",
+      "assetType": "project",
+      "subject": "IMG_0250",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://howepatio.com/wp-content/uploads/2025/02/Brainerd-III.jpg",
+      "assetType": "project",
+      "subject": "Brainerd III",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://howepatio.com/wp-content/uploads/2025/02/Medalist-51820-1-1.jpg",
+      "assetType": "project",
+      "subject": "Medalist-51820-1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

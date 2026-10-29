@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "quinnhavendesign",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://quinnhavendesign.com/wp-content/uploads/2026/01/IMG_5436-2-1200x800.avif",
+      "assetType": "project",
+      "subject": "White Shaker cabinets with Gold hardware Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://quinnhavendesign.com/wp-content/uploads/2026/09/2-1-1200x800.avif",
+      "assetType": "project",
+      "subject": "Bold Elegance: Black Kitchen Cabinets & White Countertops",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://quinnhavendesign.com/wp-content/uploads/2026/09/2-2-1200x800.avif",
+      "assetType": "project",
+      "subject": "Natural Harmony: White Shaker Kitchen & Wood Island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://quinnhavendesign.com/wp-content/uploads/2026/09/IMG_6294-1200x800.avif",
+      "assetType": "project",
+      "subject": "Warm Elegance: Natural Wood & Gold Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://quinnhavendesign.com/wp-content/uploads/2026/09/IMG_6644-2-1200x800.avif",
+      "assetType": "project",
+      "subject": "Smart-function Kitchen Cabinetry",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://quinnhavendesign.com/wp-content/uploads/2026/09/Photo-Oct-22-2025-2-35-42-PM-2-2-1200x800.avif",
+      "assetType": "project",
+      "subject": "Simply Serene: Light Oak Walk-In Closet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

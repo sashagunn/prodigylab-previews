@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "dreamclosetsnyc",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67c5d0da24b9e91c1b54cb0e/0071c2bd-6a6b-4966-95a2-ee87de4671fd/dones.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "A walk-in closet with white cabinetry, hanging clothes, high heels on ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67c5d0da24b9e91c1b54cb0e/2d3aac2e-c1f0-457c-9975-2d0f930b0a8e/ENTRYWAYS.png",
+      "assetType": "project",
+      "subject": "Bright and airy entryway with large windows, white built-in closet and",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67c5d0da24b9e91c1b54cb0e/67dff2ba-e662-4122-b92e-38154fbfa43a/LUXURY+WALK-IN+CLOSETS.png",
+      "assetType": "project",
+      "subject": "Modern walk-in closet with clothes, shoes, and accessories, large wind",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67c5d0da24b9e91c1b54cb0e/a59f1749-8d4a-4428-b921-bd862517bf0c/REACH-IN+CLOSETS.png",
+      "assetType": "project",
+      "subject": "Modern bedroom with walk-in closet featuring hanging shirts and folded",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67c5d0da24b9e91c1b54cb0e/4696926f-1940-4bc4-94ef-cf4c57d408c4/MURPHY+BEDS.png",
+      "assetType": "project",
+      "subject": "Modern bedroom with large window overlooking a city skyline, featuring",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67c5d0da24b9e91c1b54cb0e/53e4c75c-87f1-4a8f-9ab0-9fd1ecfe2dd7/MEDIA+CENTERS.png",
+      "assetType": "project",
+      "subject": "Living room with built-in gray shelves holding decorative objects and ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

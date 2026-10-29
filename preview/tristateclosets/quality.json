@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "tristateclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://tristateclosets.net/wp-content/uploads/2013/04/tri-state-closets-bg-main.jpg",
+      "assetType": "project",
+      "subject": "Organizational Extras Gallery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://tristateclosets.net/wp-content/uploads/2013/04/tri-state-closets7.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://tristateclosets.net/wp-content/uploads/2013/04/tristateclosets1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://tristateclosets.net/wp-content/uploads/2013/04/tristateclosets2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
