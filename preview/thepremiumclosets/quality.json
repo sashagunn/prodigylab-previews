@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "thepremiumclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.thepremiumclosets.com/wp-content/uploads/2023/09/PC_BACKGROUND_9.webp",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.thepremiumclosets.com/wp-content/uploads/2024/11/9X1A3894.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.thepremiumclosets.com/wp-content/uploads/2023/09/PC_BACKGROUND_10.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.thepremiumclosets.com/wp-content/uploads/2024/05/video.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.thepremiumclosets.com/wp-content/uploads/2024/11/P5A9011-Edit-Edit-scaled.webp",
+      "assetType": "site",
+      "subject": "Discover Our Journey to Creating Beautifully Organized Spaces",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://www.thepremiumclosets.com/wp-content/uploads/2025/07/closet-design-in-birmingham-mi.jpg",
+      "assetType": "site",
+      "subject": "Elegant walk-in closet design in Birmingham, MI featuring custom wood ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

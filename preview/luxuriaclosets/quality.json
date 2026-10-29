@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "luxuriaclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/e5a2c5_4bb89f555a6944f58df4a4edf9fdbd58~mv2.jpg/v1/fill/w_1440,h_766,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e5a2c5_4bb89f555a6944f58df4a4edf9fdbd58~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/e5a2c5_af21b6cca98347329214eed083a29b20~mv2.jpg/v1/fill/w_1440,h_766,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e5a2c5_af21b6cca98347329214eed083a29b20~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/e5a2c5_b6b2caa6c6944dec980819abc23b24d7~mv2.jpg/v1/fill/w_1440,h_766,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e5a2c5_b6b2caa6c6944dec980819abc23b24d7~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/nsplsh_7a5446546f75506b6b4730~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_1440,h_714,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/nsplsh_7a5446546f75506b6b4730~mv2_d_5760_3840_s_4_2.jpg",
+      "assetType": "site",
+      "subject": "Image by Drew Hays",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/e5a2c5_33d1a8422449496d8bee98333cdf3ba5~mv2.jpeg/v1/fill/w_980,h_470,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e5a2c5_33d1a8422449496d8bee98333cdf3ba5~mv2.jpeg",
+      "assetType": "site",
+      "subject": "IMG_5354.JPEG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/e5a2c5_4dfe61fe1dc04e2699e4b1c0c9232267~mv2.jpg/v1/fill/w_721,h_550,al_b,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e5a2c5_4dfe61fe1dc04e2699e4b1c0c9232267~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

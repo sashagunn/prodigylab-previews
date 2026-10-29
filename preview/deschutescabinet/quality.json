@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "deschutescabinet",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://deschutescabinet.com/images/portfolio/drcc-custom-cabinets-bend-02-20210720201628332189000000-o.jpg",
+      "assetType": "project",
+      "subject": "Kitchen &amp; Dining Great Room — custom cabinetry by Deschutes River ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://deschutescabinet.com/images/portfolio/drcc-custom-cabinets-bend-01-20210720201547409436000000-o.jpg",
+      "assetType": "project",
+      "subject": "Open-Concept Island Kitchen — custom cabinetry by Deschutes River Cabi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://deschutescabinet.com/images/portfolio/drcc-custom-cabinets-bend-19-spelmeyer-2.jpg",
+      "assetType": "project",
+      "subject": "Vaulted Great-Room Kitchen — custom cabinetry by Deschutes River Cabin",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://deschutescabinet.com/images/portfolio/drcc-custom-cabinets-bend-24-wilson-12.jpg",
+      "assetType": "project",
+      "subject": "Window-Wall Kitchen — custom cabinetry by Deschutes River Cabinet & Cl",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://deschutescabinet.com/images/portfolio/drcc-custom-cabinets-bend-26-wilson-16.jpg",
+      "assetType": "project",
+      "subject": "Classic White &amp; Oak Kitchen — custom cabinetry by Deschutes River ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://deschutescabinet.com/images/portfolio/drcc-custom-cabinets-bend-06-lot-44-4.jpg",
+      "assetType": "project",
+      "subject": "Dark Media &amp; Bar Wall — custom cabinetry by Deschutes River Cabine",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

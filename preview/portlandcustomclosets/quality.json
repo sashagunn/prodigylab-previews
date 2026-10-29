@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "slug": "portlandcustomclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.portlandcustomclosets.com/wp-content/uploads/2026/08/Entertainment.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

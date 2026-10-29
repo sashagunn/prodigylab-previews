@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "b1cabinetry",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/65273bc90efa343f4f3a17d9/118b0e20-8ebd-43a3-b376-809ee88d40de/modern-walnut-kitchen-custom-cabinets-scottsdale-az?format=2500w",
+      "assetType": "site",
+      "subject": "Modern kitchen with white countertops, wooden cabinets, and a large is",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/65273bc90efa343f4f3a17d9/27fe6d75-30a5-44c4-93f9-1baa3c790b6d/11260+E+Mesquite+Dr.web-7.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Modern kitchen area with dark cabinetry, wine fridge, wood panels, and",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/65273bc90efa343f4f3a17d9/2a980903-30da-48f7-954d-42f9e96eb3f4/E+Mesquite+Dr-ANO-web?format=2500w",
+      "assetType": "site",
+      "subject": "Modern kitchen with black and white cabinets, wooden shelves, gray til",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/65273bc90efa343f4f3a17d9/806a2668-ac7c-4caa-a68e-2b17e175908c/28020+N+95th+St.web-12.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Modern kitchen with black cabinetry, a long white countertop, and larg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/65273bc90efa343f4f3a17d9/ed8a9eb9-985a-44c3-b9d3-3d5b2348852e/houses-20.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Modern kitchen with island, bar stools, pendant lights, stainless stee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/65273bc90efa343f4f3a17d9/1697559588963-PJEMFTJ5LVBYZBVYX9JE/image-asset.jpeg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

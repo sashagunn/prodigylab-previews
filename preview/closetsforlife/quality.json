@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "closetsforlife",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://closetsforlife.com/wp-content/uploads/2018/07/Rainbow127.jpg",
+      "assetType": "site",
+      "subject": "Walk-in Closet System",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://closetsforlife.com/wp-content/uploads/2022/05/IMG_0391-scaled.jpg",
+      "assetType": "site",
+      "subject": "IMG_0391",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://closetsforlife.com/wp-content/uploads/2017/05/garage-large-cabinet-open.jpg",
+      "assetType": "site",
+      "subject": "Phase Two - Garage 3",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://closetsforlife.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-04-at-4.06.24-PM.png",
+      "assetType": "site",
+      "subject": "custom closets service area map",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://closetsforlife.com/wp-content/uploads/2016/07/Laundry-Room_12.png",
+      "assetType": "site",
+      "subject": "laundry-room_12",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://closetsforlife.com/wp-content/uploads/2021/12/IMG_0035-1366x2048.jpg",
+      "assetType": "site",
+      "subject": "Twin Cities Custom Closets Company, Closets For Life, Welcomes New Own",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

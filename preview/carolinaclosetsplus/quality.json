@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "carolinaclosetsplus",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/082d80_dd39facd14dc43a9a9096986f2e76251~mv2.jpg/v1/crop/x_2,y_0,w_5708,h_4284/fill/w_1002,h_752,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_4628_JPG.jpg",
+      "assetType": "site",
+      "subject": "IMG_4628.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_4a541319ceee4a45aad48bda5abc92b0~mv2.jpg/v1/fill/w_966,h_644,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Brick%20House.jpg",
+      "assetType": "site",
+      "subject": "Brick House",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_6e5a6b66eceb40b0b5fc73232f9825b9~mv2.jpg/v1/fill/w_966,h_644,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Digital%20Reading%20%20.jpg",
+      "assetType": "site",
+      "subject": "Digital Reading  ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6b0b63_dcc4cc2a38904f41956174229a1ec649~mv2.png/v1/fill/w_754,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CarolinaClosetsPLUS_PrimaryAFOB.png",
+      "assetType": "site",
+      "subject": "CarolinaClosetsPLUS_PrimaryAFOB.png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6b0b63_2ad5e01c7c694e35813cbf3ec7f9a3bcf000.jpg/v1/fill/w_1440,h_598,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/6b0b63_2ad5e01c7c694e35813cbf3ec7f9a3bcf000.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6b0b63_151ddce2d5e544159b7e0c8b3a9b6602f000.jpg/v1/fill/w_1386,h_599,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/6b0b63_151ddce2d5e544159b7e0c8b3a9b6602f000.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

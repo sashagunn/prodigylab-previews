@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "valetcustom",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn2.hubspot.net/hubfs/29035/_Valet_2019/00_Homepage/2019-07-19_Walk-In%20Closet_Apres%20Ski%20(1)-PX.jpg",
+      "assetType": "site",
+      "subject": "Walk-in Closet, Apris Ski",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.valetcustom.com/hs-fs/hubfs/Olilia-101.jpg?width=2016&height=1395&name=Olilia-101.jpg",
+      "assetType": "site",
+      "subject": "Walk-in Closet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.valetcustom.com/hs-fs/hubfs/2019-11-20_Walk-In%20Closet_Belgian%20Chocolate%203(2).jpg?width=3840&height=2559&name=2019-11-20_Walk-In%20Closet_Belgian%20Chocolate%203(2).jpg",
+      "assetType": "site",
+      "subject": "Walk-in Closet, Belgian Chocolate",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://29035.fs1.hubspotusercontent-na1.net/hub/29035/hubfs/_Valet_2020_Website/00_Homepage/2018-09-14_External%20Wardrobe_Bianco%20(8)-PX.jpg?width=2000&name=2018-09-14_External%20Wardrobe_Bianco%20(8)-PX.jpg",
+      "assetType": "site",
+      "subject": "Built in wardrobe",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn2.hubspot.net/hubfs/29035/_Valet_2019/00_Homepage/2019-06-04_Guest%20Room_Sienna%20with%20Ruby%20Red%20Acrylic%20(6)-PX.jpg",
+      "assetType": "site",
+      "subject": "Guest Room, Sienna with Ruby Red",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.valetcustom.com/hs-fs/hubfs/_Valet_2019/01_Your%20Space/1.5%20Garages/01_Storage/2019-06-04_Garage_White%20Velvet%20(6)-PX.jpg?width=7347&height=4896&name=2019-06-04_Garage_White%20Velvet%20(6)-PX.jpg",
+      "assetType": "site",
+      "subject": "Garage storage, White Velvet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
