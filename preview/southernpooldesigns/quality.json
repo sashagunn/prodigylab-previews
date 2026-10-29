@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "southernpooldesigns",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://southernpooldesigns.com/wp-content/uploads/2025/07/Good-Photography1-scaled.jpg",
+      "assetType": "project",
+      "subject": "Vibrant swimming pool with rock waterfall feature, surrounded by tropi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://southernpooldesigns.com/wp-content/uploads/2025/07/Good-Photography10-scaled.jpg",
+      "assetType": "project",
+      "subject": "Geometric pool with fountain jets and a covered cabana beside a lawn a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://southernpooldesigns.com/wp-content/uploads/2025/07/Good-Photography11-scaled.jpg",
+      "assetType": "project",
+      "subject": "Luxurious backyard pool surrounded by tropical palm trees under a brig",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://southernpooldesigns.com/wp-content/uploads/2025/07/Good-Photography12-scaled.jpg",
+      "assetType": "project",
+      "subject": "Pool with stepping pads, fountain jets and a rock grotto, with a pools",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://southernpooldesigns.com/wp-content/uploads/2025/07/Good-Photography13-scaled.jpg",
+      "assetType": "project",
+      "subject": "Freeform pool with a rock waterfall grotto and glass tile wall, palm t",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://southernpooldesigns.com/wp-content/uploads/2025/07/Good-Photography14-scaled.jpg",
+      "assetType": "project",
+      "subject": "Luxurious modern backyard pool with waterfall and spa features under a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

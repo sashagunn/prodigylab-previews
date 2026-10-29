@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "landdesignsbycolton",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://landdesignsbycolton.com/wp-content/uploads/2022/08/landscape-design-1.webp",
+      "assetType": "project",
+      "subject": "Side view of house with lights and tidy home landscape",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://landdesignsbycolton.com/wp-content/uploads/2022/08/landscape-design-10.webp",
+      "assetType": "project",
+      "subject": "Small modern backyard with geometric chairs and custom paver patios wi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://landdesignsbycolton.com/wp-content/uploads/2022/08/landscape-design-12.webp",
+      "assetType": "project",
+      "subject": "Front view of house with clean landscape, trees, and shrubs",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://landdesignsbycolton.com/wp-content/uploads/2022/08/landscape-design-13.webp",
+      "assetType": "project",
+      "subject": "Xeriscape landscaping for a modern home in Colorado",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://landdesignsbycolton.com/wp-content/uploads/2022/08/landscape-design-14.webp",
+      "assetType": "project",
+      "subject": "Closeup of flowers near a fence for a custom landscaping project in Co",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://landdesignsbycolton.com/wp-content/uploads/2022/08/landscape-design-2.webp",
+      "assetType": "project",
+      "subject": "Square concrete firepit in a modern backyard with paver patio",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

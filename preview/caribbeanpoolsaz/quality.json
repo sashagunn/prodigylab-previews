@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "caribbeanpoolsaz",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://caribbeanpoolsaz.com/wp-content/uploads/2024/01/Pool21-2-scaled-e1710559044272.jpg",
+      "assetType": "project",
+      "subject": "Modern Arizona swimming pool with dramatic white water feature walls a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://caribbeanpoolsaz.com/wp-content/uploads/2024/12/RanaPic3.jpg",
+      "assetType": "project",
+      "subject": "Modern home with reflecting pool and landscaping in Phoenix Arizona",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://caribbeanpoolsaz.com/wp-content/uploads/2025/08/Hicok-1.jpg",
+      "assetType": "project",
+      "subject": "Custom inground pool by Caribbean Pools — Hicok project, Arizona",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://caribbeanpoolsaz.com/wp-content/uploads/2023/03/DJI_0277.jpg",
+      "assetType": "site",
+      "subject": "Rectangular pool with baja shelf and lounge chairs",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://caribbeanpoolsaz.com/wp-content/uploads/2024/01/Pool22-5-scaled.jpg",
+      "assetType": "site",
+      "subject": "Pool with sheer-descent water features and lighting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://caribbeanpoolsaz.com/wp-content/uploads/2024/12/Pic2.jpg",
+      "assetType": "site",
+      "subject": "Inground pool with attached spa and stone deck in Phoenix Arizona",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

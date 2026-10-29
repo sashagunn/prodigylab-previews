@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "vankirkpools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://vankirkpools.com/wp-content/uploads/2025/09/Linear-Pool-with-Screen-Enclosure-Spa-Sunken-Fire-Lounge.jpg",
+      "assetType": "project",
+      "subject": "Screened lanai with linear pool, mosaic-tile spa, and recessed fire lo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://vankirkpools.com/wp-content/uploads/2025/06/luxury-backyard-pool-design-fire-pit-spa.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://vankirkpools.com/wp-content/uploads/2025/07/acrylic-pool.jpg",
+      "assetType": "site",
+      "subject": "Luxury waterfront patio with modern acrylic pool, fire feature, palm t",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://vankirkpools.com/wp-content/uploads/2025/07/apartment-building-swimming-pool.jpg",
+      "assetType": "site",
+      "subject": "Aerial view of a modern waterfront building with rooftop pool, surroun",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://vankirkpools.com/wp-content/uploads/2025/08/palm-beach-gardens-swimming-pool-design-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://vankirkpools.com/wp-content/uploads/2025/10/Van-Kirk-Pools-Deerfield-Beach-Showroom.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

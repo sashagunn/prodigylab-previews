@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ridgelineconstructionhsv",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://ridgelineconstructionhsv.com/wp-content/uploads/2025/09/architect-worplace-top-view-2025-02-25-04-23-33-utc-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://ridgelineconstructionhsv.com/wp-content/uploads/2026/02/home-exterior-maintenance-gutters-ridgeline-scaled.jpg",
+      "assetType": "site",
+      "subject": "Clean maintained gutters and downspouts on residential home exterior",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://ridgelineconstructionhsv.com/wp-content/uploads/2026/02/rain-gutter-installation-professional-ridgeline-scaled.jpg",
+      "assetType": "site",
+      "subject": "Worker on roof installing rain gutter fitting on residential home exte",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://ridgelineconstructionhsv.com/wp-content/uploads/2026/02/vinyl-siding-panel-installation-ridgeline-scaled.jpg",
+      "assetType": "site",
+      "subject": "Worker installing vinyl siding panels on residential home exterior",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://ridgelineconstructionhsv.com/wp-content/uploads/2024/12/pensacola-fl.jpg",
+      "assetType": "site",
+      "subject": "Pensacola, Florida Panhandle roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://ridgelineconstructionhsv.com/wp-content/uploads/2024/12/spanish-fort-al.jpg",
+      "assetType": "site",
+      "subject": "Spanish Fort, Alabama Gulf Coast roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

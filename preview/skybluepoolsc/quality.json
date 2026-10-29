@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "skybluepoolsc",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://skybluepoolsc.com/wp-content/uploads/2026/06/pool-with-patio.jpeg",
+      "assetType": "project",
+      "subject": "Luxury raised swimming pool with wide stone steps, spacious patio, mat",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://skybluepoolsc.com/wp-content/uploads/2026/06/outdoor-hardscape-charleston11.webp",
+      "assetType": "project",
+      "subject": "Here is a custom pool that was built in downtown Charleston. Included ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://skybluepoolsc.com/wp-content/uploads/2026/04/14-scaled.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://skybluepoolsc.com/wp-content/uploads/2026/04/15-scaled.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://skybluepoolsc.com/wp-content/uploads/2026/04/20-scaled.png",
+      "assetType": "site",
+      "subject": "Custom Pool Kiawah with Hardscape",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://skybluepoolsc.com/wp-content/uploads/2026/04/SkyBluePools_Branding2026-25-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

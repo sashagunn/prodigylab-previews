@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "lagunapoolandspa",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://lagunapoolandspa.com/wp-content/uploads/2026/10/gallery-banner-DSC3105-1600.jpg.webp",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://lagunapoolandspa.com/wp-content/uploads/2025/03/DSC7672-HDR-copy-1536x1024.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://lagunapoolandspa.com/wp-content/uploads/2026/10/best-outdoor-kitchen-appliances-for-las-vegas-featured.webp",
+      "assetType": "site",
+      "subject": "Best Outdoor Kitchen Appliances for Las Vegas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://lagunapoolandspa.com/wp-content/uploads/2026/10/best-poolside-shade-solutions-for-las-vegas-featured.webp",
+      "assetType": "site",
+      "subject": "Best Poolside Shade Solutions for Las Vegas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://lagunapoolandspa.com/wp-content/uploads/2026/10/what-are-pool-coping-options-for-las-vegas-featured.webp",
+      "assetType": "site",
+      "subject": "What Are Pool Coping Options for Las Vegas?",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://lagunapoolandspa.com/wp-content/uploads/2026/01/Photo-Jan-01-2023-12-00-09-AM-1-900x500.jpg.webp",
+      "assetType": "site",
+      "subject": "Modern backyard with sunken spa, water feature, outdoor kitchen pavili",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

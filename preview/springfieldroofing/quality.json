@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "springfieldroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://springfieldroofing.com/wp-content/uploads/2023/09/fairfax-temple-project-scaled.webp",
+      "assetType": "project",
+      "subject": "fairfax baptist temple getting a roof replacement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://springfieldroofing.com/wp-content/uploads/2023/09/standing-seam-lake-project-scaled.webp",
+      "assetType": "project",
+      "subject": "new home with standing seam roof and red chimney on waterside",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://springfieldroofing.com/wp-content/uploads/2023/09/white-siding-roof-project-scaled-1.webp",
+      "assetType": "project",
+      "subject": "beautiful home with white siding and clean and details shingle roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://springfieldroofing.com/wp-content/uploads/2023/09/stone-home-roof-project-scaled-1.webp",
+      "assetType": "project",
+      "subject": "Stone home with new beautiful roof replacement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://springfieldroofing.com/wp-content/uploads/2023/11/item_352e7268-ed00-4edb-8111-027340156dad-scaled.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://springfieldroofing.com/wp-content/uploads/2023/09/shingle-replacement-lake-project.webp",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

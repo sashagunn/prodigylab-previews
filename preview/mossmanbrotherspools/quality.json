@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "mossmanbrotherspools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://mossmanbrotherspools.com/wp-content/uploads/2026/03/Free-Form0.jpg",
+      "assetType": "project",
+      "subject": "Free Form0",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://mossmanbrotherspools.com/wp-content/uploads/2026/03/Free-Form10.png",
+      "assetType": "project",
+      "subject": "Free Form10",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://mossmanbrotherspools.com/wp-content/uploads/2026/03/Free-Form6.jpg",
+      "assetType": "project",
+      "subject": "Free Form6",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://mossmanbrotherspools.com/wp-content/uploads/2026/03/Free-Form9.jpg",
+      "assetType": "project",
+      "subject": "Free Form9",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://mossmanbrotherspools.com/wp-content/uploads/2026/03/Negative-edge0-1.jpg",
+      "assetType": "project",
+      "subject": "Negative edge0",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://mossmanbrotherspools.com/wp-content/uploads/2026/03/Negative-edge1-1.jpg",
+      "assetType": "project",
+      "subject": "Negative edge1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "icpoolsaz",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68911518e8148dd1be79ac42/68911518e8148dd1be79ac58_2b-p-2000.jpg",
+      "assetType": "project",
+      "subject": "North Scottsdale golf course negative-edge pool with spa and fire feat",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68911518e8148dd1be79ac42/68de8a384c26eab7a64cf83c_use%202%20CORRECT.jpg",
+      "assetType": "project",
+      "subject": "DC Ranch North Scottsdale complete backyard remodel and pool construct",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68911518e8148dd1be79ac42/6990e67c1429986256c92707_%234-p-2000.jpg",
+      "assetType": "project",
+      "subject": "Fountain Hills complete backyard elevation remodel with rebuilt upper ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68911518e8148dd1be79ac42/68911518e8148dd1be79ac56_PIaaaaaaaaaaaaaaaaaaaaaaaaaaaazzzzzzzzzzzzzzzzzzzzzzzzzaaaaaaaaaaaaaaaaaaaaaaaaa.JPG",
+      "assetType": "project",
+      "subject": "Arcadia custom pool with sunken spa ramada fireplaces and pickleball c",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68911518e8148dd1be79ac42/68911518e8148dd1be79ac54_thumbnail_20240130_192535.jpg",
+      "assetType": "project",
+      "subject": "Mesa swim-up bar with built-in seating and rain descent water feature",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68911518e8148dd1be79ac42/693c37c5b1741181dccb498d_cla-p-2000.jpg",
+      "assetType": "project",
+      "subject": "Paradise Valley resort-style estate with pickleball court, sunken kitc",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

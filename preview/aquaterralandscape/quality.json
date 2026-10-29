@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aquaterralandscape",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://aquaterralandscape.com/wp-content/uploads/2025/08/26-Porter-Ranch-scaled-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://aquaterralandscape.com/wp-content/uploads/2025/08/45-Porter-Ranch-scaled-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn-ilcjmgn.nitrocdn.com/MmQjsvOAXsjrMILrGWHIOFUPOivDjBoz/assets/images/optimized/rev-49372ce/aquaterralandscape.com/wp-content/uploads/2025/08/Pool-and-Landscape-Company-3-2048x1366.webp",
+      "assetType": "site",
+      "subject": "Pool and Landscape Company",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn-ilcjmgn.nitrocdn.com/MmQjsvOAXsjrMILrGWHIOFUPOivDjBoz/assets/images/optimized/rev-49372ce/aquaterralandscape.com/wp-content/uploads/2025/08/Pool-and-Landscape-Company-4-2048x1366.webp",
+      "assetType": "site",
+      "subject": "Pool and Landscaping Companies",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn-ilcjmgn.nitrocdn.com/MmQjsvOAXsjrMILrGWHIOFUPOivDjBoz/assets/images/optimized/rev-49372ce/aquaterralandscape.com/wp-content/uploads/2025/08/Pool-and-Landscape-Company-7.webp",
+      "assetType": "site",
+      "subject": "Pool and Landscape Company",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn-ilcjmgn.nitrocdn.com/MmQjsvOAXsjrMILrGWHIOFUPOivDjBoz/assets/images/optimized/rev-49372ce/aquaterralandscape.com/wp-content/uploads/2025/08/Pool-and-Landscaping-Companies-3-2048x1366.webp",
+      "assetType": "site",
+      "subject": "Pool and Landscaping Companies",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

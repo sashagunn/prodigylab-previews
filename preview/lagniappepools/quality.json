@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "lagniappepools",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://lagniappepools.com/wp-content/uploads/2025/12/DJI_20250904174556_0241_D-scaled-e1766773735912.jpg",
+      "assetType": "project",
+      "subject": "Lagniappe Custom Pools | The Highlands",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://lagniappepools.com/wp-content/uploads/2025/12/DSC02180-HDR-scaled.jpg",
+      "assetType": "project",
+      "subject": "Lagniappe Custom Pools | The Highlands",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://lagniappepools.com/wp-content/uploads/2026/10/DJI_20250903200411_0165_D-1-scaled.jpg",
+      "assetType": "project",
+      "subject": "DJI_20250903200411_0165_D (1)",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://lagniappepools.com/wp-content/uploads/2026/10/DSC01710-scaled.jpg",
+      "assetType": "project",
+      "subject": "DSC01710",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "http://lagniappepools.com/wp-content/uploads/2024/02/DSC04788-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "http://lagniappepools.com/wp-content/uploads/2024/02/more-stripes.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
