@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "stileandrailwoodworks",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1497da_055be3fdf38b405a92729e2fb1ec227d~mv2.jpg/v1/fill/w_980,h_553,q_90,enc_avif,quality_auto/1497da_055be3fdf38b405a92729e2fb1ec227d~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1497da_0d45504553824580895f46be9b7217ee~mv2.jpg/v1/fill/w_980,h_553,fp_0.82_0.45,q_90,enc_avif,quality_auto/1497da_0d45504553824580895f46be9b7217ee~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1497da_366453e5a2ea4df484bc99c9f625817a~mv2.jpg/v1/fill/w_980,h_553,q_90,enc_avif,quality_auto/1497da_366453e5a2ea4df484bc99c9f625817a~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1497da_43e65459b0ea4ebe9d4a81fb79754ab4~mv2.jpg/v1/fill/w_980,h_553,q_90,enc_avif,quality_auto/1497da_43e65459b0ea4ebe9d4a81fb79754ab4~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1497da_680184b154c247c19db06134e32abe34~mv2.jpg/v1/fill/w_980,h_553,q_90,enc_avif,quality_auto/1497da_680184b154c247c19db06134e32abe34~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1497da_83b29d773d48438e8fe19ced78c29c50~mv2.jpg/v1/fill/w_980,h_553,q_90,enc_avif,quality_auto/1497da_83b29d773d48438e8fe19ced78c29c50~mv2.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

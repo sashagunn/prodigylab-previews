@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "closetworksinc",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.closetworksinc.com/wp-content/uploads/2023/04/Banner_Img.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.closetworksinc.com/wp-content/uploads/2023/10/Patel_Conversion-7_1800.jpg",
+      "assetType": "site",
+      "subject": "Walk in closet and sitting room finished in dark chocolate",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.closetworksinc.com/wp-content/uploads/2023/12/2023_Showroom_Pantry_HiRes-00002-copy.webp",
+      "assetType": "site",
+      "subject": "Kitchen pantry with lazy Susan",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.closetworksinc.com/wp-content/uploads/2024/01/MediaCenterHomeSlider.webp",
+      "assetType": "site",
+      "subject": "Media Center cabinets with glass shelves and tv entrainment center fin",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.closetworksinc.com/wp-content/uploads/2024/01/PlatformBedHomeSlider.webp",
+      "assetType": "site",
+      "subject": "Platform bed with cabinets and grey finish",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.closetworksinc.com/wp-content/uploads/2024/01/SlidingDoorsHomeSlider.webp",
+      "assetType": "site",
+      "subject": "Sliding wood doors on living room closet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "morethanclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://morethanclosets.com/wp-content/uploads/2025/11/custom-bedroom-walk-in-closet-gray-background.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://morethanclosets.com/wp-content/uploads/2025/08/reach-in-closet-white.jpg",
+      "assetType": "site",
+      "subject": "Reach-In Closets",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://morethanclosets.com/wp-content/uploads/2025/08/boutique-closet-light-wood-finish.jpg",
+      "assetType": "site",
+      "subject": "Boutique Closets",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://morethanclosets.com/wp-content/uploads/2025/08/custom-laundry-room-light-gray-1.jpg",
+      "assetType": "site",
+      "subject": "Custom Closet Service",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://morethanclosets.com/wp-content/uploads/2025/08/custom-laundry-room-light-gray-2.jpg",
+      "assetType": "site",
+      "subject": "Showroom",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://morethanclosets.com/wp-content/uploads/2025/08/custom-bedroom-reach-in-closet-gray.jpg",
+      "assetType": "site",
+      "subject": "In-Home Consultation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

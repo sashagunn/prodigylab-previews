@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "closetsandmoreinc",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.closetsandmoreinc.com/_next/image?url=%2Fimgs%2Fcustom_built_in_storage.jpg&w=1200&q=75&dpl=dpl_1T4KxnSjuSuge3kAci3RTtAnSzdd",
+      "assetType": "project",
+      "subject": "Custom built-in storage and organization system",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.closetsandmoreinc.com/_next/image?url=%2Fimgs%2Fwalk_in_closet_luxury_chandelier.jpg&w=1200&q=75&dpl=dpl_1T4KxnSjuSuge3kAci3RTtAnSzdd",
+      "assetType": "project",
+      "subject": "Luxury walk-in closet with chandelier and coffered ceiling",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.closetsandmoreinc.com/_next/image?url=%2Fimgs%2Fgarage_slatwall_panels.jpg&w=1200&q=75&dpl=dpl_1T4KxnSjuSuge3kAci3RTtAnSzdd",
+      "assetType": "project",
+      "subject": "Garage organization with wall-mounted slatwall panels",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.closetsandmoreinc.com/_next/image?url=%2Fimgs%2Fwalk_in_closet_navy_island.jpg&w=1200&q=75&dpl=dpl_1T4KxnSjuSuge3kAci3RTtAnSzdd",
+      "assetType": "project",
+      "subject": "Dark navy custom closet with island and tile floor",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.closetsandmoreinc.com/_next/image?url=%2Fimgs%2Fblue_office.jpg&w=1200&q=75&dpl=dpl_1T4KxnSjuSuge3kAci3RTtAnSzdd",
+      "assetType": "project",
+      "subject": "Custom navy blue home office with built-in desk and cabinets",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.closetsandmoreinc.com/_next/image?url=%2Fimgs%2Fbrown_hamper_drawer.jpg&w=1200&q=75&dpl=dpl_1T4KxnSjuSuge3kAci3RTtAnSzdd",
+      "assetType": "project",
+      "subject": "Pull-out hamper drawer with walnut finish",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

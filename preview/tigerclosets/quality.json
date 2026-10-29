@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "tigerclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://tigerclosets.com/airo-assets/images/pages/gallery/hero",
+      "assetType": "project",
+      "subject": "Tiger Closets project gallery — custom closets, pantries, and organiza",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://tigerclosets.com/airo-assets/images/pages/home/featured-project-1",
+      "assetType": "project",
+      "subject": "His & Hers Closet — custom closet installation by Tiger Closets in Bre",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://tigerclosets.com/airo-assets/images/pages/home/featured-project-2",
+      "assetType": "project",
+      "subject": "Luxury Dressing Room — custom closet installation by Tiger Closets in ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://tigerclosets.com/airo-assets/images/pages/home/featured-project-3",
+      "assetType": "project",
+      "subject": "Custom Pantry System — custom closet installation by Tiger Closets in ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://tigerclosets.com/airo-assets/images/pages/gallery/img-1",
+      "assetType": "project",
+      "subject": "Primary Walk-In Closet — custom closet installation by Tiger Closets i",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://tigerclosets.com/airo-assets/images/pages/gallery/img-2",
+      "assetType": "project",
+      "subject": "Custom Pantry — custom closet installation by Tiger Closets in Nashvil",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

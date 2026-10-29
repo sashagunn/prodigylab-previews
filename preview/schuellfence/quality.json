@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "schuellfence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://schuellfence.com/wp-content/uploads/2025/02/schuell-fence-10.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://schuellfence.com/wp-content/uploads/2025/02/schuell-fence-11.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://schuellfence.com/wp-content/uploads/2025/12/2763042512128743335.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://schuellfence.com/wp-content/uploads/2025/02/bg-effect.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://schuellfence.com/wp-content/uploads/2025/02/western-picket-w-curved-top-rail-rotated.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

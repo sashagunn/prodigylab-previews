@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "spacemanager",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://spacemanager.com/hs-fs/hubfs/Hero%20Image%20-%20Homepage%20v8.png?width=4050&height=2700&name=Hero%20Image%20-%20Homepage%20v8.png",
+      "assetType": "site",
+      "subject": "Walk-in closet with storage",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://spacemanager.com/hubfs/Hero%20Banner%20-%20Homepage%20v3-1.png",
+      "assetType": "site",
+      "subject": "Custom Closets - Walk In Closets",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://243875420.fs1.hubspotusercontent-na2.net/hub/243875420/hubfs/Luxury%20custom%20walk-in%20closet%20with%20center%20island.png?width=1200&length=1200&name=Luxury%20custom%20walk-in%20closet%20with%20center%20island.png",
+      "assetType": "site",
+      "subject": "Luxury custom walk-in closet featuring glass-front cabinets, open shel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://spacemanager.com/hubfs/Custom%20Closet%20-%20CTA.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://spacemanager.com/hubfs/Mudrooms%20%288%29.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://spacemanager.com/hubfs/Our%20Process%20-%20Hero%20Banner%20Image.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

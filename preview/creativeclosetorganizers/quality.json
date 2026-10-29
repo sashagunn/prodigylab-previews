@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "creativeclosetorganizers",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.creativeclosetorganizers.com/wp-content/uploads/2023/05/walk-in-closet-1.webp",
+      "assetType": "project",
+      "subject": "closet drawers begin opened",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.creativeclosetorganizers.com/wp-content/uploads/2023/05/walk-in-closet-13.webp",
+      "assetType": "project",
+      "subject": "walk in closet with blue doors and window frames",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.creativeclosetorganizers.com/wp-content/uploads/2023/05/walk-in-closet-16.webp",
+      "assetType": "project",
+      "subject": "closet drawers beign opened",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.creativeclosetorganizers.com/wp-content/uploads/2023/05/walk-in-closet-17.webp",
+      "assetType": "project",
+      "subject": "walk in closet filled with closets and well organized",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.creativeclosetorganizers.com/wp-content/uploads/2023/05/walk-in-closet-18.webp",
+      "assetType": "project",
+      "subject": "walk in closet with white and brown shelves and lighting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.creativeclosetorganizers.com/wp-content/uploads/2023/05/walk-in-closet-21.webp",
+      "assetType": "project",
+      "subject": "Walk-In Closets",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

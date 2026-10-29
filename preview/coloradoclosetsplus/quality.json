@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "coloradoclosetsplus",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://spcdn.shortpixel.ai/spio/ret_img+q_cdnize+to_auto+s_webp:avif/coloradoclosetsplus.com/blue-garage-2/",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://spcdn.shortpixel.ai/spio/ret_img+q_cdnize+to_auto+s_webp:avif/coloradoclosetsplus.com/durango-custom-cabinets-kitchen-island-07/",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://spcdn.shortpixel.ai/spio/ret_img+q_cdnize+to_auto+s_webp:avif/coloradoclosetsplus.com/durango-custom-closets-empty-maple-closet-11/",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://spcdn.shortpixel.ai/spio/ret_img+q_cdnize+to_auto+s_webp:avif/coloradoclosetsplus.com/durango-custom-walk-in-closets-built-in-cabinets-10/",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://spcdn.shortpixel.ai/spio/ret_img+q_cdnize+to_auto+s_webp:avif/coloradoclosetsplus.com/durango-custom-walk-in-closets-white-closet-stool-29/",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://spcdn.shortpixel.ai/spio/ret_img+q_cdnize+to_auto+s_webp:avif/coloradoclosetsplus.com/durango-custom-walk-in-closets-wooden-drawers-22/",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

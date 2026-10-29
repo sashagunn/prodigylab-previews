@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "slug": "nimmerfencing",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://nimmerfencing.com/_next/image?url=%2Fteam-photo.jpg&w=3840&q=75",
+      "assetType": "site",
+      "subject": "Nimmer Co. Team/Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

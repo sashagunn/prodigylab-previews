@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "citywidefence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://citywidefence.com/wp-content/uploads/2015/05/Daycare-Center-3.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://citywidefence.com/wp-content/uploads/2020/04/CityWide-Fence-Cedar-Fence.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://citywidefence.com/wp-content/uploads/2024/05/build-a-new-fence-city-wide-fence-lynnwood-scaled.jpg",
+      "assetType": "site",
+      "subject": "build-a-new-fence-city-wide-fence-lynnwood",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://citywidefence.com/wp-content/uploads/2024/07/Fencebuilder-near-me-arlington.jpg",
+      "assetType": "site",
+      "subject": "Fencebuilder-near-me-arlington",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://citywidefence.com/wp-content/uploads/2025/05/City-Wide-Fence-Cedar-Build-Design.jpg",
+      "assetType": "site",
+      "subject": "City-Wide-Fence-Cedar-Build-Design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://citywidefence.com/wp-content/uploads/2017/11/Traditional-Arbor-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

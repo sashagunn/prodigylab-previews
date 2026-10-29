@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "arrowfence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com//0e31d64b/dms3rep/multi/opt/GettyImages-184873975-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/0e31d64b/dms3rep/multi/opt/GettyImages-1097298856-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/0e31d64b/dms3rep/multi/opt/GettyImages-889151774-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/0e31d64b/dms3rep/multi/opt/GettyImages-909903396-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/0e31d64b/dms3rep/multi/opt/GettyImages-958411906-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com//0e31d64b/dms3rep/multi/opt/Contact+Us-800h.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

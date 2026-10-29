@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "pdxgatecrafter",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/656616470a3cbd1f9a3fab1e/0259b9ef-2f19-4be3-b9c3-eecd7bc19f3f/A45DAD6C-547E-466A-9E1F-C453155AE959.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/656616470a3cbd1f9a3fab1e/75293141-ab40-4afa-b082-4f3bb2cd605f/285AC6ED-14A6-4F80-8EF6-348C7EA4B5A7.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/656616470a3cbd1f9a3fab1e/a80d2d81-5e3d-4ac6-b5c3-5e16a3bce6b1/IMG_0806.JPG",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/656616470a3cbd1f9a3fab1e/b6d5254e-fdb5-461a-9cc7-2c8ae90f1062/IMG_0830.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/656616470a3cbd1f9a3fab1e/c6c73f5e-fbfe-46b1-aede-8f234634c373/IMG_0500.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/656616470a3cbd1f9a3fab1e/d4aa93a4-b81e-4861-a192-93d8e7f0c641/IMG_0494.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

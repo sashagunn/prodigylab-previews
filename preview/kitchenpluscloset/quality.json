@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "kitchenpluscloset",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://kitchenpluscloset.com/_astro/1.7Cnow1_9_Z1sXLFc.webp",
+      "assetType": "project",
+      "subject": "Fluted Oak Kitchen, view 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://kitchenpluscloset.com/_astro/1.D_0N3XpU_1E7YEP.webp",
+      "assetType": "project",
+      "subject": "Twin Island Marble Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://kitchenpluscloset.com/_astro/1.DwzfBYXT_Z1t8hH5.webp",
+      "assetType": "project",
+      "subject": "Matte Black & Oak Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://kitchenpluscloset.com/_astro/2.BBTZ1uFi_1luMy6.webp",
+      "assetType": "project",
+      "subject": "Fluted Oak Kitchen, view 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://kitchenpluscloset.com/_astro/3.QA9YrBbF_Z1T58XI.webp",
+      "assetType": "project",
+      "subject": "Fluted Oak Kitchen, view 3",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://kitchenpluscloset.com/_astro/4.DnHqeXjC_Z2mAVVY.webp",
+      "assetType": "project",
+      "subject": "Fluted Oak Kitchen, view 4",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

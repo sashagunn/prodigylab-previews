@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "closetenvysarasota",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67a4fb843e35e44691002ae2/00b55a86-1629-4e59-be83-1410a8e8e6d7/8-closet-envy-luxury-design.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Luxury Mirror Custom Closet with Ottoman",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67a4fb843e35e44691002ae2/dcbbbbfb-5f95-4b2d-9797-6ce14e2d1e1d/5-closest-envy-custom-dressing-room-built-in-vanity.jpeg?format=2500w",
+      "assetType": "project",
+      "subject": "Custom Closet with Built In Vanity",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67a4fb843e35e44691002ae2/197337cb-aea8-4473-9251-d6b4757e893e/3-closet-envy-custom-garage-tool-storage.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Custom Garage Drawer Storage",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67a4fb843e35e44691002ae2/845b2bb8-40c9-49dc-b109-a2730feb83f4/9-closet-envy-luxury-storage.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Custom Dark Closet with Island and Circular Lighting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67a4fb843e35e44691002ae2/8840eab5-c5de-4ebb-9891-a6cc6030075f/1-closet-envy-custom-garage-storage.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Garage with organized storage cabinets, open cabinets and shelving, bi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/67a4fb843e35e44691002ae2/9a099dd3-1aa0-4ac9-a3d2-7bd57b091db6/2-closet-envy-accessories-sunglasses.JPG?format=2500w",
+      "assetType": "project",
+      "subject": "Custom Closet with Sunglass Storage",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

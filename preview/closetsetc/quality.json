@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "slug": "closetsetc",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/082d80_191fb11040d34795a29e88ff238c7850~mv2.png/v1/fill/w_800,h_491,al_c,q_90,enc_avif,quality_auto/082d80_191fb11040d34795a29e88ff238c7850~mv2.png",
+      "assetType": "site",
+      "subject": "White Closet.png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/082d80_a46ac2ed92af40109ef9a32097ceb6a7~mv2.jpg/v1/fill/w_1440,h_814,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/082d80_a46ac2ed92af40109ef9a32097ceb6a7~mv2.jpg",
+      "assetType": "site",
+      "subject": "dressing-room-decorated-with-white-furniture-is-beautiful-elegant.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/b62028_4e56dccf37ee46e3a39189dd6070b77d~mv2.webp/v1/fill/w_720,h_725,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b62028_4e56dccf37ee46e3a39189dd6070b77d~mv2.webp",
+      "assetType": "site",
+      "subject": "Closets-Etc-Custom-Closets-Storage-Hero (1).webp",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

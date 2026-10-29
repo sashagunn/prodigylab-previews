@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "millsfencecincinnati",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://millsfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-tri-state-fence-company-02.jpg",
+      "assetType": "project",
+      "subject": "High-Security Spear Top Aluminum Fence with Brick Columns for Commerci",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://millsfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-tri-state-fence-company-04.jpg",
+      "assetType": "project",
+      "subject": "Decorative Black Aluminum Patio Fence for Restaurant Outdoor Seating –",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://millsfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-tri-state-fence-company-07.jpg",
+      "assetType": "project",
+      "subject": "Black Aluminum Decorative Fence with Spear Top Finials Installed in Ci",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://millsfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-tri-state-fence-company-10.jpg",
+      "assetType": "project",
+      "subject": "High-Security Anti-Climb Aluminum Cantilever Gate – Industrial Facilit",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://millsfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-tri-state-fence-company-15.jpg",
+      "assetType": "project",
+      "subject": "Industrial Steel Security Fence with Curved Anti-Climb Design – Instal",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://millsfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-tri-state-fence-company-19.jpg",
+      "assetType": "project",
+      "subject": "Decorative Residential Aluminum Fence Panel with Company Sign – Instal",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
