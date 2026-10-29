@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "atlanticdoorsystems",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://atlanticdoorsystems.com/_next/image/?url=%2Fimages%2Fgallery%2Fwindows%2Fwindow-01.webp&w=1920&q=75&dpl=dpl_FSCnrSxCLZSZKMGYRZLNbqD332cZ",
+      "assetType": "project",
+      "subject": "Windows",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://atlanticdoorsystems.com/_next/image/?url=%2Fimages%2Fgallery%2Fcommercial%2Fcommercial-02.webp&w=1920&q=75&dpl=dpl_FSCnrSxCLZSZKMGYRZLNbqD332cZ",
+      "assetType": "project",
+      "subject": "Commercial",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://atlanticdoorsystems.com/_next/image/?url=%2Fimages%2Fgallery%2Fwindows%2Ffront-of-a-stucco-home-with-three-new-black-framed-windows-d-01.webp&w=1920&q=75&dpl=dpl_FSCnrSxCLZSZKMGYRZLNbqD332cZ",
+      "assetType": "site",
+      "subject": "Front of a stucco home with three new black-framed windows during inst",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://atlanticdoorsystems.com/_next/image/?url=%2Fimages%2Fhome%2Fhero-miami.webp&w=1920&q=75&dpl=dpl_FSCnrSxCLZSZKMGYRZLNbqD332cZ",
+      "assetType": "site",
+      "subject": "Miami impact doors and windows installed by Atlantic Door Systems",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://atlanticdoorsystems.com/_next/image/?url=%2Fimages%2Fgallery%2Fdoors%2Fdoor-05.webp&w=1920&q=75&dpl=dpl_FSCnrSxCLZSZKMGYRZLNbqD332cZ",
+      "assetType": "site",
+      "subject": "Hurricane impact door after install",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://atlanticdoorsystems.com/_next/image/?url=%2Fimages%2Fgallery%2Fdoors%2Fdoor-15.webp&w=1920&q=75&dpl=dpl_FSCnrSxCLZSZKMGYRZLNbqD332cZ",
+      "assetType": "site",
+      "subject": "Impact door project 15",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "customclimates",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://customclimates.com/wp-content/uploads/2025/12/custom-climates-HVAC-hero--2048x1365.webp",
+      "assetType": "site",
+      "subject": "Custom Climates HVAC van and technician in Epsom, NH",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://customclimates.com/wp-content/uploads/2026/01/cc-bg-67-scaled.webp",
+      "assetType": "site",
+      "subject": "Mitsubishi ductless heat pump NH",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://customclimates.com/wp-content/uploads/2026/01/Custom-Climates-2026_Diamond-Contractor_ELITE.webp",
+      "assetType": "site",
+      "subject": "Mitsubishi Elite Diamond Contractor NH",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://customclimates.com/wp-content/uploads/2026/01/Residential-HVAC-Maintenance-in-NH.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://customclimates.com/wp-content/uploads/2026/02/Southern-New-Hampshires-Mitsubishi-Mini-Split-Heat-Pump-Experts-img.webp",
+      "assetType": "site",
+      "subject": "Southern New Hampshire’s Mitsubishi Mini Split Heat Pump Experts",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://customclimates.com/wp-content/uploads/2026/10/home_final_w1920_q63.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "heatcool2",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://heatcool2.com/__l5e/assets-v1/594af165-8ad5-4fd5-bfe0-c2fb04e0612d/20201211_161624-1.webp",
+      "assetType": "project",
+      "subject": "HVAC installation by Heating & Cooling Two — Twin Cities project 19",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://heatcool2.com/__l5e/assets-v1/e1a05f64-9449-471d-977f-ddb9f5ae82b9/20201106_122219.webp",
+      "assetType": "project",
+      "subject": "HVAC installation by Heating & Cooling Two — Twin Cities project 10",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://heatcool2.com/__l5e/assets-v1/04c29723-a6d0-4f63-9be6-37f0b5e298b6/20201207_145224.webp",
+      "assetType": "project",
+      "subject": "HVAC installation by Heating & Cooling Two — Twin Cities project 16",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://heatcool2.com/__l5e/assets-v1/10731e03-a054-4b31-a1fb-698a511da972/20201009_153418.webp",
+      "assetType": "project",
+      "subject": "HVAC installation by Heating & Cooling Two — Twin Cities project 5",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://heatcool2.com/__l5e/assets-v1/17bba873-8e8a-4d8a-a55e-aeaf96f07931/20210205_144720.webp",
+      "assetType": "project",
+      "subject": "HVAC installation by Heating & Cooling Two — Twin Cities project 21",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://heatcool2.com/__l5e/assets-v1/46f9a34b-1c7a-46ad-87ea-20a5e55cc2b3/20190218_130513-1.webp",
+      "assetType": "project",
+      "subject": "HVAC installation by Heating & Cooling Two — Twin Cities project 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

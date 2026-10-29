@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "schererwindowconsultants",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.schererwindowconsultants.com/wp-content/uploads/2020/03/VSA_Composite_Options-scaled.jpg",
+      "assetType": "site",
+      "subject": "Vsa Composite Options",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.schererwindowconsultants.com/wp-content/uploads/2020/03/Window-Header.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.schererwindowconsultants.com/wp-content/uploads/2020/03/wood-background.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.schererwindowconsultants.com/wp-content/uploads/2026/06/JPG-Marvin_Ultimate_MM_Int_UCA_St_Cl_DinRm_P22061_UL.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.schererwindowconsultants.com/wp-content/uploads/2020/06/project-management-service.jpg",
+      "assetType": "site",
+      "subject": "Project Management Service",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.schererwindowconsultants.com/wp-content/uploads/2020/03/measuring-a-window-aperture.jpg",
+      "assetType": "site",
+      "subject": "Measuring A Window Aperture",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

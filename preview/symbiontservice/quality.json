@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "symbiontservice",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://symbiontservice.com/wp-content/uploads/2025/04/venice-y-pool-1280x720-1.jpg",
+      "assetType": "project",
+      "subject": "GeoThermal Pool heating and cooling for the YMCA South County Venice, ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://symbiontservice.com/wp-content/uploads/2025/04/YMCA-of-Englewood-1280x720-1.jpg",
+      "assetType": "project",
+      "subject": "Symbiont Service GeoThermal Pool Heating for the pool and spa at the E",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://symbiontservice.com/wp-content/uploads/2025/06/June-2025-POTM-Belen-Jesuit-blog.jpg",
+      "assetType": "project",
+      "subject": "collage of three photos - top left: Symbiont Service GeoThermal pool h",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://symbiontservice.com/wp-content/uploads/2025/09/February-2026-POTM-Palms-at-Serenoa-blog-title.png",
+      "assetType": "project",
+      "subject": "collage of photos showing the Palms at Serenoa resort-style pool and i",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://symbiontservice.com/wp-content/uploads/2025/05/2025-05-POTM-winter-park-community-center-featured-v2.jpg",
+      "assetType": "project",
+      "subject": "collage of three photos - two photos show the Winter Park Community Ce",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://symbiontservice.com/wp-content/uploads/2025/08/2025-08-SW-Recreation-Complex-blog-featured.jpg",
+      "assetType": "project",
+      "subject": "collage: photos of the City of Largo Southwest Recreation Complex’s Ol",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

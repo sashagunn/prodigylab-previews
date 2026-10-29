@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "anytimeheating",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://du9m0k402rjmo.cloudfront.net/googlepost/P_21217/2611825d-a68e-495e-a340-41e36f99cede.jpeg",
+      "assetType": "site",
+      "subject": "Post Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://du9m0k402rjmo.cloudfront.net/googlepost/P_21217/acbfc7c5-67b0-450b-9c48-5eab5dae8102.jpeg",
+      "assetType": "site",
+      "subject": "Post Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://du9m0k402rjmo.cloudfront.net/googlepost/P_21217/88003e6c-3ecc-470d-8247-c309ea1a29a9.jpeg",
+      "assetType": "site",
+      "subject": "Post Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://du9m0k402rjmo.cloudfront.net/googlepost/P_21217/f2e4b1d2-d237-4ab8-9210-017361993c95.jpeg",
+      "assetType": "site",
+      "subject": "Post Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://du9m0k402rjmo.cloudfront.net/googlepost/P_21217/8bc2078a-4459-42d4-a1e2-931123b7c241.png",
+      "assetType": "site",
+      "subject": "Post Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://du9m0k402rjmo.cloudfront.net/images/P_21217/495773df-0b9f-442e-b54d-7d15456c9dba.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

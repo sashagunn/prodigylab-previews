@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "schererbrosclosets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://schererbrosclosets.com/wp-content/uploads/2020/06/gorgeous-custom-closet.jpg",
+      "assetType": "site",
+      "subject": "Gorgeous Custom Closet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://schererbrosclosets.com/wp-content/uploads/2022/09/210617_1935-Concordia-St_140-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://schererbrosclosets.com/wp-content/uploads/2022/09/210622_Cudd_Cove_0727-copy-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://schererbrosclosets.com/wp-content/uploads/2024/03/Our-Difference-Expert-quality-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://schererbrosclosets.com/wp-content/uploads/2024/03/Our-Difference-Largest-showroom-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://schererbrosclosets.com/wp-content/uploads/2024/03/white-wood-background-1-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "northknoxsidingandwindows",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://northknoxsidingandwindows.com/assets/photos/projects/project-2-after.jpg",
+      "assetType": "project",
+      "subject": "After: Same brick home with new roof, new shutters, new front door, an",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://northknoxsidingandwindows.com/assets/photos/projects/project-2-before.jpg",
+      "assetType": "project",
+      "subject": "Before: Brick Knoxville home with aged painted exterior section above ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://northknoxsidingandwindows.com/assets/photos/projects/project-1-after.jpg",
+      "assetType": "project",
+      "subject": "After: Crisp new white siding on the same Knoxville home, fully restor",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://northknoxsidingandwindows.com/assets/photos/projects/project-1-before.jpg",
+      "assetType": "project",
+      "subject": "Before: Aging cream vinyl siding on a two-story Knoxville home, showin",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://northknoxsidingandwindows.com/assets/photos/gallery-3-gutters.jpg",
+      "assetType": "project",
+      "subject": "Sage green craftsman with shake gables and stone column bases",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://northknoxsidingandwindows.com/assets/photos/gallery-5-siding.jpg",
+      "assetType": "project",
+      "subject": "Cedar shake siding with sage green accent and wood garage door",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "tudorhvac",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://tudorhvac.com/wp-content/uploads/2026/06/ME_PCFY_Trane_Mech_Industrial_kitchen_1575c49116-mitsubishi-commericla-ceiling-suspnded.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://tudorhvac.com/wp-content/uploads/2026/07/ME_PCFY_Trane_Mech_Industrial_kitchen_1575c49116-mitsubishi-commericla-ceiling-suspnded.jpg",
+      "assetType": "site",
+      "subject": "https://tudorhvac.com/wp-content/uploads/2026/07/ME_PCFY_Trane_Mech_In",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://tudorhvac.com/wp-content/uploads/2026/05/ME_PLFY_EP_NEMU_cbc4a7008f-four-way-ceiling-cassete-city-multi-scaled.webp",
+      "assetType": "site",
+      "subject": "https://tudorhvac.com/wp-content/uploads/2026/05/ME_PLFY_EP_NEMU_cbc4a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://tudorhvac.com/wp-content/uploads/2026/05/ME_SLZ_968025462_762811f3b7-mitsubishi-residential-four-way.avif",
+      "assetType": "site",
+      "subject": "https://tudorhvac.com/wp-content/uploads/2026/05/ME_SLZ_968025462_7628",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://tudorhvac.com/wp-content/uploads/2026/05/mitsubishi-ceiling-suspnded-indoor-light-commercial-scaled.webp",
+      "assetType": "site",
+      "subject": "https://tudorhvac.com/wp-content/uploads/2026/05/mitsubishi-ceiling-su",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://tudorhvac.com/wp-content/uploads/2026/05/mitsubishi-electric-minisplit.png",
+      "assetType": "site",
+      "subject": "https://tudorhvac.com/wp-content/uploads/2026/05/mitsubishi-electric-m",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

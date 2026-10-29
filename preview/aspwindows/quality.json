@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aspwindows",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68ed97c35b595835dc19a3b2/692d78a2ffcf7f8c51bc51bc_2025%20Pink%20CyberTruck%20v1-1%201%20(4).avif",
+      "assetType": "project",
+      "subject": "Impact window installation Miami project photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68ed97c35b595835dc19a3b2/6915fcba755dbb6b9632c9dc_Impact%20Doors66.avif",
+      "assetType": "project",
+      "subject": "Impact doors Miami glass storefront installation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68ed97c35b595835dc19a3b2/6915fcc910fe9c38ec0437aa_Impact%20Doors67.avif",
+      "assetType": "project",
+      "subject": "Impact doors Miami modern wood entry",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68ed97c35b595835dc19a3bf/6acd03717a8a56c6fd88e1fa_How%20Do%20You%20Replace%20Insulated%20Double%20Pane%20Windows.png",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "08.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68ed97c35b595835dc19a3b2/6915fcb85fc19dc251f3e886_Impact%20Doors74.avif",
+      "assetType": "project",
+      "subject": "Impact door installation Doral residential hallway",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "09.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/68ed97c35b595835dc19a3b2/6915fcba384400f88056bd3b_Impact%20Doors64.avif",
+      "assetType": "project",
+      "subject": "Impact doors Miami commercial entry installation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

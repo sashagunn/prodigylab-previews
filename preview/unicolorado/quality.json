@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "unicolorado",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://unicolorado.com/_next/image/?url=https%3A%2F%2Fmedia.unicolorado.com%2Fmedia%2Fservices%2Fbosch-outdoor-condenser-brick-wall-blue-tarp-fallen-leaves.jpg&w=1920&q=75",
+      "assetType": "project",
+      "subject": "Bosch outdoor condenser against brick wall with blue tarp and fallen l",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://unicolorado.com/_next/image/?url=https%3A%2F%2Fmedia.unicolorado.com%2Fmedia%2Fservices%2Famerican-standard-furnace-basement-water-heater-installation.jpg&w=1920&q=75",
+      "assetType": "project",
+      "subject": "American Standard furnace and water heater installation in basement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://unicolorado.com/_next/image/?url=https%3A%2F%2Fmedia.unicolorado.com%2Fmedia%2Fservices%2Famerican-standard-outdoor-condenser-brick-wall-concrete-pad.jpg&w=1920&q=75",
+      "assetType": "project",
+      "subject": "American Standard outdoor condenser unit on concrete pad against brick",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://unicolorado.com/_next/image/?url=https%3A%2F%2Fmedia.unicolorado.com%2Fmedia%2Fservices%2Fbosch-furnace-air-handler-basement-tent-barrier-pipes.jpg&w=1920&q=75",
+      "assetType": "project",
+      "subject": "Bosch furnace and air handler in basement with tent barrier and pipes",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://unicolorado.com/_next/image/?url=https%3A%2F%2Fmedia.unicolorado.com%2Fmedia%2Fservices%2Fbosch-furnace-air-handler-dont-buy-sticker-concrete-basement.jpg&w=1920&q=75",
+      "assetType": "project",
+      "subject": "Bosch furnace and air handler with sticker in concrete basement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://unicolorado.com/_next/image/?url=https%3A%2F%2Fmedia.unicolorado.com%2Fmedia%2Fservices%2Fbosch-furnace-air-handler-rheem-water-heater-utility-room.jpg&w=1920&q=75",
+      "assetType": "project",
+      "subject": "Bosch furnace and air handler with Rheem water heater in utility room",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

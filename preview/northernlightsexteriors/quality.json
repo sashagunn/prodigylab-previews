@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "northernlightsexteriors",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://northernlightsexteriors.com/wp-content/uploads/2025/11/miS__Northern_Lights_Exteriors__Boulder_CO_80304__Windows___Doors___Siding.jpg",
+      "assetType": "project",
+      "subject": "Boulder home remodeled with new Pella wood-clad windows as part of a m",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://northernlightsexteriors.com/wp-content/uploads/2025/12/6tu__Northern_Lights_Exteriors__Eaton_CO_80615__Windows___Doors___Siding-2048x1365.jpg",
+      "assetType": "project",
+      "subject": "Eaton Colorado home with new James Hardie siding, windows and doors by",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://northernlightsexteriors.com/wp-content/uploads/2025/12/Nv3__Northern_Lights_Exteriors__Lyons_CO_80540__Windows___Doors___Siding-2048x1170.jpg",
+      "assetType": "project",
+      "subject": "Lyons Colorado home with new James Hardie siding, windows and doors by",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://northernlightsexteriors.com/wp-content/uploads/2026/10/AFd__Northern_Lights_Exteriors__Sixth_Ave_West_Golden_CO_80401__Windows___Doors___Siding-2048x1366.jpg",
+      "assetType": "project",
+      "subject": "Golden home remodel with James Hardie Arctic White siding, Light Mist ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://northernlightsexteriors.com/wp-content/uploads/2026/10/GWF__Northern_Lights_Exteriors__Louisville_CO_80027__Windows___Doors___Siding-2048x1365.jpg",
+      "assetType": "project",
+      "subject": "Louisville, Colorado home near Erie updated with Pella wood-clad repla",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://northernlightsexteriors.com/wp-content/uploads/2026/10/Thunderbird-Boulder-1.jpg",
+      "assetType": "project",
+      "subject": "Thunderbird property in Boulder, Colorado — commercial exterior projec",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

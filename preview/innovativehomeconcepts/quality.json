@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "innovativehomeconcepts",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://innovativehomeconcepts.com/wp-content/uploads/2026/07/ihc-project-home-hero-2026-2000w-lean.webp",
+      "assetType": "site",
+      "subject": "Lake Forest, IL home with new James Hardie shake siding, Hardie trim, ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://innovativehomeconcepts.com/wp-content/uploads/2024/12/innovative-at-night.jpg",
+      "assetType": "site",
+      "subject": "Innovative Home Concepts office building in Crystal Lake at night",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://innovativehomeconcepts.com/wp-content/uploads/2026/05/featured-after.jpg",
+      "assetType": "site",
+      "subject": "McHenry County home after — James Hardie siding, Versetta Stone, Gutte",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://innovativehomeconcepts.com/wp-content/uploads/2026/05/featured-before.jpg",
+      "assetType": "site",
+      "subject": "McHenry County home before exterior transformation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://innovativehomeconcepts.com/wp-content/uploads/2026/05/veretta-ct-mchenry-before-scaled.jpg",
+      "assetType": "site",
+      "subject": "Veretta Court McHenry IL before exterior remodel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://innovativehomeconcepts.com/wp-content/uploads/2026/05/ihc-anatomy-modern-farmhouse.jpg",
+      "assetType": "site",
+      "subject": "A McHenry County home with all five Innovative Home Concepts exterior ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

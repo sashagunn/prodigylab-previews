@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "nsewindows",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f6e5f_0ba84891fb2e4d35b3d615c37a502971~mv2.avif/v1/fill/w_1440,h_1195,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7b7cdb_c137f30e36164764933f32f37e9d8585~mv2.avif",
+      "assetType": "site",
+      "subject": "7b7cdb_c137f30e36164764933f32f37e9d8585~mv2.avif",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f6e5f_4266b420d6b145e7a9d3b6ca33036931~mv2.avif/v1/fill/w_1440,h_905,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7b7cdb_9d66ba4ef54c4d76a280d6834c9301bc~mv2.avif",
+      "assetType": "site",
+      "subject": "7b7cdb_9d66ba4ef54c4d76a280d6834c9301bc~mv2.avif",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f6e5f_97eebd0f911c44cfae0422516ae4b4c3f000.jpg/v1/fill/w_1440,h_767,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/7f6e5f_97eebd0f911c44cfae0422516ae4b4c3f000.jpg",
+      "assetType": "site",
+      "subject": "WhatsApp Video 2026-07-09 at 3.40.30 PM.mp4",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7f6e5f_995f686cdc904d5ebe887853943d5f59~mv2.jpeg/v1/fill/w_740,h_888,fp_0.50_0.50,q_85,enc_auto/WhatsApp%20Image%202026-07-13%20at%205_04_53%20PM.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
