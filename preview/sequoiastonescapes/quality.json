@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "sequoiastonescapes",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.sequoiastonescapes.com/_next/image/?url=%2Fimages%2Fgallery%2Fdallas-fireplace%2Fcovered-patio-fireplace.jpg&w=1920&q=75&dpl=dpl_EeYnnZLGLRnNV5v3CpCmNR69yKvj",
+      "assetType": "project",
+      "subject": "Dallas Project — Covered Patio & Fireplace",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.sequoiastonescapes.com/_next/image/?url=%2Fimages%2Fgallery%2Fdallas-fireplace%2Fpaver-patio-overview.jpg&w=1920&q=75&dpl=dpl_EeYnnZLGLRnNV5v3CpCmNR69yKvj",
+      "assetType": "project",
+      "subject": "Dallas Project — Paver Patio & Seating",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.sequoiastonescapes.com/_next/image/?url=%2Fimages%2Fcase-studies%2Fgreeney-residence%2FGreeney_Residence_HNA_OR_PhotosDJI_0075-Custom-1.webp&w=1920&q=75&dpl=dpl_EeYnnZLGLRnNV5v3CpCmNR69yKvj",
+      "assetType": "project",
+      "subject": "Greeney Residence — Permeable Paver Driveway & Courtyard",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.sequoiastonescapes.com/_next/image/?url=%2Fimages%2Fgallery%2Fdriveways%2FDJI_0248-EDITED-1.jpg&w=1920&q=75&dpl=dpl_EeYnnZLGLRnNV5v3CpCmNR69yKvj",
+      "assetType": "project",
+      "subject": "Paver Patio & Fire Pit — Aerial View",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.sequoiastonescapes.com/_next/image/?url=%2Fimages%2Fgallery%2Fdriveways%2FDJI_0379-SKY-EDITED-Custom-1.jpg&w=1920&q=75&dpl=dpl_EeYnnZLGLRnNV5v3CpCmNR69yKvj",
+      "assetType": "project",
+      "subject": "Paver Patio & Hot Tub — Aerial View",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.sequoiastonescapes.com/_next/image/?url=%2Fimages%2Fgallery%2Fdriveways%2FDJI_0408-EDITED.jpg&w=1920&q=75&dpl=dpl_EeYnnZLGLRnNV5v3CpCmNR69yKvj",
+      "assetType": "project",
+      "subject": "Patio & Pergola — Aerial View",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

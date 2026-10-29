@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "sissonlandscapes",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/69bb846c676ea4e6247eb9be/69c25e8d4b503e6151a0f43d_Outdoor%20Kitchens.webp",
+      "assetType": "project",
+      "subject": "Outdoor Kitchens",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/69bb846c676ea4e6247eb9be/69bb9fc6ed5a91729f9d80f6_29a978b10203dbadf6a7cb73c1724fb7_limberger%20front%20%28homepage%29.jpg",
+      "assetType": "project",
+      "subject": "limberger front",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/69bb846c676ea4e6247eb9be/69bb9fc673335156fc213af0_limberger%20garage.jpg",
+      "assetType": "project",
+      "subject": "limberger garage",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/69bb846c676ea4e6247eb9be/69c25e8d02ea08aedffe2077_Shade%20Structures.webp",
+      "assetType": "project",
+      "subject": "Shade Structures",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/69bb846c676ea4e6247eb9be/69c25e8dd4443e5155557473_Fire%20Elements.webp",
+      "assetType": "project",
+      "subject": "Fire Elements",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn.prod.website-files.com/69bb846c676ea4e6247eb9be/69c25e8e55965e926f3b826b_Woodland%20Gardens.webp",
+      "assetType": "project",
+      "subject": "Woodland Gardens",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "troyclogg",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d073b08294ec7000197ac2d/1562085849577-CN59Y8EZEAJCUMAPR9XJ/0+Residential+Contact.jpg",
+      "assetType": "project",
+      "subject": "0 Residential Contact.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d073b08294ec7000197ac2d/1570642952177-BACU38P73DU90LO6TAA9/20190917_235252146_iOS.jpg",
+      "assetType": "project",
+      "subject": "20190917_235252146_iOS.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d073b08294ec7000197ac2d/1570642952622-CLRDE25RYOD0IADUKNQQ/20190917_233934031_iOS.jpg",
+      "assetType": "project",
+      "subject": "20190917_233934031_iOS.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d073b08294ec7000197ac2d/1570642964856-FC9YMPJIAI8KXJB63VKI/IMG_9686.jpeg",
+      "assetType": "project",
+      "subject": "IMG_9686.jpeg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d073b08294ec7000197ac2d/1563353283100-VKUK295E71TSZNVB3N9G/2700+Stone+Meadows+Court%2C+Commerce+Township00002.jpg",
+      "assetType": "project",
+      "subject": "2700 Stone Meadows Court, Commerce Township00002.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d073b08294ec7000197ac2d/1570642956571-BHS9K824RH45OCQGGP2M/DJI_0015.JPG",
+      "assetType": "project",
+      "subject": "DJI_0015.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

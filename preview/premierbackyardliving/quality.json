@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "premierbackyardliving",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://premierbackyardliving.com/wp-content/uploads/2025/08/Boaz_Property_026-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://premierbackyardliving.com/wp-content/uploads/2025/08/Image_202511291309.png",
+      "assetType": "site",
+      "subject": "Image_202511291309",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://premierbackyardliving.com/wp-content/uploads/2016/08/KimCt2016_prop_0030.jpg",
+      "assetType": "site",
+      "subject": "Outdoor Living",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://premierbackyardliving.com/wp-content/uploads/2020/12/Hueffner_Property_033.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://premierbackyardliving.com/wp-content/uploads/2021/11/Spuck_Property_052.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://premierbackyardliving.com/wp-content/uploads/2022/08/Dennis_Property_2022_029.jpg",
+      "assetType": "site",
+      "subject": "Dennis_Property_2022_029",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

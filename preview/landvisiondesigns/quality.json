@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "landvisiondesigns",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.landvisiondesigns.com/wp-content/webp-express/webp-images/uploads/IMG_2214.jpeg.webp",
+      "assetType": "project",
+      "subject": "Custom Inground Pool with Outdoor Lighting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.landvisiondesigns.com/wp-content/webp-express/webp-images/uploads/IMG_3242.jpg.webp",
+      "assetType": "project",
+      "subject": "Backyard Oasis: Terrace, Pergola, Water Feature, and Putting Green",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.landvisiondesigns.com/wp-content/webp-express/webp-images/uploads/IMG_4262.jpeg.webp",
+      "assetType": "project",
+      "subject": "Outdoor Kitchen with Natural Stone and Native Raleigh Plants",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.landvisiondesigns.com/wp-content/webp-express/webp-images/uploads/IMG_4289.jpeg.webp",
+      "assetType": "project",
+      "subject": "Backyard Transformation: Stone Patio, Outdoor Kitchen, and Modern Gas ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.landvisiondesigns.com/wp-content/webp-express/webp-images/uploads/IMG_0561.jpg.webp",
+      "assetType": "project",
+      "subject": "Outdoor Fireplace with Porch",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.landvisiondesigns.com/wp-content/webp-express/webp-images/uploads/IMG_0570.jpeg.webp",
+      "assetType": "project",
+      "subject": "Patio Pavers Walkway with Natural Rock",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "trcoutdoor",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://trcoutdoor.com/wp-content/uploads/2026/08/TRC-Project-Gallery1-1-2048x1152.webp",
+      "assetType": "project",
+      "subject": "TRC Project Gallery1 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://trcoutdoor.com/wp-content/uploads/2026/08/TRC-Project-Gallery1-2.webp",
+      "assetType": "project",
+      "subject": "TRC Project Gallery1 2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://trcoutdoor.com/wp-content/uploads/2026/08/TRC-Project-Gallery10-1.webp",
+      "assetType": "project",
+      "subject": "TRC Project Gallery10 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://trcoutdoor.com/wp-content/uploads/2026/08/TRC-Project-Gallery11-1.webp",
+      "assetType": "project",
+      "subject": "TRC Project Gallery11 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://trcoutdoor.com/wp-content/uploads/2026/08/TRC-Project-Gallery12-1.webp",
+      "assetType": "project",
+      "subject": "TRC Project Gallery12 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://trcoutdoor.com/wp-content/uploads/2026/08/TRC-Project-Gallery13-1.webp",
+      "assetType": "project",
+      "subject": "TRC Project Gallery13 1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

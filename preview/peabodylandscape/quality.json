@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "peabodylandscape",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://peabodylandscape.com/images/optimized/portfolio/Residential%20Install/Dublin%20Elegant%20Estate/dublin-elegant-estate-15-w1800.webp",
+      "assetType": "project",
+      "subject": "Estate garden rooms and stonework",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://peabodylandscape.com/images/optimized/portfolio/Residential%20Install/French%20Chateau%20Estate/french-chateau-estate-13-w2200.webp",
+      "assetType": "project",
+      "subject": "Formal Estate Grounds landscape project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://peabodylandscape.com/images/optimized/portfolio/Residential%20Install/Galena%20Country%20Oasis/galena-country-oasis-08-w2200.webp",
+      "assetType": "project",
+      "subject": "Residential outdoor room and garden composition",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://peabodylandscape.com/images/optimized/features/outdoor%20lighting/outdoor-lighting-patio-seating-garden-twilight-01-w3200.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://peabodylandscape.com/images/optimized/features/patios-walkways-steps/paver-patio-with-dining-and-planting-beds-b59-w2400.webp",
+      "assetType": "site",
+      "subject": "Paver patio with a dining table and chairs, planting beds and stone st",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://peabodylandscape.com/images/optimized/features/retaining%20walls/block-wall-and-steps-around-a-planting-bed-b70-w2400.webp",
+      "assetType": "site",
+      "subject": "Curved block retaining wall and stone steps around a planting bed belo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

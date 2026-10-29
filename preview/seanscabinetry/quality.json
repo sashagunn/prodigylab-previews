@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "seanscabinetry",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/627cadabb0d18f233d879b0d/5e2a0130-15d2-490b-8760-55a7abf2e445/Screen+Shot+2026-03-04+at+2.31.39+PM.png?format=2500w",
+      "assetType": "project",
+      "subject": "Modern kitchen with dark wood cabinets, black countertops, a stainless",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/627cadabb0d18f233d879b0d/1652989971047-7DYACXO374DUSO7OQ9ZD/IMG_8434.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Nature Avenue",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/627cadabb0d18f233d879b0d/1653495853665-WOSDP1YL2T6VGOCOKXZ0/6372+Smithtown+Rd-1.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Lake Minnetonka",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/627cadabb0d18f233d879b0d/1653495960077-TDANCL3YECJSF2EM7SXB/5461+Quimby+2017-17.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Lake Sylvia",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/627cadabb0d18f233d879b0d/1654068205980-UNUJBEU78R7R14ETXF7E/20220521101135_IMG_3274.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Spring Lake",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/627cadabb0d18f233d879b0d/1727739014111-KS0UTGFHR597PIHTQFFE/seans_72423_HCP_002.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Waconia Modern",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

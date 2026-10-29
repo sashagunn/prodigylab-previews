@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "totalscapedesign",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://totalscapedesign.com/wp-content/uploads/2025/05/custom-landscaping-service-fort-lauderdale.webp",
+      "assetType": "project",
+      "subject": "custom landscaping service fort lauderdale",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://totalscapedesign.com/wp-content/uploads/2025/05/expert-landscape-services-fort-lauderdale.webp",
+      "assetType": "project",
+      "subject": "expert landscape services fort lauderdale",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://totalscapedesign.com/wp-content/uploads/2025/05/fort-lauderdale-landscape-project-gallery.webp",
+      "assetType": "project",
+      "subject": "fort lauderdale landcape project gallery",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://totalscapedesign.com/wp-content/uploads/2025/05/front-yard-landscape-installation-fort-lauderdale.jpeg",
+      "assetType": "project",
+      "subject": "Front yard landscape installation fort lauderdale",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://totalscapedesign.com/wp-content/uploads/2025/05/custom-landscape-design-fort-lauderdale-home.jpg",
+      "assetType": "project",
+      "subject": "Custom landscape design fort lauderdale home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://totalscapedesign.com/wp-content/uploads/2025/05/custom-luxury-pool-fort-lauderdale-backyard.jpg",
+      "assetType": "project",
+      "subject": "Custom luxury pool fort lauderdale backyard",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "reedyriverlandscapes",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.reedyriverlandscapes.com/wp-content/uploads/2026/03/home-hero.webp",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.reedyriverlandscapes.com/wp-content/uploads/2026/05/denston-featured-1.webp",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.reedyriverlandscapes.com/wp-content/uploads/2026/08/739363328_1618110699802515_6123455765691179062_n.jpg",
+      "assetType": "site",
+      "subject": "outdoor cooking area",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.reedyriverlandscapes.com/wp-content/uploads/2026/03/home-intro.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.reedyriverlandscapes.com/wp-content/uploads/2026/09/tennis-courts_1.avif",
+      "assetType": "site",
+      "subject": "Residential tennis court surrounded by landscaping",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.reedyriverlandscapes.com/wp-content/uploads/2026/09/sports-courts_1.avif",
+      "assetType": "site",
+      "subject": "Backyard sports court built into a residential landscape",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

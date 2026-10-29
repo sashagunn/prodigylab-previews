@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "boycedesign",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.boycedesign.com/wp-content/uploads/2021/08/Styf-Exterior-Concept-Plan-Revised.jpg",
+      "assetType": "project",
+      "subject": "Landscaping plan concept",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.boycedesign.com/wp-content/uploads/2021/07/styf-cs-2-before-1.jpg",
+      "assetType": "project",
+      "subject": "home with large backyard",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.boycedesign.com/wp-content/uploads/2021/07/styf-cs-2-client-desires-project-scope-1.jpg",
+      "assetType": "project",
+      "subject": "patio with wooden fireplace",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.boycedesign.com/wp-content/uploads/2021/08/styf-cs-2-renderingA.jpg",
+      "assetType": "project",
+      "subject": "Exterior rendering",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.boycedesign.com/wp-content/uploads/2021/08/styf-cs-2-renderingB.jpg",
+      "assetType": "project",
+      "subject": "Exterior rendering",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.boycedesign.com/wp-content/uploads/2021/07/styf-cs-2-after-2.jpg",
+      "assetType": "project",
+      "subject": "patio with outdoor seating",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

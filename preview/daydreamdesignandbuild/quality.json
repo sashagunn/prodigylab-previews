@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "daydreamdesignandbuild",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://daydreamdesignandbuild.com/wp-content/uploads/2026/06/Bespoke-Stone-Kitchen-1024x768.jpg",
+      "assetType": "project",
+      "subject": "Bespoke Stone Kitchen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://daydreamdesignandbuild.com/wp-content/uploads/2026/06/Custom-Pool-Coping-1024x768.jpg",
+      "assetType": "project",
+      "subject": "Custom Pool Coping",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://daydreamdesignandbuild.com/wp-content/uploads/2026/06/3D-Landscape-Design-1024x576.jpg",
+      "assetType": "project",
+      "subject": "3D Landscape Design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://daydreamdesignandbuild.com/wp-content/uploads/2026/06/3D-Pool-Design-1024x576.jpg",
+      "assetType": "project",
+      "subject": "3D Deck Design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://daydreamdesignandbuild.com/wp-content/uploads/2026/06/3D-Project-Design-1024x576.jpg",
+      "assetType": "project",
+      "subject": "3D Project Design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://daydreamdesignandbuild.com/wp-content/uploads/2026/06/Backyard-3D-Design-1024x576.jpg",
+      "assetType": "project",
+      "subject": "Backyard 3D Design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

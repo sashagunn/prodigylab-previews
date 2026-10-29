@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "georgiacabinetco",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://georgiacabinetco.com/wp-content/uploads/2021/07/res-White-Granite-Kitchen-Countertops.jpeg",
+      "assetType": "site",
+      "subject": "Georgia Cabinet Co Cabinets & Granite White Kitchen Remodel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://georgiacabinetco.com/wp-content/uploads/2026/01/4-Shaker-Jade-Dragon.jpg",
+      "assetType": "site",
+      "subject": "Shaker Jade Dragon",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://georgiacabinetco.com/wp-content/uploads/2026/01/5-Shaker-Forest-Green.jpg",
+      "assetType": "site",
+      "subject": "Shaker Forest Green",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://georgiacabinetco.com/wp-content/uploads/2026/01/1-Shaker-White.jpg",
+      "assetType": "site",
+      "subject": "Shaker White",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://georgiacabinetco.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-1.41.52-PM.png",
+      "assetType": "site",
+      "subject": "Georgia Cabinet Co.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

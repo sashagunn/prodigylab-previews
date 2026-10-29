@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "tedsgardens",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://tedsgardens.com/wp-content/uploads/2024/09/company-scaled.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://tedsgardens.com/wp-content/uploads/2024/11/82A5048-scaled.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://tedsgardens.com/wp-content/uploads/2024/11/Bruere-016-scaled.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://tedsgardens.com/wp-content/uploads/2025/01/82A5509-scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://tedsgardens.com/wp-content/uploads/2018/11/outdoor-living-rooms.jpg",
+      "assetType": "site",
+      "subject": "Outdoor Trellis and Kitchen with Custom Made Pergola and Unilock Stone",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://tedsgardens.com/wp-content/uploads/2018/11/plantings.jpg",
+      "assetType": "site",
+      "subject": "Outdoor Perennial Planting Design and Evergreen Landscape Design - Sum",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
