@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "momsdesignbuild",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://momsdesignbuild.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwavk40jo%2Fproduction%2F0a04a23ad2cb9cc2a562953fc85cdb6c84178f1c-2400x1600.jpg%3Frect%3D560%2C0%2C1280%2C1600%26w%3D800%26h%3D1000%26auto%3Dformat&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Private Poolside Retreat",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://momsdesignbuild.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwavk40jo%2Fproduction%2F0f586cadee72307f4d5670ffd753c3ce7f4ec6f2-2560x1708.jpg%3Frect%3D597%2C0%2C1366%2C1708%26w%3D800%26h%3D1000%26auto%3Dformat&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Neighborhood Commons",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://momsdesignbuild.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwavk40jo%2Fproduction%2F1a464ed2190f345f95132d8131462e4785de3652-2400x1350.jpg%3Frect%3D660%2C0%2C1080%2C1350%26w%3D800%26h%3D1000%26auto%3Dformat&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Shoreline Terrace",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://momsdesignbuild.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwavk40jo%2Fproduction%2F1ec8df62df9ec62066eddbe7d3ec7d928af96f0e-2016x1600.jpg%3Frect%3D368%2C0%2C1280%2C1600%26w%3D800%26h%3D1000%26auto%3Dformat&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Hearth Hideaway",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://momsdesignbuild.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwavk40jo%2Fproduction%2F30e49c2a8d89774d0d152b40d804039c1f776dcb-2400x1600.jpg%3Frect%3D560%2C0%2C1280%2C1600%26w%3D800%26h%3D1000%26auto%3Dformat&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Serene Shores",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://momsdesignbuild.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwavk40jo%2Fproduction%2F348a79a00fa1816a8009c2f72457e000145465c2-1600x2400.jpg%3Frect%3D0%2C200%2C1600%2C2000%26w%3D800%26h%3D1000%26auto%3Dformat&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Enchanted Entry",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

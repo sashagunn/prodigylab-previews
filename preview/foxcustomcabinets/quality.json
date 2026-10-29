@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "foxcustomcabinets",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://foxcustomcabinets.com/img/k-dark-island.webp",
+      "assetType": "project",
+      "subject": "Kitchen island with bar seating and honed-stone counters",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://foxcustomcabinets.com/img/k-gray-island.webp",
+      "assetType": "project",
+      "subject": "Kitchen with a gray island and matte-black fixtures",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://foxcustomcabinets.com/img/k-green-island.webp",
+      "assetType": "project",
+      "subject": "Kitchen with a sage-green shaker island and brass pulls",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://foxcustomcabinets.com/img/k-open-wide.webp",
+      "assetType": "project",
+      "subject": "Open-concept kitchen with a large central island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://foxcustomcabinets.com/img/k-white-pendants.webp",
+      "assetType": "project",
+      "subject": "White kitchen with a marble island and statement pendants",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://foxcustomcabinets.com/img/k-white-range.webp",
+      "assetType": "project",
+      "subject": "White shaker kitchen with a custom range hood",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

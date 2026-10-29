@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "outdoorlivingsolutionsllc",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://outdoorlivingsolutionsllc.com/_next/image?url=https%3A%2F%2Fwillsowellco-assets.atl1.cdn.digitaloceanspaces.com%2Fimages%2Fgallery%2Foutdoor-fireplaces%2Foutdoor-fireplace-001.jpg&w=3840&q=75",
+      "assetType": "site",
+      "subject": "Outdoor fireplace and fire pit",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://outdoorlivingsolutionsllc.com/_next/image?url=https%3A%2F%2Fwillsowellco-assets.atl1.cdn.digitaloceanspaces.com%2Fimages%2Fgallery%2Foutdoor-living%2Foutdoor-living-001.jpg&w=3840&q=75",
+      "assetType": "site",
+      "subject": "Outdoor living space with pergola",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

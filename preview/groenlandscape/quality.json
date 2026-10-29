@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "groenlandscape",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.groenlandscape.com/wp-content/uploads/2020/08/8-2048x1367.jpeg",
+      "assetType": "site",
+      "subject": "8",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.groenlandscape.com/wp-content/uploads/2020/08/DSC8592-scaled.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.groenlandscape.com/wp-content/uploads/2020/08/untitled-118-scaled.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.groenlandscape.com/wp-content/uploads/2022/03/Copy-of-untitled-20-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.groenlandscape.com/wp-content/uploads/2024/01/DSC3320-1-2048x1367.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.groenlandscape.com/wp-content/uploads/2024/04/untitled-68-2048x1367.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

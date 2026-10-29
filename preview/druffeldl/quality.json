@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "druffeldl",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://druffeldl.com/wp-content/uploads/2020/01/Druffel_landscape_architecture_cincinnati_garden_pinehurst_hyde_park_garden-1024x791.jpg",
+      "assetType": "project",
+      "subject": "Hyde Park entry garden with tulips",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://druffeldl.com/wp-content/uploads/2020/01/Druffel_landscaping_design_residential_cincinnati_outdoor_retaining_wall_stairs_Hyde_park-1024x791.jpg",
+      "assetType": "project",
+      "subject": "Druffel Wall in Hyde Park",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://druffeldl.com/wp-content/uploads/2020/01/Druffel_landscape_architecture_cincinnati_raised_garden_Old-Indian-Hill-10-1024x770.jpg",
+      "assetType": "project",
+      "subject": "Old Indian Hill Road raised garden beds",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://druffeldl.com/wp-content/uploads/2019/12/Druffel_landscape_design_residential_cincinnati_pinehurst_entry-1024x768.jpg",
+      "assetType": "project",
+      "subject": "Hyde Park entry garden",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://druffeldl.com/wp-content/uploads/2020/01/Druffel_landscape_architecture_cincinnati_garden_Old-Indian-Hill-9-1-1024x768.jpg",
+      "assetType": "project",
+      "subject": "Garden beds in Indian Hill",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://druffeldl.com/wp-content/uploads/2020/01/Druffel_landscape_architecture_cincinnati_pathway_Old-Indian-Hill-1-1024x768.jpg",
+      "assetType": "project",
+      "subject": "Old Indian Hill Road Pavement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "kuche-cucina",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.kuche-cucina.com/wp-content/uploads/2020/10/KC-paramus-location.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.kuche-cucina.com/wp-content/aero-nextgen/uploads/2020/10/slider1_87748b10a39b2255ef237413a8c8e1e9.jpg.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.kuche-cucina.com/wp-content/aero-nextgen/uploads/2020/10/slider1_87748b10a39b2255ef237413a8c8e1e9.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.kuche-cucina.com/wp-content/aero-nextgen/uploads/2020/10/slider2_b4f2d76e716ba5f9893a75491a8c4dc9.jpg.avif",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.kuche-cucina.com/wp-content/aero-nextgen/uploads/2020/10/slider2_b4f2d76e716ba5f9893a75491a8c4dc9.jpg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.kuche-cucina.com/wp-content/uploads/2020/10/slider1_87748b10a39b2255ef237413a8c8e1e9.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

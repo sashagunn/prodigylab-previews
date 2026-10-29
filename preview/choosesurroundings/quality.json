@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "choosesurroundings",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://choosesurroundings.com/images/ellis/best-photos/web/attached-structure-outdoor-kitchen-gas-fire-pit-patio-dining-table-carmel-08-1600w.avif",
+      "assetType": "project",
+      "subject": "Attached structure with outdoor kitchen, gas fire pit, and patio dinin",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://choosesurroundings.com/images/morton/best-photos/web/aerial-view-composite-deck-under-deck-drainage-screened-porch-pool-indianapolis-01-1600w.avif",
+      "assetType": "project",
+      "subject": "Aerial view composite deck, under-deck drainage, screened porch, and p",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://choosesurroundings.com/images/unknown-project/best-photos/web/outdoor-kitchen-grill-griddle-800w.avif",
+      "assetType": "project",
+      "subject": "Outdoor kitchen grill griddle.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://choosesurroundings.com/images/krumm/best-photos/web/aerial-view-paver-patio-fire-pit-deck-carmel-01-1600w.avif",
+      "assetType": "project",
+      "subject": "Aerial view of paver patio, fire pit, and deck in Carmel.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://choosesurroundings.com/__l5e/assets-v1/a9e48d4c-b9a0-4a12-986c-6d1831d973b8/unilock-authorized.png",
+      "assetType": "project",
+      "subject": "Unilock Authorized Contractor",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://choosesurroundings.com/images/alexander/best-photos/web/composite-deck-overlook-view-table-grill-top-view-westfield-06-800w.avif",
+      "assetType": "project",
+      "subject": "Composite deck with overlook view, table, and grill in Westfield.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

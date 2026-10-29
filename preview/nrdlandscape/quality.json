@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "nrdlandscape",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://nrdlandscape.com/wp-content/uploads/2022/12/Nagel_1.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://nrdlandscape.com/wp-content/uploads/2022/03/76.jpg",
+      "assetType": "site",
+      "subject": "outdoor dream",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://nrdlandscape.com/wp-content/uploads/2022/03/front-entry-91-1-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://nrdlandscape.com/wp-content/uploads/2022/03/IMG_20190823_124132.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://nrdlandscape.com/wp-content/uploads/2022/03/PXL_20210720_165531595.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://nrdlandscape.com/wp-content/uploads/2022/04/DSC_0216_A.jpg",
+      "assetType": "site",
+      "subject": "landscape design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

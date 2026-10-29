@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "gardenofedenco",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://gardenofedenco.com/wp-content/uploads/2020/09/Allen-Entranceway_IMG_3725-scaled.jpg",
+      "assetType": "project",
+      "subject": "*Allen Entranceway",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://gardenofedenco.com/wp-content/uploads/2020/09/Berchem-FirePit_IMG_9081-scaled.jpg",
+      "assetType": "project",
+      "subject": "Berchem Firepit**",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://gardenofedenco.com/wp-content/uploads/2020/09/Berchem-Grill-Station_IMG_9099.jpg",
+      "assetType": "project",
+      "subject": "Berchem Grill*",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://gardenofedenco.com/wp-content/uploads/2020/09/Brankin-Patio-scaled.jpg",
+      "assetType": "project",
+      "subject": "Brankin Patio",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://gardenofedenco.com/wp-content/uploads/2020/09/Cali-Bar-_IMG_1325-scaled.jpg",
+      "assetType": "project",
+      "subject": "Cali Bar _IMG_1325",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://gardenofedenco.com/wp-content/uploads/2020/09/Cali-Courtyard_IMG_1013-scaled.jpg",
+      "assetType": "project",
+      "subject": "CA@Estates_Miro Model",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

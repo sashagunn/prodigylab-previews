@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "venegascompany",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5c2fa23f3e2d09a195690e0c/1664988331129-T0U6AMWTEESDBK4EGOXI/5under40_neh2022%285%29.jpg",
+      "assetType": "site",
+      "subject": "5under40_neh2022(5).jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5c2fa23f3e2d09a195690e0c/1734115485397-WHISOLSJRSCYSZO9JUT2/Image_20241206_111649_198+%282%29.jpeg",
+      "assetType": "site",
+      "subject": "Image_20241206_111649_198 (2).jpeg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5c2fa23f3e2d09a195690e0c/1734115720943-4VM5TP17CVWFFHXLMCRD/branded-2G3A2074.jpg",
+      "assetType": "site",
+      "subject": "branded-2G3A2074.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5c2fa23f3e2d09a195690e0c/1758307921933-HG88FHY2J3HY89MRTKQ1/IMG_2284.JPG",
+      "assetType": "site",
+      "subject": "IMG_2284.JPG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5c2fa23f3e2d09a195690e0c/1570572660410-LYM8P9WHK2TMGJL2NCH8/VenegasShowroomGray.jpg",
+      "assetType": "site",
+      "subject": "VenegasShowroomGray.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5c2fa23f3e2d09a195690e0c/1758308227007-VYEYI33OMHD4IAU20RR7/Screenshot+2025-06-05+104358.png",
+      "assetType": "site",
+      "subject": "Screenshot 2025-06-05 104358.png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

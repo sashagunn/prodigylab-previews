@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "rikb",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://rikb.com/wp-content/uploads/2024/05/Portsmouth-RIKB-Kitchen-Remodel.png",
+      "assetType": "site",
+      "subject": "Portsmouth RI Kitchen Remodel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://rikb.com/wp-content/uploads/2024/05/East-Greenwich-master-bathroom-remodel.png",
+      "assetType": "site",
+      "subject": "East Greenwich Master Bathroom Remodel RIKB",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://rikb.com/wp-content/uploads/2020/11/other-spaces.jpg",
+      "assetType": "site",
+      "subject": "other-spaces",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://rikb.com/wp-content/uploads/2024/05/RIKB-Design-Build-Kitchen-Bristol.png",
+      "assetType": "site",
+      "subject": "RIKB Bristol Kitchen Remodel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://rikb.com/wp-content/uploads/2024/05/coffee-bar.png",
+      "assetType": "site",
+      "subject": "North Kingstown Coffee Bar RIKB",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

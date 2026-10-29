@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "kitchensbydesignri",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_e8590224d2d1438c96bb6486dc7ac6e4~mv2.jpg/v1/fill/w_1440,h_708,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_e8590224d2d1438c96bb6486dc7ac6e4~mv2.jpg",
+      "assetType": "site",
+      "subject": "Kitchen Showroom in Rhode Island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/bbd031_328d01bd06154b438c1afabb3c472ec6~mv2.jpg/v1/fill/w_1440,h_580,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bbd031_328d01bd06154b438c1afabb3c472ec6~mv2.jpg",
+      "assetType": "site",
+      "subject": "A kitchen renovation by Kitchens by Design in Rhode Island.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/bbd031_e5cf2dc37c674011a75ce38c30715fc9~mv2.jpg/v1/fill/w_1440,h_539,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bbd031_e5cf2dc37c674011a75ce38c30715fc9~mv2.jpg",
+      "assetType": "site",
+      "subject": "Kitchen cabinet showroom in Johnston, RI.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_7ffbcc1b69df473a86873f09a429a709~mv2.jpg/v1/fill/w_1440,h_624,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_7ffbcc1b69df473a86873f09a429a709~mv2.jpg",
+      "assetType": "site",
+      "subject": "Blue Texture",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

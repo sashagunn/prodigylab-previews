@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "kitchenconnectionct",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://kitchenconnectionct.com/assets/img/hero-2000.webp",
+      "assetType": "project",
+      "subject": "White and navy open-plan kitchen with quartz island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://kitchenconnectionct.com/assets/img/k-brick-twotone-2000.webp",
+      "assetType": "project",
+      "subject": "Two-tone kitchen with white uppers and wood base by exposed brick",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://kitchenconnectionct.com/assets/img/k-cream-wood-2000.webp",
+      "assetType": "project",
+      "subject": "Warm cream and wood kitchen with island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://kitchenconnectionct.com/assets/img/k-grey-waterfall-2000.webp",
+      "assetType": "project",
+      "subject": "Grey kitchen with a marble waterfall island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://kitchenconnectionct.com/assets/img/k-marble-detail-2000.webp",
+      "assetType": "project",
+      "subject": "Marble backsplash and brass faucet detail",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://kitchenconnectionct.com/assets/img/k-white-black-2000.webp",
+      "assetType": "project",
+      "subject": "White shaker kitchen with dark backsplash",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "biotalandscapes",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://biotalandscapes.com/wp-content/uploads/2021/05/130827_Epicurean_Piazza_003-e1622131375219-800x800.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://biotalandscapes.com/wp-content/uploads/2021/05/130904_Rustic_Veranda_009-e1622132256161-800x800.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://biotalandscapes.com/wp-content/uploads/2021/05/130925_Grounded_Architecture_011-800x800.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://biotalandscapes.com/wp-content/uploads/2021/05/131021_Nouveau_Front_Yard_014-800x800.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://biotalandscapes.com/wp-content/uploads/2021/05/131025_Private_Sanctuary_001-e1622124012545-800x800.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://biotalandscapes.com/wp-content/uploads/2021/05/140822_Social_Sustainability_006-800x800.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
