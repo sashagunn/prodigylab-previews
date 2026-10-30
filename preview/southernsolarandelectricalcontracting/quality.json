@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "southernsolarandelectricalcontracting",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/c91ec95a/dms3rep/multi/opt/Cartmell+Elementary+pic-600h.jpg?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Aerial view of a building roof with solar panels and nearby parking lo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/c91ec95a/dms3rep/multi/opt/Rockcastle+pic+2-600h.jpg?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Aerial view of a large school campus with white buildings, blue roofs,",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/c91ec95a/dms3rep/multi/opt/SGES-600h.JPG?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Aerial view of a building roof covered with solar panels and skylights",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/c91ec95a/dms3rep/multi/opt/SGES+Gymnasium-600h.JPG?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Aerial view of a rooftop covered with solar panels beside a parking lo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/c91ec95a/dms3rep/multi/opt/Sugar+Grove+Elementary+Cafeteria+Roof-600h.JPG?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Aerial view of a house roof covered with solar panels, next to a lawn ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/c91ec95a/dms3rep/multi/opt/Sugar+Grove+Elementary+School-600h.JPG?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Aerial view of a large modern building complex with parking lots and s",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

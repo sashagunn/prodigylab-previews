@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "irelandcontracting",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.irelandcontracting.com/images/hero/ireland-contracting-cape-cod-roof.webp",
+      "assetType": "site",
+      "subject": "Cape Cod home in the Pittsburgh area with a newly installed Ireland Co",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.irelandcontracting.com/images/hero/ireland-contracting-home-hero-v2.webp",
+      "assetType": "site",
+      "subject": "Charcoal shingle roof on a brick and cream-sided home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.irelandcontracting.com/images/services/soffits-hero-v4.webp",
+      "assetType": "site",
+      "subject": "Newly installed white soffit and fascia along a home's roof edge",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.irelandcontracting.com/images/services/windows-hero.webp",
+      "assetType": "site",
+      "subject": "Energy-efficient replacement windows installed in a home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.irelandcontracting.com/images/services/roofing-american-flag-drone.webp",
+      "assetType": "site",
+      "subject": "Aerial drone view of a completed shingle roof flying an American flag",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.irelandcontracting.com/images/services/gutters-hero-v5.webp",
+      "assetType": "site",
+      "subject": "Seamless gutters and downspout installed along a roofline",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

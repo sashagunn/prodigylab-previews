@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "salemwindowsanddoors",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://salemwindowsanddoors.com/wp-content/uploads/marvin-remodel-window-options-discover-1566x750.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://salemwindowsanddoors.com/wp-content/uploads/Image_1_Wainscott.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://salemwindowsanddoors.com/wp-content/uploads/montessori-compressed.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://salemwindowsanddoors.com/wp-content/uploads/marvin-remodel-replacement-options-replace-every-part-783x467.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://salemwindowsanddoors.com/wp-content/uploads/fader3-1.jpg",
+      "assetType": "site",
+      "subject": "Kitchen Windows Boone NC",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://salemwindowsanddoors.com/wp-content/uploads/marvin-remodel-window-options-unique-historic-home-842x841.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "mortonsolar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/397896_be99578b345942f7bba6d7b6a14de8daf000.jpg/v1/fill/w_1440,h_900,al_t,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/397896_be99578b345942f7bba6d7b6a14de8daf000.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/397896_9bea9c5d92f343afad21a0710716cad9~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/397896_9bea9c5d92f343afad21a0710716cad9~mv2.jpg",
+      "assetType": "site",
+      "subject": "Morton Solar and CAPE",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7dd4b0_c723d7a962cf4e5cbd466befec7ddbdcf000.jpg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/7dd4b0_c723d7a962cf4e5cbd466befec7ddbdcf000.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7dd4b0_b492e545a6264d1db164bab336728e82~mv2.jpg/v1/fill/w_1440,h_851,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7dd4b0_b492e545a6264d1db164bab336728e82~mv2.jpg",
+      "assetType": "site",
+      "subject": "Indiana-American-Water-utility-solar-installation.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/7dd4b0_cefa6395792c435b8523978e4efafe8c~mv2.jpg/v1/fill/w_806,h_1343,al_l,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7dd4b0_cefa6395792c435b8523978e4efafe8c~mv2.jpg",
+      "assetType": "site",
+      "subject": "Richardsville-Elementary-School-Net-Zero-Solar-Installation-by-Morton-",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/397896_b9c5f35fa9594118b2a861f8a5f157ed~mv2.jpg/v1/fill/w_700,h_1120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/core%2520values_lightbulb_wide-01_edited_j.jpg",
+      "assetType": "site",
+      "subject": "What We Value Most –  Morton Solar & Electric",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

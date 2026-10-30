@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "hhiwindows",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://hhiwindows.com/wp-content/uploads/2025/02/HHI-Windows-and-Doors-Windows-and-Doors-Services-2.jpg",
+      "assetType": "site",
+      "subject": "An entry door adorned with a vibrant flower pot beside it welcomes vis",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://hhiwindows.com/wp-content/uploads/2025/02/HHI-Windows-and-Doors-Windows-and-Doors-Services-3.jpg",
+      "assetType": "site",
+      "subject": "A skilled technician installs a door, illustrating professional door i",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://hhiwindows.com/wp-content/uploads/2025/02/HHI-Windows-and-Doors-Windows-and-Doors-Services.jpg",
+      "assetType": "site",
+      "subject": "A man in green providing window and door services in a modern building",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://hhiwindows.com/wp-content/uploads/2025/04/HHI-Windows-and-Doors-What-Entry-Door-Brands-Offer-the-Best-Value-for-Homeowners-3.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://hhiwindows.com/wp-content/uploads/2025/07/HHI-Windows-and-Doors-About-Us1.jpg",
+      "assetType": "site",
+      "subject": "HHI Windows and Doors About Us1",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://hhiwindows.com/wp-content/uploads/2025/07/HHI-Windows-and-Doors-About-Us2.jpg",
+      "assetType": "site",
+      "subject": "HHI Windows and Doors About Us2",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

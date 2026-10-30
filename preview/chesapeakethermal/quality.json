@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "chesapeakethermal",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://assets.cdn.filesafe.space/mHFCAXCjjulsJWHHPmjB/media/6a9c82629fa5199bb34937ce.webp",
+      "assetType": "project",
+      "subject": "Sliding patio door opening to a backyard",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://assets.cdn.filesafe.space/mHFCAXCjjulsJWHHPmjB/media/6a9c82629fa5199bb34937c4.webp",
+      "assetType": "project",
+      "subject": "Chesapeake Thermal installers installing a replacement window",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://assets.cdn.filesafe.space/mHFCAXCjjulsJWHHPmjB/media/6a9c82647614828d36a4f10c.webp",
+      "assetType": "project",
+      "subject": "Replacement windows and entry door on a remodeled Maryland home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://assets.cdn.filesafe.space/mHFCAXCjjulsJWHHPmjB/media/6a9c82669fa5199bb3493821.webp",
+      "assetType": "project",
+      "subject": "Finished window installation with fresh exterior capping and trim",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://assets.cdn.filesafe.space/mHFCAXCjjulsJWHHPmjB/media/6a9c82697614828d36a4f1a4.webp",
+      "assetType": "project",
+      "subject": "Steel entry door with decorative glass on a residential front porch",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://assets.cdn.filesafe.space/mHFCAXCjjulsJWHHPmjB/media/6a9c826aff1a50b7322581ec.webp",
+      "assetType": "project",
+      "subject": "White vinyl replacement windows on a Maryland home exterior",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

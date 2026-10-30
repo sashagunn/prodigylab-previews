@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "allds",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.allds.com/media/project/images/6484/sliding-patio-door-replacement-gallery-2111.webp",
+      "assetType": "project",
+      "subject": "Sliding patio door installation in progress with sealant and drop clot",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.allds.com/media/project/images/6488/sliding-patio-door-replacement-gallery-2105.webp",
+      "assetType": "project",
+      "subject": "Detail of rotted wood and debris near interior floor",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.allds.com/media/project/images/6489/sliding-patio-door-replacement-gallery-2106.webp",
+      "assetType": "project",
+      "subject": "Rotted wood threshold and concrete visible during inspection",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.allds.com/media/project/images/6408/smart-pet-door-installed-in-french-door-glass-gallery-2082.webp",
+      "assetType": "project",
+      "subject": "Exterior door with glass panel cut out for pet door installation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.allds.com/media/project/images/6410/smart-pet-door-installed-in-french-door-glass-gallery-2083.webp",
+      "assetType": "project",
+      "subject": "Pet door being installed in exterior door with masking tape and caulki",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.allds.com/media/project/images/6412/smart-pet-door-installed-in-french-door-glass-gallery-2084.webp",
+      "assetType": "project",
+      "subject": "Interior view of a glass door with a pet door installed",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

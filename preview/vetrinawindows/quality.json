@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "vetrinawindows",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/668431d4b3eeb7430785a25a/e52e88e5-35c7-445d-8b5e-1914e76cc087/vetrina-meadowbrook-clubhouse-5.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Bi-Fold and Swing Doors for Meadowbrook Country Club Estates",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/668431d4b3eeb7430785a25a/035d6e4b-6a71-4691-b17a-012ea0c48061/mega+vetrina+one+thousand+one+broad+washington_2.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Modern apartment complex with a swimming pool, lounge chairs, and outd",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/668431d4b3eeb7430785a25a/30d9ec62-51e9-4c3c-9a84-2ace9c706f91/Senior+Adult+Activities+Center+of+Montgomery+County+windows+by+vetrina+windows+norristown+pa-8.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "60 Custom Aluminum Windows for a Montgomery County Senior Activity Cen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/668431d4b3eeb7430785a25a/c0855a35-6627-4eed-bdd7-b1adde1a4c56/kia-on-the-boulevard-windows-and-doors-by-vetrina-windows-thumbnail.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "KIA on the Boulevard - DELRAN and ARDMORE Industrial Aluminum Windows",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/668431d4b3eeb7430785a25a/73d2cfb3-2478-4b69-a86e-364aa1993df1/UMBC-stadium-custom-aluminum-windows-by-vetrina-windows-thumb.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "Aluminum Sliding Windows for the UMBC Stadium Press Box",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/668431d4b3eeb7430785a25a/23ba8a10-7b08-48dc-b1bc-6b18db909e3a/Wendover+art+studio-thumbnail.jpg?format=2500w",
+      "assetType": "project",
+      "subject": "A 24-Foot Aluminum Bi-Fold Door for Wendover Art Studio in Dallas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

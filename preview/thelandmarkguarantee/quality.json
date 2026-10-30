@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "thelandmarkguarantee",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://thelandmarkguarantee.com/wp-content/uploads/2026/10/A7407096-Enhanced-NR-scaled-opt.webp",
+      "assetType": "site",
+      "subject": "white casement windows overlooking a garden from a bright kitchen inte",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://thelandmarkguarantee.com/wp-content/uploads/2026/07/A7400091-Enhanced-NR-scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://thelandmarkguarantee.com/wp-content/uploads/2026/07/imgi_39_landmark-architectural-windows-shapes-quantico-virginia.webp",
+      "assetType": "site",
+      "subject": "Architectural windows installation, VA",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://thelandmarkguarantee.com/wp-content/uploads/2026/08/A7400040-Enhanced-NR-scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://thelandmarkguarantee.com/wp-content/uploads/2026/09/A7400207-Enhanced-NR-scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://thelandmarkguarantee.com/wp-content/uploads/2026/10/3-opt.webp",
+      "assetType": "site",
+      "subject": "aerial view of a dark shingle roof on a large residential home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
