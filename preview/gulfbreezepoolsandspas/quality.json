@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "gulfbreezepoolsandspas",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/D1DF08C9-6D35-4F9B-B876-5CDBBE375083/3035227.jpg",
+      "assetType": "project",
+      "subject": "Just plastered this pool on the second floor of a new house on Pensaco",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/D1DF08C9-6D35-4F9B-B876-5CDBBE375083/3084060.jpg",
+      "assetType": "project",
+      "subject": "Just completed this beautiful pool in Gulf Breeze proper on the water.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/D1DF08C9-6D35-4F9B-B876-5CDBBE375083/3243831.jpg",
+      "assetType": "project",
+      "subject": "New pool with lighted bubbler, fountain, suntan ledge, full length ben",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/D1DF08C9-6D35-4F9B-B876-5CDBBE375083/3377130.jpg",
+      "assetType": "project",
+      "subject": "Just completed this elevated pool in Gulf Breeze proper with a beautif",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/D1DF08C9-6D35-4F9B-B876-5CDBBE375083/3385490.jpg",
+      "assetType": "project",
+      "subject": "Just completed this beautiful pool with water feature and Gulf Breeze ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/D1DF08C9-6D35-4F9B-B876-5CDBBE375083/3565539.jpg",
+      "assetType": "project",
+      "subject": "Just finished plastering this pool and will acid wash it tomorrow and ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "aschroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/a4d9bba7/dms3rep/multi/opt/IMG_6597+%281%29-1920w.jpg",
+      "assetType": "site",
+      "subject": "John Asch Contracting as an Preferred Contractor certificate. ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/a4d9bba7/dms3rep/multi/opt/Untitled+design-2880w.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/a4d9bba7/dms3rep/multi/opt/Alignable+Highly+Recommended+Award-1920w.png",
+      "assetType": "site",
+      "subject": "High Recommendations From Local Peers",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/a4d9bba7/dms3rep/multi/opt/1-1920w.jpg",
+      "assetType": "site",
+      "subject": "Energy Saving Roof",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/a4d9bba7/dms3rep/multi/opt/IMG_6897-scaled-1200x900-1920w.jpg",
+      "assetType": "site",
+      "subject": "Work Van For John Asch Contracting",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/a4d9bba7/dms3rep/multi/opt/Owens-Corning-Preferred-Contractor-Award-scaled-1156x900-1920w.jpg",
+      "assetType": "site",
+      "subject": "Recognizing John Asch Contracting as a Preferred Contractor.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

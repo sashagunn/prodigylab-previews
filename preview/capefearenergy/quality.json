@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "capefearenergy",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.capefearenergy.com/hubfs/Bangert_Joe_Unwatermarked_3.png",
+      "assetType": "project",
+      "subject": "Wilmington",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.capefearenergy.com/hubfs/CFSS_Residential_Spotlight_Dailey_Peter_22Jan25.jpg",
+      "assetType": "project",
+      "subject": "Carolina Beach",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.capefearenergy.com/hubfs/CFSS_Residential_Spotlight_England_Mark_09Apr24-1.jpg",
+      "assetType": "project",
+      "subject": "Kure Beach",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.capefearenergy.com/hubfs/CFSS_Residential_Spotlight_Eustis_Penny_22Jan25-3.jpg",
+      "assetType": "project",
+      "subject": "Jacksonville",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.capefearenergy.com/hubfs/CFSS_Residential_Spotlight_Gemelli_Peter.jpg",
+      "assetType": "project",
+      "subject": "Wilmington",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.capefearenergy.com/hubfs/CFSS_Residential_Spotlight_Nault_Randall_16Sep24.jpg",
+      "assetType": "project",
+      "subject": "Wilmington",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

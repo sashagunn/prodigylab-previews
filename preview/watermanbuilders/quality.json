@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "watermanbuilders",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://watermanbuilders.com/assets/images/work/south-shore-driftwood.jpg",
+      "assetType": "project",
+      "subject": "Driftwood roof replacement in South Shore",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://watermanbuilders.com/assets/images/work/bridgewater-brownwood.jpg",
+      "assetType": "project",
+      "subject": "Brownwood roof replacement in Bridgewater",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://watermanbuilders.com/assets/images/work/carver-estate-gray.jpg",
+      "assetType": "project",
+      "subject": "Estate Gray roof seen from above in Carver",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://watermanbuilders.com/assets/images/work/berkley-quarry-gray.jpg",
+      "assetType": "project",
+      "subject": "Quarry Gray roof replacement in Berkley",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://watermanbuilders.com/assets/images/work/marion-estate-gray.jpg",
+      "assetType": "project",
+      "subject": "Estate Gray roof seen from above in Marion",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://watermanbuilders.com/assets/images/work/middleboro-harbor-blue.jpg",
+      "assetType": "project",
+      "subject": "Harbor Blue roof replacement in Middleboro",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

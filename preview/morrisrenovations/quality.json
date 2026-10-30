@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "morrisrenovations",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.morrisrenovations.com/wp-content/uploads/2020/10/Gutter-installation-NJ.jpg.webp",
+      "assetType": "project",
+      "subject": "Gutter installation NJ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.morrisrenovations.com/wp-content/uploads/2020/12/SkylightsOfficial1.jpg.webp",
+      "assetType": "project",
+      "subject": "Skylights NJ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.morrisrenovations.com/wp-content/uploads/2020/10/Siding-Installation-NJ-2.jpg.webp",
+      "assetType": "project",
+      "subject": "Siding Installation NJ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.morrisrenovations.com/wp-content/uploads/2020/10/Window-Installation-NJ.jpg.webp",
+      "assetType": "project",
+      "subject": "Window Installation NJ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.morrisrenovations.com/wp-content/uploads/2020/10/Shingles-1030x577.jpg",
+      "assetType": "project",
+      "subject": "Shingles NJ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.morrisrenovations.com/wp-content/uploads/2020/10/Door-Installation-2.jpg.webp",
+      "assetType": "project",
+      "subject": "Door installation NJ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

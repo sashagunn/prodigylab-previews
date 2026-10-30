@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "solacepool",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://solacepool.com/__l5e/assets-v1/5ae7449d-a54c-426a-8088-879974cd2486/pool-rail.jpg",
+      "assetType": "site",
+      "subject": "Pool rail and coping detail",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://solacepool.com/__l5e/assets-v1/cb0574fc-ca17-4b69-8915-7c8fa1f21227/lap-pool.jpg",
+      "assetType": "site",
+      "subject": "Infinity edge lap pool overlooking water",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://solacepool.com/__l5e/assets-v1/f8f03fc8-17a8-40d1-8917-a3e67abe5491/hero-lake-pool.jpg",
+      "assetType": "site",
+      "subject": "Elegant white brick estate with a custom pool and outdoor living space",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://solacepool.com/__l5e/assets-v1/3f331fb1-8458-4ed0-9940-b4c18fa974d5/pool-house.jpg",
+      "assetType": "site",
+      "subject": "Rectangular pool with deck jets in front of a white modern home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://solacepool.com/__l5e/assets-v1/c85bec9a-bd37-43a5-b01c-7ea9a2c4fed3/pool-swimmer.jpg",
+      "assetType": "site",
+      "subject": "Aerial view of a swimmer diving into a sparkling blue pool",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://solacepool.com/__l5e/assets-v1/b466cd54-5662-49bc-954a-b1e355ac0c90/water-scuppers.jpg",
+      "assetType": "site",
+      "subject": "Water scuppers detail",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

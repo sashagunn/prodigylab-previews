@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "alterphaseroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://alterphaseroofing.com/wp-content/uploads/2024/04/Storm-Damage-Roofing.webp",
+      "assetType": "site",
+      "subject": "Storm damage on the roof of a Staten Island house",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://alterphaseroofing.com/wp-content/uploads/2025/05/Roof-Replacement-Cost-NYC-Alter-Phase-Roofing.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://alterphaseroofing.com/wp-content/uploads/2024/10/Vinyl-Siding-Installation-Staten-Island-1536x797.webp",
+      "assetType": "site",
+      "subject": "Vinyl siding installation on a Staten Island home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://alterphaseroofing.com/wp-content/uploads/2024/04/AlterPhaseRoofingProjects-9.jpg",
+      "assetType": "site",
+      "subject": "Tear-off down to the deck in Staten Island, NY by Alter Phase Roofing ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://alterphaseroofing.com/wp-content/uploads/2024/04/AlterPhaseRoofingProjects-11.jpg",
+      "assetType": "site",
+      "subject": "Flat roof installation in Staten Island, NY by Alter Phase Roofing Con",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://alterphaseroofing.com/wp-content/uploads/2024/04/AlterPhaseRoofingProjects-7.jpg",
+      "assetType": "site",
+      "subject": "New white flat roof being installed",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

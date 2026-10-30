@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "sunsolutions-llc",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://sunsolutions-llc.com/assets/images/work/poolside.jpg",
+      "assetType": "site",
+      "subject": "Aerial view of solar panels on a home with a pool and patio in the bac",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://sunsolutions-llc.com/assets/images/orange-upscaled.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://sunsolutions-llc.com/assets/images/work/farm-commercial.jpg",
+      "assetType": "site",
+      "subject": "Aerial view of a large commercial solar array covering the roof of a l",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://sunsolutions-llc.com/assets/images/work/cabin.jpg",
+      "assetType": "site",
+      "subject": "Solar panels on the metal roof of a blue cabin surrounded by woods",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://sunsolutions-llc.com/assets/images/work/metal-roof.jpg",
+      "assetType": "site",
+      "subject": "Sleek black solar panels on a dark standing-seam metal roof of a moder",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://sunsolutions-llc.com/assets/images/work/multi-roof.jpg",
+      "assetType": "site",
+      "subject": "Solar panels installed across several roof faces of a home, viewed fro",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

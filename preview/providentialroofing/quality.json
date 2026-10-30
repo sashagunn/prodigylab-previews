@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "providentialroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://providentialroofing.com/images/Providential-Roofing-and-Construction-Inc2026-2.jpg?v=2",
+      "assetType": "project",
+      "subject": "Providential Roofing project in Manatee County, Florida",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://providentialroofing.com/images/Providential-Roofing-and-Construction-Inc2026-3.jpg?v=2",
+      "assetType": "project",
+      "subject": "Providential Roofing project in Sarasota County, Florida",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://providentialroofing.com/images/project-1-tile-roof.png?v=3",
+      "assetType": "project",
+      "subject": "Tile roof installed by Providential Roofing, Florida",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://providentialroofing.com/images/Providential-Roofing-and-Construction-Inc2026-1.jpg?v=2",
+      "assetType": "project",
+      "subject": "Completed roof by Providential Roofing and Construction in Florida",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://providentialroofing.com/images/Providential-Roofing-and-Construction-Inc2026-4.jpg?v=2",
+      "assetType": "project",
+      "subject": "Residential roof replacement by Providential Roofing, Florida",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://providentialroofing.com/images/Providential-Roofing-and-Construction-Inc2026-6.jpg?v=2",
+      "assetType": "project",
+      "subject": "Finished roof by Providential Roofing and Construction",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

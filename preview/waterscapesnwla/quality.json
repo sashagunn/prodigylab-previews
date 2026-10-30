@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "waterscapesnwla",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/60c9646972610c3386c8cfdf/1699929555615-Z7NR2VEUT74O5EREOGVC/Waterscapes-30.jpg",
+      "assetType": "project",
+      "subject": "Zero-edge swimming pool engineered and constructed by Waterscapes of S",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/60c9646972610c3386c8cfdf/1699933090665-9A1UAH6DEQFMM07DY655/Waterscapes-23.jpg",
+      "assetType": "project",
+      "subject": "Zero-edge swimming pool engineered and constructed by Waterscapes of S",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/60c9646972610c3386c8cfdf/1699933520503-TOTSM4215BPRD8L2XJAA/Waterscapes-7.jpg",
+      "assetType": "project",
+      "subject": "Custom swimming pool and stone water feature wall with 8 hand-carved s",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/60c9646972610c3386c8cfdf/1699933896336-A51O4L324KXUQL51A5H8/Waterscapes-3.jpg",
+      "assetType": "project",
+      "subject": "Custom swimming pool, spa and pool decking with old world styling engi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/60c9646972610c3386c8cfdf/1700862381187-V6M40LK2GE0LMQLLC3TU/Waterscapes-26.jpg",
+      "assetType": "project",
+      "subject": "Zero-edge swimming pool engineered and constructed by Waterscapes of S",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/60c9646972610c3386c8cfdf/1700863039626-KWI7096WRNV0SZRO59B3/Waterscapes-25.jpg",
+      "assetType": "project",
+      "subject": "Zero-edge swimming pool engineered and constructed by Waterscapes of S",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

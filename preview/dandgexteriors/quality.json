@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "dandgexteriors",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://dandgexteriors.com/wp-content/uploads/2025/01/Fencing.png",
+      "assetType": "site",
+      "subject": "Secure white vinyl fence installed by D&G Exteriors in Malden, MA",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://dandgexteriors.com/wp-content/uploads/2025/01/Decks.png",
+      "assetType": "site",
+      "subject": "Beautiful outdoor wooden deck installed by D&G Exteriors in North Read",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://dandgexteriors.com/wp-content/uploads/2025/01/Exterior-Painting-Card.png",
+      "assetType": "site",
+      "subject": "Freshly painted home exterior in Peabody, MA by D&G Exteriors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://dandgexteriors.com/wp-content/uploads/2025/01/Gutters.png",
+      "assetType": "site",
+      "subject": "Newly installed gutters for efficient drainage by D&G Exteriors in Ips",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://dandgexteriors.com/wp-content/uploads/2025/01/Roofing.png",
+      "assetType": "site",
+      "subject": "Aerial view of a house with a new roof installed by D&G Exteriors in L",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://dandgexteriors.com/wp-content/uploads/2025/01/Siding.png",
+      "assetType": "site",
+      "subject": "House with modern blue siding installed by D&G Exteriors in Andover, M",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

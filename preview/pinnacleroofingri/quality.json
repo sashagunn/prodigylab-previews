@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "pinnacleroofingri",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://pinnacleroofingri.com/wp-content/uploads/showcase-image-jamestown-trim-board-replacement-pvc-trim-71d684-1-2048x1536.jpg",
+      "assetType": "project",
+      "subject": "Roof replacement in Jamestown, RI — Project #12376 by Pinnacle Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://pinnacleroofingri.com/wp-content/uploads/showcase-image-providence-skylight-installation-velux-velux-venting-skylight-open-at-night-installed-7a66fb-1-2048x1152.jpg",
+      "assetType": "project",
+      "subject": "Skylight installation in Providence, RI with VELUX skylights — Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://pinnacleroofingri.com/wp-content/uploads/showcase-image-east-greenwich-skylight-installation-velux-interior-of-velux-skylight-and-trim-installed-589789-1-2048x1536.jpg",
+      "assetType": "project",
+      "subject": "Skylight installation in East Greenwich, RI with VELUX skylights — Pro",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://pinnacleroofingri.com/wp-content/uploads/showcase-image-east-greenwich-skylight-installation-velux-interior-view-of-new-velux-fixed-skylight-with-shades-installed-4b6c75-scaled-1-2048x1536.jpg",
+      "assetType": "project",
+      "subject": "Skylight installation in East Greenwich, RI with VELUX skylights — Pro",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://pinnacleroofingri.com/wp-content/uploads/showcase-image-providence-skylight-installation-velux-velux-skylight-replacement-c50d71-1.jpg",
+      "assetType": "project",
+      "subject": "Skylight installation in Providence, RI with VELUX skylights — Project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://pinnacleroofingri.com/wp-content/uploads/showcase-image-east-greenwich-skylight-installation-velux-interior-view-of-new-velux-fixed-skylights-33edb6-scaled-1.jpg",
+      "assetType": "project",
+      "subject": "Skylight installation in East Greenwich, RI with VELUX skylights — Pro",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

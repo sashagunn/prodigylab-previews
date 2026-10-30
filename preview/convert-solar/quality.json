@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "convert-solar",
+  "niche": "solar",
+  "goal": "Separate solar, battery and EV charging",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://convert-solar.com/wp-content/uploads/2026/05/conver-solar-virginia-beach-solar-company.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://cdn-ilemkna.nitrocdn.com/NEyDLRIyufGImmtBpmreZdaUomqlOsYH/assets/images/optimized/rev-4d46659/convert-solar.com/wp-content/uploads/2020/07/solar-panels-background.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn-ilemkna.nitrocdn.com/NEyDLRIyufGImmtBpmreZdaUomqlOsYH/assets/images/optimized/rev-4d46659/convert-solar.com/wp-content/uploads/2020/06/convert-solar-money-savings.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn-ilemkna.nitrocdn.com/NEyDLRIyufGImmtBpmreZdaUomqlOsYH/assets/images/optimized/rev-4d46659/convert-solar.com/wp-content/uploads/2020/06/convert-solar-ultimate-warranty.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn-ilemkna.nitrocdn.com/NEyDLRIyufGImmtBpmreZdaUomqlOsYH/assets/images/optimized/rev-4d46659/convert-solar.com/wp-content/uploads/2020/06/solar-home.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://cdn-ilemkna.nitrocdn.com/NEyDLRIyufGImmtBpmreZdaUomqlOsYH/assets/images/optimized/rev-4d46659/convert-solar.com/wp-content/uploads/2026/06/solar-home-convert-solar.jpg",
+      "assetType": "site",
+      "subject": "solar-home-convert-solar",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

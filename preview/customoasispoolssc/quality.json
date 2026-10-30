@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "customoasispoolssc",
+  "niche": "pool",
+  "goal": "Separate new build, remodel and service",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/646fc0e44e4dd359e298e084/08f45d0e-a74f-4a87-bd1f-5c4df1186b25/20131018_165346.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Construction site of a swimming pool with concrete decking, unfinished",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/646fc0e44e4dd359e298e084/149d1d19-3def-4da5-9ad5-e5c2b3c82d6d/20130920_084850.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Underground pool under construction with concrete walls, surrounded by",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/646fc0e44e4dd359e298e084/31540a19-1cd5-4063-aac6-227ec9d89316/4619485295.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "A backyard swimming pool with a kidney shape and a round hot tub, surr",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/646fc0e44e4dd359e298e084/554d68a7-d2f2-4701-86df-2b0bb665f630/20230603_102917.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Jared Bonnema, Owner of Custom Oasis Pools, the expert pool builder in",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/646fc0e44e4dd359e298e084/651942c0-dac7-4ddd-9e67-0de03234fc4d/20130829_134645.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Swimming pool with a small hot tub in the foreground, a water slide on",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/646fc0e44e4dd359e298e084/6b5f6f66-67e7-490c-b877-8451d08ddd12/20170526_105504.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "Residential backyard swimming pool with lounge chairs, a small bridge,",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

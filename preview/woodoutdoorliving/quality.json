@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "woodoutdoorliving",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4aa368_ba6a5ef8dd5e444085a6889916c517dd~mv2.jpg/v1/fill/w_1440,h_557,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4aa368_ba6a5ef8dd5e444085a6889916c517dd~mv2.jpg",
+      "assetType": "project",
+      "subject": "Coeur d'Alene lake with rocky beach and trees close to Wood Outdoor Li",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4aa368_b3392d3585714a9681e09335a46cc411~mv2.jpg/v1/fill/w_1440,h_1180,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4aa368_b3392d3585714a9681e09335a46cc411~mv2.jpg",
+      "assetType": "site",
+      "subject": "Backayard paver project includes pergola, hot tub, and seating area",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4aa368_67c1d38332524475ade9b4548b146fba~mv2.jpg/v1/fill/w_1440,h_871,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4aa368_67c1d38332524475ade9b4548b146fba~mv2.jpg",
+      "assetType": "site",
+      "subject": "Coeur d'Alene outdoor living contractor building backyards.",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4aa368_b37827b6d0fd4144afedbef10fcef4be~mv2.jpg/v1/fill/w_1358,h_849,fp_0.50_0.80,q_85,enc_avif,quality_auto/4aa368_b37827b6d0fd4144afedbef10fcef4be~mv2.jpg",
+      "assetType": "site",
+      "subject": "Servicing North Idaho completing decks, patios, landscape lighting and",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4aa368_d4e5bfe2b76c490c84cfbe62409ce781~mv2.jpg/v1/fill/w_1365,h_801,fp_0.53_0.84,q_85,enc_avif,quality_auto/4aa368_d4e5bfe2b76c490c84cfbe62409ce781~mv2.jpg",
+      "assetType": "site",
+      "subject": "Outdoor living project of paver patio with inlay and border",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/4aa368_138fc1a7e7184b76beccc9aa34770fc0~mv2.jpg/v1/fill/w_1441,h_675,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Rocking-56-IMG_4668.jpg",
+      "assetType": "site",
+      "subject": "Complete backyard renovation includes paver patio, aluminum pergola, a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
