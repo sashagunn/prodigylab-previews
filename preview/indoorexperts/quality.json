@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "indoorexperts",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://indoorexperts.com/wp-content/uploads/ie/REAL_minisplit_wall.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://indoorexperts.com/wp-content/uploads/ie/REAL_van_walk.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://indoorexperts.com/wp-content/themes/indoor-experts/assets/responsive/hero-fleet-1600.webp",
+      "assetType": "site",
+      "subject": "Indoor Experts service vans lined up ready for the day",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://indoorexperts.com/wp-content/uploads/ie/B02_unit_dark_studio.webp",
+      "assetType": "site",
+      "subject": "Outdoor air conditioning unit photographed against a dark background",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://indoorexperts.com/wp-content/uploads/ie/AND05r_thermostat_install.webp",
+      "assetType": "site",
+      "subject": "Thermostat installation in an Atlanta home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://indoorexperts.com/wp-content/uploads/ie/BLOG06_home_exterior_condenser.webp",
+      "assetType": "site",
+      "subject": "AC condenser at the side of an Atlanta home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

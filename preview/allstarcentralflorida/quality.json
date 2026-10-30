@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "allstarcentralflorida",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://allstarcentralflorida.com/wp-content/uploads/2026/03/20180203_154036_resized.webp",
+      "assetType": "project",
+      "subject": "Professional HVAC technician servicing commercial air conditioning sto",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://allstarcentralflorida.com/wp-content/uploads/2026/03/487432408_1375378996757080_558108962998066381_n.webp",
+      "assetType": "project",
+      "subject": "HVAC technician performing maintenance on a residential air conditioni",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://allstarcentralflorida.com/wp-content/uploads/2026/03/20180907_180519_Film1-Optimized.webp",
+      "assetType": "project",
+      "subject": "Residential HVAC technician servicing air conditioning system",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://allstarcentralflorida.com/wp-content/uploads/2026/03/20180410_110519_resized.webp",
+      "assetType": "project",
+      "subject": "Professional HVAC technician servicing commercial air conditioning uni",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://allstarcentralflorida.com/wp-content/uploads/2026/03/20190131_152125_resized.webp",
+      "assetType": "project",
+      "subject": "Residential HVAC air conditioning system installed with outdoor conden",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://allstarcentralflorida.com/wp-content/uploads/2026/03/465364093_8612835958752577_4424803453420751981_n.webp",
+      "assetType": "project",
+      "subject": "HVAC technician inspecting and repairing a residential air conditionin",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

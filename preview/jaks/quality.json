@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "jaks",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://jaks.construction/img/real/wichita-kitchen-2.webp",
+      "assetType": "project",
+      "subject": "Remodeled Wichita kitchen with a granite island and full-height cabine",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://jaks.construction/img/uploads/09239d59-8121-4e02-9f33-809e68e95878.webp",
+      "assetType": "project",
+      "subject": "Finished breakroom cabinetry and floating shelves built by JAKS Constr",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://jaks.construction/img/real/commercial-1.webp",
+      "assetType": "project",
+      "subject": "Six-unit residential building under construction by JAKS Construction ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://jaks.construction/img/real/commercial-2.webp",
+      "assetType": "project",
+      "subject": "Light-gauge steel framing during the JAKS Construction buildout of the",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://jaks.construction/img/real/deck.webp",
+      "assetType": "project",
+      "subject": "Elevated deck with cable railing and new siding completed by JAKS Cons",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://jaks.construction/img/real/millwork-wetbar.webp",
+      "assetType": "project",
+      "subject": "Custom basement wet bar with granite counter and floating shelves buil",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

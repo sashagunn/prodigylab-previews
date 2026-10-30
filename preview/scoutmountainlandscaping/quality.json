@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "scoutmountainlandscaping",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0ae4a9_264c216098534d1c81ea6af4c0217505~mv2.png/v1/fill/w_1838,h_1378,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/EA9AADE7-FCDC-455B-99CF-45D64B9954D7_heic.png",
+      "assetType": "project",
+      "subject": "Stone Patio",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0ae4a9_75eb2cc07ea1476dafd6825b06ea9497~mv2.jpeg/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0ae4a9_75eb2cc07ea1476dafd6825b06ea9497~mv2.jpeg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0ae4a9_c74e3136137e4fff8528659dae7c3423~mv2.jpeg/v1/fill/w_936,h_692,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6924.jpeg",
+      "assetType": "project",
+      "subject": "Fire Pit & Patio Seating",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0ae4a9_fb5138e28d6a47e78f7c8cee12610c11~mv2.jpeg/v1/fill/w_848,h_632,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1723.jpeg",
+      "assetType": "project",
+      "subject": "Flagstone Path w/ Xeriscape",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0ae4a9_cdc69150161246408fa713c874d994a4~mv2.jpeg/v1/fill/w_848,h_592,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1626.jpeg",
+      "assetType": "project",
+      "subject": "IMG_1626.jpeg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/0ae4a9_b56024f9e8a94f0582f56b6e8ec9fa59~mv2.jpeg/v1/fill/w_720,h_535,al_c,lg_1,q_85,enc_avif,quality_auto/0ae4a9_b56024f9e8a94f0582f56b6e8ec9fa59~mv2.jpeg",
+      "assetType": "project",
+      "subject": "Redwood Garden Bed & Xeriscape",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "carusocustom",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/55de1951/dms3rep/multi/opt/2026-02-24_13-11-43-8b358fcb-800h.jpg?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Bright modern kitchen with a large island, barstools, pendant lights, ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/55de1951/dms3rep/multi/opt/DSC_8091-800h.webp?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Bright white kitchen with stainless steel appliances, gray backsplash,",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/55de1951/dms3rep/multi/opt/16-web-or-mls-DSC07890-3945d403-800h.webp?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Modern kitchen with dark cabinets, marble counters, glass shelves, and",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/55de1951/dms3rep/multi/opt/20-web-or-mls-DSC01304-9e220c9c-800h.webp?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Empty kitchen with light wood cabinets and open shelving on white wall",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/55de1951/dms3rep/multi/opt/dj6a8510_1_2-2342cf7e-800h.webp?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Bright modern white kitchen with island, stainless appliances, and a g",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/55de1951/dms3rep/multi/opt/dj6a8516_7_8-75504a7d-800h.webp?jxl&v=jxl",
+      "assetType": "project",
+      "subject": "Bright modern white kitchen with island, bar stools, and open living a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

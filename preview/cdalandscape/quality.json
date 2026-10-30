@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "cdalandscape",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/night-fox-clients-storage/crosscreeklandscapes.com/services/gallery/3000.6a35c8634ab426.75826952.webp",
+      "assetType": "project",
+      "subject": "Water falls feature — Water Features by Cross Creek",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/night-fox-clients-storage/crosscreeklandscapes.com/services/gallery/3000.6a35d1576a5df9.60396407.webp",
+      "assetType": "project",
+      "subject": "Beautiful whimsical walkway — Yard Lighting by Cross Creek",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/night-fox-clients-storage/crosscreeklandscapes.com/services/gallery/3000.6a35d461302137.18730042.webp",
+      "assetType": "project",
+      "subject": "Black rock, ID patio and walkway — Patios & Walkways by Cross Creek",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/night-fox-clients-storage/crosscreeklandscapes.com/services/gallery/3000.6a3971f68311f3.86382858.webp",
+      "assetType": "project",
+      "subject": "Pickleball Courts project in Coeur d'Alene, Idaho",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/night-fox-clients-storage/crosscreeklandscapes.com/services/gallery/3000.6a397cd99e9263.78161580.webp",
+      "assetType": "project",
+      "subject": "Intentional paths and beds allow for smooth transitions — Garden Beds ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/night-fox-clients-storage/crosscreeklandscapes.com/services/gallery/3000.6a6cf9c969e727.22081151.webp",
+      "assetType": "project",
+      "subject": "Multicolored Fire rock — Fire Pits & Fireplaces by Cross Creek",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "liendolandscaping",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://liendolandscaping.com/_next/image?url=%2Fphotos%2Fimage_6833c5ae432c476416698d7a.JPG&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Overhead view of a curved decomposed granite path edged with boulders ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://liendolandscaping.com/_next/image?url=%2Fphotos%2Fimage_689cd7785c7cd75eb80393b9.JPG&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Overhead view of a backyard paver patio with a circular fire pit inset",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://liendolandscaping.com/_next/image?url=%2Fphotos%2Ftelnyx_media_1749254117361_Gu1m4WE64.jpeg&w=3840&q=75",
+      "assetType": "project",
+      "subject": "A course of quarried sandstone blocks being set as a retaining wall al",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://liendolandscaping.com/_next/image?url=%2Fphotos%2Ftelnyx_media_1753599920124_wU0VK1fTb.jpeg&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Flagstone patio with a mortared stone seat wall and flat cap stones, t",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://liendolandscaping.com/_next/image?url=%2Fphotos%2Fimage_67d83b76432c4764168fc301.jpeg&w=3840&q=75",
+      "assetType": "project",
+      "subject": "Red compact track loader with a grading bucket parked on a fresh grave",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://liendolandscaping.com/_next/image?url=%2Fphotos%2Fimage_6833bf6e432c4764163f424c.JPEG&w=3840&q=75",
+      "assetType": "project",
+      "subject": "A long run of steps up a shaded slope, each tread framed in timber and",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "sawhillkitchens",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://sawhillkitchens.com/wp-content/uploads/2026/02/bungalow-beautified-01.jpg",
+      "assetType": "project",
+      "subject": "bungalow-beautified-01",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://sawhillkitchens.com/wp-content/uploads/2026/02/charmful-elegance-01.jpg",
+      "assetType": "project",
+      "subject": "charmful-elegance-01",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://sawhillkitchens.com/wp-content/uploads/2026/02/dim-to-radiant-01.webp",
+      "assetType": "project",
+      "subject": "dim-to-radiant-01",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://sawhillkitchens.com/wp-content/uploads/2026/02/earthy-condo-01.jpg",
+      "assetType": "project",
+      "subject": "earthy-condo-01",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://sawhillkitchens.com/wp-content/uploads/2026/02/kitchen-for-many-01.webp",
+      "assetType": "project",
+      "subject": "kitchen-for-many-01",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://sawhillkitchens.com/wp-content/uploads/2026/02/lake-of-the-isles-traditional-01.jpg",
+      "assetType": "project",
+      "subject": "lake-of-the-isles-traditional-01",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

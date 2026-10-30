@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "adamssvcs",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://i0.wp.com/adamssvcs.com/wp-content/uploads/2023/04/ft-pat-01.png?fit=2000%2C1200&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://i0.wp.com/adamssvcs.com/wp-content/uploads/2025/08/Air-Duct-Cleaning-in-Tuscaloosa.webp?w=1472&ssl=1",
+      "assetType": "site",
+      "subject": "Air Duct Cleaning in Tuscaloosa",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://i0.wp.com/adamssvcs.com/wp-content/uploads/2025/08/hvac-services-in-tuscaloosa-al.webp?w=1472&ssl=1",
+      "assetType": "site",
+      "subject": "hvac services in tuscaloosa al",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://i0.wp.com/adamssvcs.com/wp-content/uploads/2025/09/Ac-Installation.webp?w=1472&ssl=1",
+      "assetType": "site",
+      "subject": "Ac Installation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://i0.wp.com/adamssvcs.com/wp-content/uploads/2025/09/AC-Maintenance.webp?w=1472&ssl=1",
+      "assetType": "site",
+      "subject": "AC Maintenance",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://i0.wp.com/adamssvcs.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-23-at-12.29.30-PM.jpeg?fit=1015%2C531&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

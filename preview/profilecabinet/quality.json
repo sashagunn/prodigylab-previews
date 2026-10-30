@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "profilecabinet",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/87b4de_23df5024f7f34fd8b602c28e07d35e8a~mv2.jpg/v1/fill/w_866,h_618,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SketchCoupleInKitchen_edited.jpg",
+      "assetType": "site",
+      "subject": "SketchCoupleInKitchen_edited.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/87b4de_f615063a1476417eb77eb2087c89e60f~mv2.png/v1/fill/w_896,h_640,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/SketchPromise_PNG.png",
+      "assetType": "site",
+      "subject": "SketchPromise.PNG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/87b4de_12ee310b760341b7a0e92f3b07d4757b~mv2.png/v1/fill/w_882,h_630,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/SketchProfilePlant_PNG.png",
+      "assetType": "site",
+      "subject": "SketchProfilePlant.PNG",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/87b4de_39b0c8f528a34817a200de0a061e3c97~mv2.jpg/v1/crop/x_0,y_105,w_2400,h_2190/fill/w_1006,h_918,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/KCDesignerSquares.jpg",
+      "assetType": "site",
+      "subject": "KCDesignerSquares.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/87b4de_772e551015d1476a9dd54275a95d6b02~mv2.jpg/v1/fill/w_1440,h_500,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/87b4de_772e551015d1476a9dd54275a95d6b02~mv2.jpg",
+      "assetType": "site",
+      "subject": "Home_Image.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

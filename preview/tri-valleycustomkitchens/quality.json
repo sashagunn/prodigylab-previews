@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "tri-valleycustomkitchens",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/d92489_f413c661e20c4d4eae94a6733286ed4e~mv2.jpg/v1/fill/w_1344,h_560,al_c,q_85,enc_avif,quality_auto/d92489_f413c661e20c4d4eae94a6733286ed4e~mv2.jpg",
+      "assetType": "project",
+      "subject": "amberwood Kitchen_edited.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/d92489_e0d6eca6ab674a848a2595a5f7098e4b~mv2.jpg/v1/fill/w_1024,h_427,al_c,q_85,enc_avif,quality_auto/d92489_e0d6eca6ab674a848a2595a5f7098e4b~mv2.jpg",
+      "assetType": "project",
+      "subject": "kitchen20.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/d92489_18f02dcdd262499eb426d6d3b264ebec~mv2.jpg/v1/fill/w_1280,h_533,al_c,q_85,enc_avif,quality_auto/d92489_18f02dcdd262499eb426d6d3b264ebec~mv2.jpg",
+      "assetType": "project",
+      "subject": "helia1_edited.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/d92489_5386eb7c8cad4baeb8c3771e1bb19f08~mv2.jpg/v1/fill/w_1280,h_533,al_c,q_85,enc_avif,quality_auto/d92489_5386eb7c8cad4baeb8c3771e1bb19f08~mv2.jpg",
+      "assetType": "project",
+      "subject": "catos1_edited.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/d92489_631456aec4c24ea6a640f7f7817e3350~mv2.jpg/v1/fill/w_1280,h_533,al_c,q_85,enc_avif,quality_auto/d92489_631456aec4c24ea6a640f7f7817e3350~mv2.jpg",
+      "assetType": "project",
+      "subject": "rennnelwood.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/d92489_e05ca900e8da48eb8e0178e4f60c16ae~mv2.jpg/v1/fill/w_1280,h_533,al_c,q_85,enc_avif,quality_auto/d92489_e05ca900e8da48eb8e0178e4f60c16ae~mv2.jpg",
+      "assetType": "project",
+      "subject": "renelwood4.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

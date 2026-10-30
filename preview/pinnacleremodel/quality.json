@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "pinnacleremodel",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/2cb5d6_c44345e629554f5fb73fa87646127413~mv2.jpg/v1/fill/w_1440,h_897,fp_0.50_0.32,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Pinnacle-BakerKitchen_web-88.jpg",
+      "assetType": "site",
+      "subject": "Man cuts bread in modern Wichita kitchen remodeled by Pinnacle Remodel",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/76d2d2_1ee3a14444164ff19eb7325b70c8df7b~mv2.jpg/v1/fill/w_720,h_525,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Kitchen_BrightBold_2.jpg",
+      "assetType": "site",
+      "subject": "Bright kitchen remodel with blue-green island, quartz countertops, and",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/76d2d2_3d7604d120b34c0a8e9f445c3b6d35be~mv2.jpg/v1/fill/w_720,h_525,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Home_TransitionalFarmhouse_1.jpg",
+      "assetType": "site",
+      "subject": "Transitional farmhouse kitchen remodel with white cabinets and hardwoo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/76d2d2_3e388ba6dec04c2ab328fc6d0360d999~mv2.jpg/v1/fill/w_720,h_525,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Home_Traditional_7-Kitchen.jpg",
+      "assetType": "site",
+      "subject": "Traditional kitchen remodel with white cabinetry and hardwood floors i",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/76d2d2_8ed3d7ac3a324b20884bcbeac8abb772~mv2.jpg/v1/fill/w_720,h_525,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Kitchen_1900Farmhouse_2.jpg",
+      "assetType": "site",
+      "subject": "1900 farmhouse kitchen renovation with warm wood cabinets and modern f",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/76d2d2_a2ad5bda01484bab8f148f79d7318624~mv2.jpg/v1/fill/w_720,h_525,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Home_TransitionalFarmhouse_6-Kitchen.jpg",
+      "assetType": "site",
+      "subject": "Transitional farmhouse kitchen with warm wood tones, white countertops",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "hockemalandscape",
+  "niche": "landscape",
+  "goal": "Choose outdoor use and project scope",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://hockemalandscape.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbmt1kvor%2Fproduction%2F58bac20c5bc82f7675f75882b1666b105c6256ac-4608x3456.jpg%3Fw%3D1200%26q%3D80%26auto%3Dformat&w=1920&q=80",
+      "assetType": "project",
+      "subject": "Full backyard renovation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://hockemalandscape.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbmt1kvor%2Fproduction%2F70b5b2918978f54cdac4c459871babafd151eaf8-4608x3456.jpg%3Fw%3D1200%26q%3D80%26auto%3Dformat&w=1920&q=80",
+      "assetType": "project",
+      "subject": "Side Yard Remodel in Harris Ranch",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://hockemalandscape.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbmt1kvor%2Fproduction%2Fea7db349205f1ec4cd906a9f3f81370b5a1fa912-1024x615.jpg%3Fw%3D1200%26q%3D80%26auto%3Dformat&w=1920&q=80",
+      "assetType": "project",
+      "subject": "Two-bowl Aquascape fountain spilling into a river-rock bed beside the ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://hockemalandscape.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbmt1kvor%2Fproduction%2F074e44a6cda3fb10a2e139f302049f5bcb7254c4-1024x579.jpg%3Fw%3D1200%26q%3D80%26auto%3Dformat&w=1920&q=80",
+      "assetType": "project",
+      "subject": "Overhead view of the full Caldwell patio, lawn edge, and plantings",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://hockemalandscape.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbmt1kvor%2Fproduction%2F0ca14cea2d758054415eb6a21b13bf053a56d55f-1024x579.jpg%3Fw%3D1200%26q%3D80%26auto%3Dformat&w=1920&q=80",
+      "assetType": "project",
+      "subject": "Evening view of wicker chairs facing the stone fireplace on the Caldwe",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://hockemalandscape.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbmt1kvor%2Fproduction%2Fa3ed3508452c389bd8d38b6e6e3d0e1c67d6b7cf-1024x579.jpg%3Fw%3D1200%26q%3D80%26auto%3Dformat&w=1920&q=80",
+      "assetType": "project",
+      "subject": "Evening view from the stone wall toward the house, with the fire pit l",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
