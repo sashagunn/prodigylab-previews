@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "pierman",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/9BE0A881-0736-4682-B473-116D24985CC1/2843395.jpg",
+      "assetType": "project",
+      "subject": "Foundation Repair \nFrench Drains ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/9BE0A881-0736-4682-B473-116D24985CC1/2857126.jpg",
+      "assetType": "project",
+      "subject": "Foundation Repair\nFrench Drains",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/9BE0A881-0736-4682-B473-116D24985CC1/2863349.jpg",
+      "assetType": "project",
+      "subject": "Foundation Repair\nFrench Drain",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/9BE0A881-0736-4682-B473-116D24985CC1/2871781.jpg",
+      "assetType": "project",
+      "subject": "Foundation Repair \nFrench Drains ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/9BE0A881-0736-4682-B473-116D24985CC1/2885222.jpg",
+      "assetType": "project",
+      "subject": "Foundation Repair",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://s3.amazonaws.com/static.sidebox.com/9BE0A881-0736-4682-B473-116D24985CC1/2886600.jpg",
+      "assetType": "project",
+      "subject": "Foundation Repair",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "heronbuildingco",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.showit.co/1600/NvvsDY3cGhcilMVLtKKVOg/226029/dji_0006.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.showit.co/800/Atk2mToDQVagIaTdvTFuQw/226029/heron_building_co_franklin_brentwood_nashville_fence_company_outdoor_living_28.jpg",
+      "assetType": "project",
+      "subject": "Custom Wood Fence Contractor in Franklin",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.showit.co/800/j2eHOVGfstbH39mgHgMRSA/226029/8ce57aa6db50d94c6d0f34829dd47d7a-uncropped_scaled_within_1536_1152_2.jpg",
+      "assetType": "project",
+      "subject": "Wood Fences in Belle Meade TN",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.showit.co/800/LpMHZHx2zNpK1TvJtvEFSg/226029/f8da18544ff82618c907bf129f996772-uncropped_scaled_within_1536_1152_2.jpg",
+      "assetType": "project",
+      "subject": "Pool Fence Companies Near Me",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.showit.co/800/VAnzSCMrTc-PpFunk-SdXQ/226029/heron_building_co_franklin_brentwood_nashville_fence_company_outdoor_living_66.jpg",
+      "assetType": "project",
+      "subject": "Aluminum Pool Fence",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.showit.co/800/Wm6hTgRNSJ6_QSFXUVXBZg/226029/heron_building_co_franklin_brentwood_nashville_fence_company_outdoor_living_11.jpg",
+      "assetType": "project",
+      "subject": "Fence Contractors in Belle Meade",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

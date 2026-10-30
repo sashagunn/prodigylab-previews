@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "thecomfortgurus",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.thecomfortgurus.com/placeholder-honest.webp",
+      "assetType": "site",
+      "subject": "Andrew Ellis technician reviewing an upfront, flat-rate quote with hom",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.thecomfortgurus.com/placeholder-maintenance.jpg",
+      "assetType": "site",
+      "subject": "Andrew Ellis technician performing a seasonal maintenance tune-up on a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.thecomfortgurus.com/placeholder-newconstruction.webp",
+      "assetType": "site",
+      "subject": "New-construction home framing with HVAC ductwork and a contractor revi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.thecomfortgurus.com/andrew-ellis-owner.webp",
+      "assetType": "site",
+      "subject": "Andrew Ellis, owner and founder of Andrew Ellis Heating & Air",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.thecomfortgurus.com/hero-tech-van.jpg",
+      "assetType": "site",
+      "subject": "Andrew Ellis Heating & Air technician servicing an HVAC system in Cent",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.thecomfortgurus.com/hero-owner-truck.webp",
+      "assetType": "site",
+      "subject": "Owner of Andrew Ellis Heating & Air standing in front of the company's",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

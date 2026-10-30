@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "slug": "ac-sales",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.ac-sales.com/wahelper/GetImage?id=649684",
+      "assetType": "site",
+      "subject": "See what your neighbors are saying about our Furnace repair service in",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.ac-sales.com/wahelper/GetImage?id=649685",
+      "assetType": "site",
+      "subject": "See what your neighbors are saying about our Heater repair service in ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

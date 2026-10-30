@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "schmidtfencing",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://schmidtfencing.com/resources/photo-gallery/images/vinyl-fence-louisville-kentucky-fence-company-5.webp",
+      "assetType": "project",
+      "subject": "Residential Vinyl Fence Installation Company in Louisville Kentucky",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://schmidtfencing.com/resources/photo-gallery/images/vinyl-fence-louisville-kentucky-fence-company-8.webp",
+      "assetType": "project",
+      "subject": "Vinyl Privacy Fence for Residential Properties in Louisville Kentucky",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://schmidtfencing.com/resources/photo-gallery/images/wood-fence-louisville-kentucky-fence-company-12.webp",
+      "assetType": "project",
+      "subject": "Wood Gate Installation Company in Louisville Kentucky for Residential ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://schmidtfencing.com/resources/photo-gallery/images/wood-fence-louisville-kentucky-fence-company-2.webp",
+      "assetType": "project",
+      "subject": "Residential Wood Fence Installation Company in Louisville KY",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://schmidtfencing.com/resources/photo-gallery/images/vinyl-fence-louisville-kentucky-fence-company-7.webp",
+      "assetType": "project",
+      "subject": "Louisville Kentucky Vinyl Fence Installation Company",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://schmidtfencing.com/resources/photo-gallery/images/wood-fence-louisville-kentucky-fence-company-10.webp",
+      "assetType": "project",
+      "subject": "Wood Fence Installation Company in Louisville Kentucky for Residential",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ruggedfence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://ruggedfence.com/wp-content/uploads/2024/11/Black-Aluminum-Fence-west-virginia-768x525.webp",
+      "assetType": "project",
+      "subject": "A tall black aluminum fence in a grassy yard with trees and a house in",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://ruggedfence.com/wp-content/uploads/2024/11/Black-Aluminum-Spike-Fence-2-768x476.webp",
+      "assetType": "project",
+      "subject": "A black aluminum picket fence",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://ruggedfence.com/wp-content/uploads/2024/11/Black-Aluminum-Fence-9-768x1061.webp",
+      "assetType": "project",
+      "subject": "A black aluminum fence in a yard with trees",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://ruggedfence.com/wp-content/uploads/2024/11/Black-Aluminum-Fence-11-768x1024.webp",
+      "assetType": "project",
+      "subject": "A black aluminum fence in a yard with a tree",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://ruggedfence.com/wp-content/uploads/2024/11/Black-Aluminum-Fence-16-768x1024.webp",
+      "assetType": "project",
+      "subject": "A black aluminum fence and gate in front of a door",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://ruggedfence.com/wp-content/uploads/2024/11/Black-Aluminum-Fence-4-768x1024.webp",
+      "assetType": "project",
+      "subject": "A black aluminum fence protecting an area of a house with a lawn chair",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

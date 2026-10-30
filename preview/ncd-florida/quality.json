@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ncd-florida",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/6b0b63_67f178ab3b3348d38795826937b235ce~mv2.jpg/v1/fill/w_1440,h_709,al_c,q_85,usm_4.00_1.00_0.00,enc_avif,quality_auto/6b0b63_67f178ab3b3348d38795826937b235ce~mv2.jpg",
+      "assetType": "site",
+      "subject": "Custom Closet Design with LED lighting by New concept design",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/18795f_54ba062d5f04426a850e4b8644e6f704~mv2.jpg/v1/fill/w_1440,h_665,al_c,q_85,usm_4.00_1.00_0.00,enc_avif,quality_auto/18795f_54ba062d5f04426a850e4b8644e6f704~mv2.jpg",
+      "assetType": "site",
+      "subject": "salice-excessories-night-collection--luxury-themes-09.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/18795f_7575b1ad19c14bf19523df8797909ebf~mv2.png/v1/fill/w_1267,h_655,al_c,q_90,usm_4.00_1.00_0.00,enc_avif,quality_auto/18795f_7575b1ad19c14bf19523df8797909ebf~mv2.png",
+      "assetType": "site",
+      "subject": "3000hero.png",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/18795f_c44f34431f084a00addf15bc330db266~mv2.jpg/v1/fill/w_965,h_724,al_r,q_85,usm_4.00_1.00_0.00,enc_avif,quality_auto/18795f_c44f34431f084a00addf15bc330db266~mv2.jpg",
+      "assetType": "site",
+      "subject": "Copy of 20251103_141432.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/c6cd89_594d5bc5181a477e8fac064d4045cd18~mv2.png/v1/fill/w_809,h_503,al_c,q_90,usm_4.00_1.00_0.00,enc_avif,quality_auto/c6cd89_594d5bc5181a477e8fac064d4045cd18~mv2.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/18795f_433bf89513d14434a1f007320bbea69b~mv2.webp/v1/fill/w_1440,h_615,al_c,q_85,usm_4.00_1.00_0.00,enc_avif,quality_auto/18795f_433bf89513d14434a1f007320bbea69b~mv2.webp",
+      "assetType": "site",
+      "subject": "large walk in closet",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "customfencewv",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://b3254647.smushcdn.com/3254647/wp-content/uploads/photo-gallery/imported_from_media_libray/PHO06440-scaled.jpg?lossy=2&strip=1&webp=1",
+      "assetType": "project",
+      "subject": "Fence detail, Martinsburg project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://b3254647.smushcdn.com/3254647/wp-content/uploads/photo-gallery/imported_from_media_libray/PHO06457-scaled.jpg?lossy=2&strip=1&webp=1",
+      "assetType": "project",
+      "subject": "Completed fence by Custom Fence & Deck",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://b3254647.smushcdn.com/3254647/wp-content/uploads/photo-gallery/imported_from_media_libray/PHO06463-scaled.jpg?lossy=2&strip=1&webp=1",
+      "assetType": "project",
+      "subject": "Completed fence installation",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://b3254647.smushcdn.com/3254647/wp-content/uploads/photo-gallery/imported_from_media_libray/PHO06470-scaled.jpg?lossy=2&strip=1&webp=1",
+      "assetType": "project",
+      "subject": "Custom fence project in Martinsburg WV",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://b3254647.smushcdn.com/3254647/wp-content/uploads/photo-gallery/imported_from_media_libray/DJI_20240620113331_0528_D-scaled.jpg?lossy=2&strip=1&webp=1",
+      "assetType": "project",
+      "subject": "Residential fence, aerial view",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://b3254647.smushcdn.com/3254647/wp-content/uploads/photo-gallery/imported_from_media_libray/DJI_20240620113507_0535_D-scaled.jpg?lossy=2&strip=1&webp=1",
+      "assetType": "project",
+      "subject": "Vinyl privacy fence installation, aerial view",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

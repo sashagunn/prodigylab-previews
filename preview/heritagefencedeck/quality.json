@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "heritagefencedeck",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6a4f4254f5bb090448e21cc8/e1f69bc4-b8d6-41f0-a6e8-fb8385bcf783/heritage+file+1.png?format=1500w",
+      "assetType": "site",
+      "subject": "Heritage Fence &amp; Deck",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6a4f4254f5bb090448e21cc8/23dfaf0d-e4e9-48fd-9b67-19f8e9f9d554/Fence+Picture+for+Our+Services+SEction+wood+.png?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6a4f4254f5bb090448e21cc8/734d0b86-e7a4-4669-92c8-3dbca5a7ae64/xL2Tumjv4zEt7hl1pumX4rYDFDhns6nsRE4JFNY51oX_4XcVM7pyPy0U0ek2lHt8p_Y98Hd0vzhSb7icuE3-H4lQDqC2IQiVc_I3cLy7EEcgx-FGPS9KTQnxyBxBrhWZjCa7l3tozHOwNkPWfhLzoWeDIIB-_w_TAPQCkFhcW04cplIVeBWTpsrLq87qKQiD.jpeg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6a4f4254f5bb090448e21cc8/8aa608b8-14b9-48e5-9a89-d05f820881eb/Deck+pic+1.jpeg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6a4f4254f5bb090448e21cc8/67caaeca-99ae-4b40-b096-b8027ceacd65/Heritage+Van+2+Pictures.png?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6a4f4254f5bb090448e21cc8/b5f5fa9a-825c-46dc-b5d7-b5c5c9dc2d49/ChatGPT+Image+Aug+8%2C+2026+at+07_13_40+PM.png?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

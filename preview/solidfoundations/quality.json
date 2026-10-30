@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "solidfoundations",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://solidfoundations.com/media/video-gallery-hero-desktop.webp",
+      "assetType": "project",
+      "subject": "Solid Foundations branded truck and drill rig on a jobsite — Real Proj",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://solidfoundations.com/media/orlando/orlando-gallery-02.webp",
+      "assetType": "project",
+      "subject": "Solid Foundations crew on site during a foundation repair project",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://solidfoundations.com/media/see-what-others-saying.webp",
+      "assetType": "project",
+      "subject": "Solid Foundations crew members — see what others are saying about us",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://solidfoundations.com/media/blueprint-bg.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://solidfoundations.com/media/blueprint-bg.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://solidfoundations.com/media/testimonials-banner.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

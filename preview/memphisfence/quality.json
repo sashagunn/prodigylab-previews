@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "memphisfence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://memphisfence.com/resources/photo-gallery/images/company-memphis-tennessee-fence-company-111825-02.jpg",
+      "assetType": "project",
+      "subject": "Memphis Fence Company in Memphis Tennessee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://memphisfence.com/resources/photo-gallery/images/company-memphis-tennessee-fence-company-111825-03.jpg",
+      "assetType": "project",
+      "subject": "Memphis Fence Company in Memphis Tennessee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://memphisfence.com/resources/photo-gallery/images/company-memphis-tennessee-fence-company-111825-06.jpg",
+      "assetType": "project",
+      "subject": "Memphis Fence Company in Memphis Tennessee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://memphisfence.com/resources/photo-gallery/images/company-memphis-tennessee-fence-company-111825-07.jpg",
+      "assetType": "project",
+      "subject": "Memphis Fence Company in Memphis Tennessee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://memphisfence.com/resources/photo-gallery/images/company-memphis-tennessee-fence-company-111825-08.jpg",
+      "assetType": "project",
+      "subject": "Memphis Fence Company in Memphis Tennessee",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://memphisfence.com/resources/photo-gallery/images/commercial-wood-fence-memphis-tennessee-fence-company-1.jpg",
+      "assetType": "project",
+      "subject": "Commercial Picket Wood Fence Company in Memphis TN",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

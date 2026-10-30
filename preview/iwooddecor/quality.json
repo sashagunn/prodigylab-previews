@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "iwooddecor",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://iwooddecor.com/wp-content/uploads/2025/01/A-Guide-to-Luxury-and-Functionality-High-End-Italian-Kitchens-2-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://iwooddecor.com/wp-content/uploads/2025/03/New-Project-37.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.iwooddecor.com/wp-content/uploads/2025/01/A-Guide-to-Luxury-and-Functionality-High-End-Italian-Kitchens-2-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.iwooddecor.com/wp-content/uploads/2025/03/kitchen-1.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.iwooddecor.com/wp-content/uploads/2025/03/New-Project-13.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.iwooddecor.com/wp-content/uploads/2026/10/16535_01-brera-compo-2-1536x864-1.jpg",
+      "assetType": "site",
+      "subject": "Modern luxury kitchen interior with dark wood cabinetry, marble island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

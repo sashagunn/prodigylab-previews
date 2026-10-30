@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "mikelillyfence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/43b036_f9c324ca811a4a97b75247cf6d92c22f~mv2.jpg/v1/fill/w_1880,h_1070,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1283.jpg",
+      "assetType": "site",
+      "subject": "IMG_1283.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/43b036_802839337a46484688e3ad8defdd9bb8~mv2.jpg/v1/crop/x_0,y_0,w_768,h_531/fill/w_768,h_531,al_c,q_85,enc_avif,quality_auto/Landscaped%20ornamental.jpg",
+      "assetType": "site",
+      "subject": "Bronze Ornamental",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1c696b90bcc4436d83812ee978b9317f.jpg/v1/fill/w_1440,h_784,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c696b90bcc4436d83812ee978b9317f.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/43b036_83b8e11fb3b14660b93e5a8bc4e56851~mv2.jpg/v1/fill/w_1032,h_732,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grandview%20house%20carlos%20job.jpg",
+      "assetType": "site",
+      "subject": "Grandview house carlos job.jpg",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/1c696b90bcc4436d83812ee978b9317f.jpg/v1/fill/w_721,h_660,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c696b90bcc4436d83812ee978b9317f.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

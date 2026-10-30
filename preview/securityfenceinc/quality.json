@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "securityfenceinc",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/dbaef3df/dms3rep/multi/opt/SFIwebsite-11-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/dbaef3df/dms3rep/multi/opt/placeholder-landscape-1920w.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/dbaef3df/dms3rep/multi/IMG_0859-3.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/dbaef3df/dms3rep/multi/opt/DF100E53-1A9F-4927-8F2E-BC7C8A9E5CCF-800h.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/dbaef3df/dms3rep/multi/opt/CBE3A8AB-379B-4F29-A67D-D22B82A141BB-600h.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/dbaef3df/dms3rep/multi/opt/SFIwebsite-26-600h.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

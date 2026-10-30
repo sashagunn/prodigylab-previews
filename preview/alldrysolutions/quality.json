@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "alldrysolutions",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://alldrysolutions.com/assets/images/60fb4d0b08570Attic_1_Before.jpg",
+      "assetType": "project",
+      "subject": "Gallery Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://alldrysolutions.com/assets/images/60fb4d23db391Moldy%20Crawl%20Space.jpg",
+      "assetType": "project",
+      "subject": "Gallery Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://alldrysolutions.com/assets/images/a1.jpg",
+      "assetType": "project",
+      "subject": "Gallery Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://alldrysolutions.com/assets/images/60fb4d3de56e2mold3.jpeg",
+      "assetType": "project",
+      "subject": "Gallery Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://alldrysolutions.com/assets/images/60fb4d46c1456mold2.jpeg",
+      "assetType": "project",
+      "subject": "Gallery Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://alldrysolutions.com/assets/images/a2.jpg",
+      "assetType": "project",
+      "subject": "Gallery Image",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

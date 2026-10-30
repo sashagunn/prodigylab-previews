@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "palmspringsclosetsandcabinetry",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/83ff507a/dms3rep/multi/opt/Palm+Springs+Closet+-+%2815%29-800h.jpg",
+      "assetType": "project",
+      "subject": "Spacious walk-in closet with wooden shelving, drawers, hanging rods, a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/83ff507a/dms3rep/multi/opt/Palm+Springs+Closet+-+%2897%29-800h.jpg",
+      "assetType": "project",
+      "subject": "Modern white kitchen with island, black pendant lights, dining chairs,",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/83ff507a/dms3rep/multi/opt/Palm+Springs+Closet+-+%283%29-800h.jpg",
+      "assetType": "project",
+      "subject": "White storage cabinets and a workbench in a garage, with a folded chai",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/83ff507a/dms3rep/multi/opt/Palm+Springs+Closet+-+%284%29-800h.jpg",
+      "assetType": "project",
+      "subject": "White storage cabinets with countertop, sink, and small appliances in ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/83ff507a/dms3rep/multi/opt/Palm+Springs+Closet+-+%285%29-800h.jpg",
+      "assetType": "project",
+      "subject": "Modern kitchen with white island, gray cabinets, mosaic backsplash, an",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/83ff507a/dms3rep/multi/opt/Palm+Springs+Closet+-+%286%29-800h.jpg",
+      "assetType": "project",
+      "subject": "Garage workbench with white cabinets, gray countertop, pegboard, and g",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
