@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "compaandoor",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://compaandoor.com/wp-content/uploads/2021/02/Murphy-Doors-scaled.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://compaandoor.com/wp-content/uploads/2023/10/Dybowski-After-1024x768-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://compaandoor.com/wp-content/uploads/2023/10/image.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://compaandoor.com/wp-content/uploads/2025/04/Garage-Door-Showroom-Compaan-Garage-Doors.jpg",
+      "assetType": "site",
+      "subject": "Garage Door Showroom Compaan Garage Doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://compaandoor.com/wp-content/uploads/2025/10/Raynor-Garage-Doors.png",
+      "assetType": "site",
+      "subject": "Distributor For Raynor Garage Doors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://compaandoor.com/wp-content/uploads/2023/10/20200124_123758-1024x768-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

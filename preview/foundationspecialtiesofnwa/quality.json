@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "foundationspecialtiesofnwa",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/574972_5d06f71ebf6443ffb1ff053fcc09d05d~mv2.webp/v1/fill/w_1440,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/574972_5d06f71ebf6443ffb1ff053fcc09d05d~mv2.webp",
+      "assetType": "site",
+      "subject": "Foundation Specialties of Northwest Arkansas | Foundation Repair | Bas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/574972_e34b036555b942b099616717207d2cbbf000.jpg/v1/fill/w_1400,h_900,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/574972_e34b036555b942b099616717207d2cbbf000.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/574972_c4d503a3a3ad4d609552dc242491ff32~mv2.png/v1/fill/w_1200,h_674,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screen%20Shot%202023-08-29%20at%203_12_17%20PM.png",
+      "assetType": "site",
+      "subject": "Foundation Specialties of Northwest Arkansas | Foundation Repair | Bas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/574972_4692e9c9f23645f19a2335a679d12e8d~mv2.png/v1/fill/w_902,h_518,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/FSLLC%20transparent.png",
+      "assetType": "site",
+      "subject": "Foundation Specialties of Northwest Arkansas | Basement Waterproofing ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/574972_01cd57a4a082489dbefe8ebeb43cd405~mv2.jpeg/v1/fit/w_720,h_540,q_90,enc_avif,quality_auto/574972_01cd57a4a082489dbefe8ebeb43cd405~mv2.jpeg",
+      "assetType": "site",
+      "subject": "Foundation Specialties of Northwest Arkansas | Foundation Repair | Bas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://static.wixstatic.com/media/574972_34f7ca31b3894ef2825fe6e086102d4f~mv2.jpeg/v1/fit/w_720,h_540,q_90,enc_avif,quality_auto/574972_34f7ca31b3894ef2825fe6e086102d4f~mv2.jpeg",
+      "assetType": "site",
+      "subject": "Foundation Specialties of Northwest Arkansas | Foundation Repair | Bas",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

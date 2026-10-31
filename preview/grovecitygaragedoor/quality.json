@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "grovecitygaragedoor",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://grovecitygaragedoor.com/wp-content/uploads/2019/04/cropped-clopay-flush-panel-black-garage-doors-smoot-project.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://i0.wp.com/grovecitygaragedoor.com/wp-content/uploads/2019/04/clopay-flush-panel-black-garage-doors-smoot-project.jpg?resize=1120%2C840&ssl=1",
+      "assetType": "site",
+      "subject": "Black modern flush garage door ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://i0.wp.com/grovecitygaragedoor.com/wp-content/uploads/2025/01/400402856_895085502383629_8849421559069481835_n.jpg?resize=2000%2C924&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://i0.wp.com/grovecitygaragedoor.com/wp-content/uploads/2025/01/400402856_895085502383629_8849421559069481835_n.jpg?w=2000&ssl=1",
+      "assetType": "site",
+      "subject": "black cross mid america garage door",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://i0.wp.com/grovecitygaragedoor.com/wp-content/uploads/2019/04/clopay-902-full-vision-glass-garage-door-with-aluminum.jpg?resize=1120%2C840&ssl=1",
+      "assetType": "site",
+      "subject": "Full view glass garage door ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://i0.wp.com/grovecitygaragedoor.com/wp-content/uploads/2019/04/cropped-2014_bia_parade_single_op_720x540.jpg?resize=1120%2C774&ssl=1",
+      "assetType": "site",
+      "subject": "White Coachman garage door ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

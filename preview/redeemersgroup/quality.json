@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "redeemersgroup",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "02.jpg": {
+      "sourceUrl": "https://www.redeemersgroup.com/core/images/templates/health/headers/waterproofing-silo-test.jpg",
+      "assetType": "project",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://cdn.treehouseinternetgroup.com/cdn-cgi/image/quality=95,format=auto/cms_images/218/reedeemer-mm-after-slide.jpg",
+      "assetType": "site",
+      "subject": "Before images of services",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://cdn.treehouseinternetgroup.com/cdn-cgi/image/quality=95,format=auto/cms_images/218/reedeemer-mm-before-slide.jpg",
+      "assetType": "site",
+      "subject": "Before images of services",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://cdn.treehouseinternetgroup.com/cms_images/218/Certified%20Evergreen.jpg",
+      "assetType": "site",
+      "subject": "Certified Evergreen",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.redeemersgroup.com/core/images/templates/health/headers/about-silo-test.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://cdn.treehouseinternetgroup.com/cms_images/218/2025%20Best%20Evergreen%20Companies.jpg",
+      "assetType": "site",
+      "subject": "Best Evergreen Company",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

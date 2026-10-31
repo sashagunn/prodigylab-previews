@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "ccacac",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.ccacac.com/wp-content/uploads/2020/04/Mathews-Corpus-Christi-1-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.ccacac.com/wp-content/uploads/2020/04/Mathews-Corpus-Christi-1-1-1400x700-c-default.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.ccacac.com/wp-content/uploads/2026/10/Corpus-Christi-Storm-Hero-1200x800-c-default.jpg",
+      "assetType": "site",
+      "subject": "storm season at the beach in corpus christi",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.ccacac.com/wp-content/uploads/2026/10/Electrical_Panel_1-1200x800-c-default.webp",
+      "assetType": "site",
+      "subject": "electrical panel being inspected",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.ccacac.com/wp-content/uploads/2026/10/Hydro_Jet_3-copy-1200x800-c-default.webp",
+      "assetType": "site",
+      "subject": "hydrojetting in action",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.ccacac.com/wp-content/uploads/2026/03/Mathews-CCAC-1546-1200x750-c-default.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "bestfencecincinnati",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://bestfencecincinnati.com/resources/photo-gallery/images/wood-fence-cincinnati-ohio-fence-company-01.webp",
+      "assetType": "project",
+      "subject": "Horizontal Semi-Privacy Wood Pool Fence for Residential Properties in ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://bestfencecincinnati.com/resources/photo-gallery/images/wood-fence-cincinnati-ohio-fence-company-06.webp",
+      "assetType": "project",
+      "subject": "Wood Picket Fence With Dog-Ear Pickets for Homes in Cincinnati Ohio",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://bestfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-ohio-fence-company-0924-52.webp",
+      "assetType": "project",
+      "subject": "Black 3-Rail Aluminum Fence With Single Gate for Backyards in Cincinna",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://bestfencecincinnati.com/resources/photo-gallery/images/aluminum-fence-cincinnati-ohio-fence-company-0924-80.webp",
+      "assetType": "project",
+      "subject": "Cincinnati OH Black 3-Rail Aluminum Fence for Residential or Commercia",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://bestfencecincinnati.com/resources/photo-gallery/images/vinyl-fence-cincinnati-ohio-fence-company-1.webp",
+      "assetType": "project",
+      "subject": "White Vinyl Picket Fence for Residential Properties in Cincinnati Ohio",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://bestfencecincinnati.com/resources/photo-gallery/images/vinyl-fence-cincinnati-ohio-fence-company-6.webp",
+      "assetType": "project",
+      "subject": "Cincinnati Ohio Residential White Full-Privacy Vinyl Fence With Swing ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

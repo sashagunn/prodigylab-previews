@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "slug": "logicoolairsolutions",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/4baf2a00/dms3rep/multi/opt/Home-page-2880w.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/4baf2a00/dms3rep/multi/opt/IMG_3110-23bbc83b-2880w.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/4baf2a00/dms3rep/multi/opt/Air+Conditioning+Repair+-+Service-1920w.jpeg",
+      "assetType": "site",
+      "subject": "Air Conditioning Maintenance Corpus Christi TX",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "bdbfoundationrepair",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://bdbfoundationrepair.com/wp-content/uploads/2024/10/bdb_foundationcrack-scaled.jpg",
+      "assetType": "site",
+      "subject": "Cracks appear in the foundation of a home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://bdbfoundationrepair.com/wp-content/uploads/2026/10/AaD443zq51jQyMMJnMphnw-AaD443zqmhm7_rVgYrLesg.jpg",
+      "assetType": "site",
+      "subject": "water Coming Through a Basement Wall Crack",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://bdbfoundationrepair.com/wp-content/uploads/2025/01/Untitled-design-36.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://bdbfoundationrepair.com/wp-content/uploads/2026/01/Basement-Waterproofing-Systems.jpg",
+      "assetType": "site",
+      "subject": "Basement waterproofing systems",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://bdbfoundationrepair.com/wp-content/uploads/2026/01/Basement-Waterproofing.jpg",
+      "assetType": "site",
+      "subject": "Basement Waterproofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://bdbfoundationrepair.com/wp-content/uploads/2026/01/Bowed-Wall-Repair.jpg",
+      "assetType": "site",
+      "subject": "Bowed wall repair service",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

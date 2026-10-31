@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "americanstructure",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://americanstructure.com/wp-content/uploads/2024/06/Bear-Claw-011-5a99b2ef4eb48-2000x1343-1.jpg",
+      "assetType": "project",
+      "subject": "Bear-Claw-011-5a99b2ef4eb48-2000x1343",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://americanstructure.com/wp-content/uploads/2024/06/Art-Mayflower-bear-claw-008-5a99b3ec834c2-2000x1500-1.jpg",
+      "assetType": "project",
+      "subject": "Art-Mayflower-bear-claw-008-5a99b3ec834c2-2000x1500",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://americanstructure.com/wp-content/uploads/2024/06/Art-Mayflower-bear-claw-009-5a99b3f894120-2000x1500-1.jpg",
+      "assetType": "project",
+      "subject": "Art-Mayflower-bear-claw-009-5a99b3f894120-2000x1500",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://americanstructure.com/wp-content/uploads/2024/06/Art-Mayflower-bear-claw-038-5a99b2ca4c965-2000x1500-1.jpg",
+      "assetType": "project",
+      "subject": "Art-Mayflower-bear-claw-038-5a99b2ca4c965-2000x1500",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://americanstructure.com/wp-content/uploads/2024/06/ASI-USB-PICS-011-5a99b2d2ee494-2000x1500-1.jpg",
+      "assetType": "project",
+      "subject": "ASI-USB-PICS-011-5a99b2d2ee494-2000x1500",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://americanstructure.com/wp-content/uploads/2024/06/ASI-USB-PICS-012-5a99b2d958251-2000x1500-1.jpg",
+      "assetType": "project",
+      "subject": "ASI-USB-PICS-012-5a99b2d958251-2000x1500",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

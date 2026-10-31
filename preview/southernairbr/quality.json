@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "southernairbr",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.southernairbr.com/wp-content/uploads/2026/02/97774587_l-scaled-11.jpg",
+      "assetType": "site",
+      "subject": "Interior view of a gas furnace showing the heat exchanger, blower moto",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.southernairbr.com/wp-content/uploads/2026/02/preparing-for-cold-weather.jpg",
+      "assetType": "site",
+      "subject": "Young girl wearing a white knit beanie with pom pom, pink jacket, and ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.southernairbr.com/wp-content/uploads/2026/02/Home-Furnace-Burner-Blower-resizedblog-2.jpg",
+      "assetType": "site",
+      "subject": "Close-up view of a furnace burner blower with bright blue flame igniti",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.southernairbr.com/wp-content/uploads/2026/01/Southern-Air-service-header-bg.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.southernairbr.com/wp-content/uploads/2026/09/SouthernAir-hero-bg.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

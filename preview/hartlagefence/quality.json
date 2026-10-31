@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "hartlagefence",
+  "niche": "fence",
+  "goal": "Compare actual fence options and describe the project",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://hartlagefence.com/company/about-us/images/history-of-hartlage-fence-1958-intro.jpg",
+      "assetType": "site",
+      "subject": "Hartlage Fence Company founded in 1958 as Amco Fence Co by Sid Hartlag",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://hartlagefence.com/company/about-us/images/chain-link-fence-grant-county-ky-fence-company-060126-01.webp",
+      "assetType": "site",
+      "subject": "Chain link fence enclosing a baseball field backstop and dugout area a",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://hartlagefence.com/company/about-us/images/chain-link-fence-grant-county-ky-fence-company-060126-03.webp",
+      "assetType": "site",
+      "subject": "Chain link fence corner post and walk gate with yellow safety top rail",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://hartlagefence.com/company/about-us/images/chain-link-fence-grant-county-ky-fence-company-060126-05.webp",
+      "assetType": "site",
+      "subject": "Long run of chain link outfield fence with yellow safety top rail and ",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://hartlagefence.com/company/about-us/images/chain-link-fence-grant-county-ky-fence-company-060126-06.webp",
+      "assetType": "site",
+      "subject": "Chain link fence enclosing a covered dugout and connecting to the padd",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://hartlagefence.com/company/about-us/images/chain-link-fence-grant-county-ky-fence-company-060126-08.webp",
+      "assetType": "site",
+      "subject": "Chain link fence weave and yellow padded top rail curving along a base",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

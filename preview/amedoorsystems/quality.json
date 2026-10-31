@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "amedoorsystems",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.amedoorsystems.com/assets/img/projects/archive/20190610-101640.jpg",
+      "assetType": "project",
+      "subject": "AME project photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.amedoorsystems.com/assets/img/projects/archive/20190619-141223.jpg",
+      "assetType": "project",
+      "subject": "AME project photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.amedoorsystems.com/assets/img/projects/archive/20190629-134253.jpg",
+      "assetType": "project",
+      "subject": "AME project photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.amedoorsystems.com/assets/img/projects/archive/20190819-092752.jpg",
+      "assetType": "project",
+      "subject": "AME project photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.amedoorsystems.com/assets/img/projects/archive/20190819-092809.jpg",
+      "assetType": "project",
+      "subject": "AME project photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.amedoorsystems.com/assets/img/projects/archive/20190822-174602.jpg",
+      "assetType": "project",
+      "subject": "AME project photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "crawfordgaragedoor",
+  "niche": "garage",
+  "goal": "Separate urgent repair and planned installation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://crawfordgaragedoor.com/wp-content/uploads/2024/05/shape-1.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://crawfordgaragedoor.com/wp-content/uploads/2024/05/shape-10.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://crawfordgaragedoor.com/wp-content/uploads/2024/06/crawford-garage-door-northeast-ohio-cleveland-brunswick-installation-2.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://crawfordgaragedoor.com/wp-content/uploads/2024/06/crawford-garage-door-northeast-ohio-cleveland-brunswick-installation.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://crawfordgaragedoor.com/wp-content/uploads/2024/06/crawford-garage-door-northeast-ohio-cleveland-brunswick-repair.jpeg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://crawfordgaragedoor.com/wp-content/uploads/2024/05/banner-1.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

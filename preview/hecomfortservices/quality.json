@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "hecomfortservices",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://www.hecomfortservices.com/wp-content/uploads/2025/08/Heating-Service-Card.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.hecomfortservices.com/wp-content/uploads/yootheme/cache/6f/HE_ATF_09-28-2026-2-scaled-6f0dc74a.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.hecomfortservices.com/wp-content/uploads/yootheme/cache/9f/NEL09830-1-scaled-9f1f51c9.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.hecomfortservices.com/wp-content/uploads/yootheme/cache/77/Bridge-Image-77bf740c.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://www.hecomfortservices.com/wp-content/uploads/2025/01/AC-Service-IMG.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "08.jpg": {
+      "sourceUrl": "https://www.hecomfortservices.com/wp-content/uploads/2025/01/Electric-Service-IMG.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

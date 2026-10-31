@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "piermagic",
+  "niche": "foundation",
+  "goal": "Describe observed symptoms without diagnosis",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://piermagic.com/wp-content/uploads/2024/06/crawlspace.jpg",
+      "assetType": "site",
+      "subject": "Encapsulated Crawl Space with a Sealed Vapor Barrier to Control Moistu",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://piermagic.com/wp-content/uploads/2024/06/warehouse-2048x1229.jpeg",
+      "assetType": "site",
+      "subject": "Commercial Warehouse with Pallet Racking and Stored Inventory, Highlig",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://piermagic.com/wp-content/uploads/2025/01/Spring.jpeg",
+      "assetType": "site",
+      "subject": "| Piermagic®",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://piermagic.com/wp-content/uploads/2026/05/IMG_5924-2048x1365.jpg",
+      "assetType": "site",
+      "subject": "| Piermagic®",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://piermagic.com/wp-content/uploads/2026/05/IMG_5941-scaled-e1778096627607.jpg",
+      "assetType": "site",
+      "subject": "| Piermagic®",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://piermagic.com/wp-content/uploads/2026/05/IMG_6012-scaled.jpg",
+      "assetType": "site",
+      "subject": "| Piermagic®",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "palmdesertcabinets",
+  "niche": "storage",
+  "goal": "Choose space and what must fit",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/53b5be0892c44e90b36d7e1c5165e361/dms3rep/multi/opt/GettyImages-1131849666-2bae5085-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com//53b5be0892c44e90b36d7e1c5165e361/dms3rep/multi/opt/GettyImages-1097713042-2880w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/53b5be0892c44e90b36d7e1c5165e361/dms3rep/multi/opt/GettyImages-1097713042-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/53b5be0892c44e90b36d7e1c5165e361/dms3rep/multi/opt/GettyImages-118299182-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

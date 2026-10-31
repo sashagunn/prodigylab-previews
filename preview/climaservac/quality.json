@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "climaservac",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://climaservac.com/wp-content/uploads/2024/04/Untitled-1-2.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://climaservac.com/wp-content/uploads/2026/02/summer-heat.webp",
+      "assetType": "site",
+      "subject": "ClimaServ technician servicing Daikin and Carrier furnace during summe",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://climaservac.com/wp-content/uploads/2026/03/ac-condenser.webp",
+      "assetType": "site",
+      "subject": "AC Repair in Shenandoah, LA",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://climaservac.com/wp-content/uploads/2024/04/Ai-Quality-hero.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://climaservac.com/wp-content/uploads/2024/04/Air-Conditioning-hero.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://climaservac.com/wp-content/uploads/2024/04/Furnaces_hero.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
