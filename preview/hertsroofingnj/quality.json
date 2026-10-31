@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "hertsroofingnj",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://hertsroofingnj.com/wp-content/uploads/2026/02/down-net_http20250130-89-2qogdq-scaled_result.webp",
+      "assetType": "site",
+      "subject": "Roofing Replacement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://hertsroofingnj.com/wp-content/uploads/2026/03/down-net_http20260304-180-e8hseg_result-scaled.webp",
+      "assetType": "site",
+      "subject": "Westfield NJ Roof replacement",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://hertsroofingnj.com/wp-content/uploads/2026/03/down-net_http20260304-329-pse563_result-1536x1152.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://projects.hertsroofingnj.com/photos/9ba38780-ebb8-4f94-9435-287deb69061d/3321773466.jpg",
+      "assetType": "site",
+      "subject": "deck construction project — after photo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://projects.hertsroofingnj.com/photos/a4e1e42e-663f-4172-a34c-2c0230e73de4/3117882519.jpg",
+      "assetType": "site",
+      "subject": "project photo — during",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://hertsroofingnj.com/wp-content/uploads/2026/02/down-net_http20251022-165-w4e5y2_result-1024x768.webp",
+      "assetType": "site",
+      "subject": "Flat roof replacement completed by Herts Roofing",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
