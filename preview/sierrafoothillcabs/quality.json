@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "slug": "sierrafoothillcabs",
+  "niche": "kitchen",
+  "goal": "Choose materials and scope before consultation",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d881e086406bb502c9896b4/4195c68a-7dc4-4588-ae4c-96a841769123/5H5A0775.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d881e086406bb502c9896b4/84777b11-14d2-4c55-b6d6-e61f12ac59cd/5H5A0754.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d881e086406bb502c9896b4/b8afc4a0-cbe6-4fbf-b8e2-0adb23a97877/5H5A0820.jpg?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d881e086406bb502c9896b4/d419f52f-19c6-42d1-bf2c-f54296c5d3ad/Custom+Cabinets+Reno+Nevada.png?format=1500w",
+      "assetType": "site",
+      "subject": "Sierra Foothill Cabinets",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d881e086406bb502c9896b4/d419f52f-19c6-42d1-bf2c-f54296c5d3ad/Custom+Cabinets+Reno+Nevada.png?format=2500w",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

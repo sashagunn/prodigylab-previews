@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "wearethomas",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://wearethomas.com/wp-content/uploads/2025/09/van-left.2311200853192-2-1-scaled.png",
+      "assetType": "site",
+      "subject": "van-left.2311200853192 (2) (1)",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://www.wearethomas.com/wp-content/uploads/2025/09/Contact-bg.2404091457279.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://www.wearethomas.com/wp-content/uploads/2025/09/Contact-Page-bg.2404151610143.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://www.wearethomas.com/wp-content/uploads/2025/09/Contact-V2-bg.2404171231564.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://www.wearethomas.com/wp-content/uploads/2025/09/Panel-group-v1-bg.2404151433450.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://www.wearethomas.com/wp-content/uploads/2025/09/Mainstage-bg.2404081716452.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

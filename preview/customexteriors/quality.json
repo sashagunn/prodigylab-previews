@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "customexteriors",
+  "niche": "windows",
+  "goal": "Count openings and describe replacement needs",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://customexteriors.com/wp-content/uploads/2026/02/bae59998-749d-4f5d-8c28-cb2926d6debf.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://customexteriors.com/wp-content/uploads/2026/02/Bailey-after-3-2-scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://customexteriors.com/wp-content/uploads/2026/02/Decks.webp",
+      "assetType": "site",
+      "subject": "Decks",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://customexteriors.com/wp-content/uploads/2026/02/doors.webp",
+      "assetType": "site",
+      "subject": "Energy efficient entry door replaced by Custom Exteriors",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://customexteriors.com/wp-content/uploads/2026/02/Gallant-After-scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://customexteriors.com/wp-content/uploads/2026/02/IMG_3608-scaled.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

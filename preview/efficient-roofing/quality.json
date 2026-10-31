@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "efficient-roofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://efficient-roofing.com/airo-assets/images/pages/gallery/project-1",
+      "assetType": "project",
+      "subject": "Full Shingle Replacement — Buffalo",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://efficient-roofing.com/airo-assets/images/pages/gallery/project-2",
+      "assetType": "project",
+      "subject": "Wind Damage Repair — Amherst",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://efficient-roofing.com/airo-assets/images/pages/gallery/project-3",
+      "assetType": "project",
+      "subject": "Flat Roof Restoration — Cheektowaga",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://efficient-roofing.com/airo-assets/images/pages/gallery/project-4",
+      "assetType": "project",
+      "subject": "Seamless Gutter Installation — Williamsville",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://efficient-roofing.com/airo-assets/images/pages/gallery/project-5",
+      "assetType": "project",
+      "subject": "Pre-Sale Roof Inspection — Orchard Park",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://efficient-roofing.com/airo-assets/images/pages/gallery/project-6",
+      "assetType": "project",
+      "subject": "New Roof — West Seneca",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "monarchroofingct",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://i0.wp.com/monarchroofingct.com/wp-content/uploads/2026/01/Monarch-Roofing-CT-Skylights-and-Sun-Tunnels.jpg?fit=2160%2C1620&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://i0.wp.com/monarchroofingct.com/wp-content/uploads/2026/01/Roof-Replacement-Roof-Repair-Banner-1-scaled.jpg?fit=2560%2C1920&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://i0.wp.com/monarchroofingct.com/wp-content/uploads/2026/01/Roof-Replacement-Roof-Repair-Banner-2.jpg?fit=2160%2C1350&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://i0.wp.com/monarchroofingct.com/wp-content/uploads/2026/01/Roof-Replacement-Roof-Repair-Banner-3-scaled.jpg?fit=2560%2C1920&ssl=1",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://i0.wp.com/monarchroofingct.com/wp-content/uploads/2026/10/Roofing-Contractor-in-Connecticut.webp?fit=2560%2C1920&ssl=1",
+      "assetType": "site",
+      "subject": "Roofing Contractor in Connecticut",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://i0.wp.com/monarchroofingct.com/wp-content/uploads/2026/10/Roofing-Services-in-Connecticut.webp?w=2560&ssl=1",
+      "assetType": "site",
+      "subject": "Roofing Services in Connecticut",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

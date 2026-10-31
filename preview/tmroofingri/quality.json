@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "slug": "tmroofingri",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://tmroofingri.com/wp-content/uploads/2023/09/Roof-Replacement-Banner-Image.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://tmroofingri.com/wp-content/uploads/2026/05/Untitled-design-31.webp",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://tmroofingri.com/wp-content/uploads/2026/05/Untitled-design-32.webp",
+      "assetType": "site",
+      "subject": "Architectural shingle roof installed in Rhode Island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "05.jpg": {
+      "sourceUrl": "https://tmroofingri.com/wp-content/uploads/2026/05/Untitled-design-33.webp",
+      "assetType": "site",
+      "subject": "Completed roof replacement on Rhode Island home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "06.jpg": {
+      "sourceUrl": "https://tmroofingri.com/wp-content/uploads/2026/05/Untitled-design-36.jpg",
+      "assetType": "site",
+      "subject": "Clogged gutter cleaned by TM Roofing Rhode Island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "07.jpg": {
+      "sourceUrl": "https://tmroofingri.com/wp-content/uploads/2026/04/satisfaction-guaranteed-png-768x768-2.png",
+      "assetType": "site",
+      "subject": "Satisfaction guaranteed roofing Rhode Island",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

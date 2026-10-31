@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "rightwayms",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/1814aae3/dms3rep/multi/opt/Keesler-Federal-Park_54_990x660-1275w.webp",
+      "assetType": "site",
+      "subject": "Mississippi Gulf Coast service area map",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/1814aae3/dms3rep/multi/opt/1780587532050-16_9-XdG-2880w.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/1814aae3/dms3rep/multi/opt/93d5950c-5ee2-410c-b353-4b0e22092234-1298w.png",
+      "assetType": "site",
+      "subject": "Justin Legg, Owner of RightWay Heating & Air",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/1814aae3/dms3rep/multi/opt/93d5950c-5ee2-410c-b353-4b0e22092234-1920w.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

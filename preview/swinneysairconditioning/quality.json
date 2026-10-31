@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "swinneysairconditioning",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/images/rotator/trane-home-hvac-rotator.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/uploads/0030045DEA003043/images/ab-air-mitsubishi-rotator.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/uploads/0030045DEA003043/images/trane-rotator.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://storage.googleapis.com/sos-websvc/images/rotator/slider-house.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

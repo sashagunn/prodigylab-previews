@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "acrairandheat",
+  "niche": "hvac",
+  "goal": "Separate repair, replacement and maintenance",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://irp.cdn-website.com/438f25d8/dms3rep/multi/opt/air-conditioning-technician-preparing-air-conditioner-2880w.jpg?jxl&v=jxl",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/438f25d8/dms3rep/multi/opt/AC-Units-During-Spring-2048x1536-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/438f25d8/dms3rep/multi/opt/rest-relax-study-home-glad-young-black-curly-woman-reading-book-lying-sofa-enjoy-spare-69687db5-1920w.png",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://lirp.cdn-website.com/438f25d8/dms3rep/multi/opt/silver-ventilation-pipes-hanging-from-ceiling-inside-building-1920w.jpg",
+      "assetType": "site",
+      "subject": "",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}

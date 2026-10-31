@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "slug": "ironworksroofing",
+  "niche": "roof",
+  "goal": "Separate active leak from planned work",
+  "photos": {
+    "01.jpg": {
+      "sourceUrl": "https://ironworksroofing.com/photos/hero-home.png",
+      "assetType": "site",
+      "subject": "Buffalo home with new dark shingle roof at golden hour",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "02.jpg": {
+      "sourceUrl": "https://ironworksroofing.com/photos/commercial.png",
+      "assetType": "site",
+      "subject": "Commercial flat roof with HVAC units on a Buffalo office building",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "03.jpg": {
+      "sourceUrl": "https://ironworksroofing.com/photos/residential.png",
+      "assetType": "site",
+      "subject": "Beautifully finished residential roof on a Western New York home",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    },
+    "04.jpg": {
+      "sourceUrl": "https://ironworksroofing.com/photos/map-wny.png",
+      "assetType": "site",
+      "subject": "Map of Buffalo and Western New York service area",
+      "desktopPosition": "50% 50%",
+      "mobilePosition": "50% 50%"
+    }
+  }
+}
